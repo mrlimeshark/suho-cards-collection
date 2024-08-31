@@ -143,8 +143,8 @@
 		{/if}
 
 
-		<h2 id="⚓-common">
-			<a href="#⚓-common">
+		<h2 id="⚓-ordinary">
+			<a href="#⚓-ordinary">
 				Ordinary Cards
 			</a>
 		</h2>
@@ -172,8 +172,8 @@
 		</CardList>
 
 
-		<h2 id="⚓-holo">
-			<a href="#⚓-holo">
+		<h2 id="⚓-unordinary">
+			<a href="#⚓-unordinary">
 				Unordinary Cards
 			</a>
 		</h2>
@@ -203,8 +203,8 @@
 			{/if}
 		</CardList>
 
-		<h2 id="⚓-galaxy">
-			<a href="#⚓-galaxy">
+		<h2 id="⚓-rare">
+			<a href="#⚓-rare">
 				Rare Cards
 			</a>
 		</h2>
@@ -236,8 +236,8 @@
 		</CardList>
 
 
-		<h2 id="⚓-radiant">
-			<a href="#⚓-radiant">
+		<h2 id="⚓-special">
+			<a href="#⚓-special">
 				Special Cards
 			</a>
 		</h2>
@@ -269,8 +269,8 @@
 
 
 
-		<h2 id="⚓-v">
-			<a href="#⚓-v">
+		<h2 id="⚓-extraordinary">
+			<a href="#⚓-extraordinary">
 				Extraordinary Cards
 			</a>
 		</h2>
@@ -301,8 +301,8 @@
 		</CardList>
 
 
-		<h2 id="⚓-secret-rare">
-			<a href="#⚓-secret-rare">
+		<h2 id="⚓-priceless">
+			<a href="#⚓-priceless">
 				Priceless Cards <sup>(Event Cards)</sup>
 			</a>
 		</h2>
@@ -334,8 +334,8 @@
 		</CardList>
 
 
-		<h2 id="⚓-shiny-vault">
-			<a href="#⚓-shiny-vault">
+		<h2 id="⚓-altair">
+			<a href="#⚓-altair">
 				Altair Cards <sup>(Event Cards)</sup>
 			</a>
 		</h2>

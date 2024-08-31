@@ -4,9 +4,9 @@
 
 */
 
-.card[data-rarity="rare holo cosmos"][data-subtypes^="stage"] .card__shine,
-.card[data-rarity="rare holo cosmos"][data-subtypes^="stage"] .card__glare:after {
-  clip-path: var(--clip-stage);
+.card[data-rarity="rare holo cosmos"] .card__shine,
+.card[data-rarity="rare holo cosmos"] .card__glare:after {
+  clip-path: var(--clip-border);
 }
 .card[data-rarity="rare holo cosmos"][data-subtypes^="supporter"] .card__shine,
 .card[data-rarity="rare holo cosmos"][data-subtypes^="supporter"] .card__glare:after {
@@ -28,7 +28,7 @@
 
   --space: 4%;
 
-  /*clip-path: var(--clip);*/
+  clip-path: var(--clip-border);
 
   background-image: 
     url("/img/cosmos-bottom.png"), 
@@ -167,11 +167,11 @@
   background-image: 
     radial-gradient( 
       farthest-corner circle at var(--pointer-x) var(--pointer-y), 
-      hsla(204, 100%, 95%, 0.8) 5%, 
-      hsla(250, 15%, 20%, 1) 150% 
+      hsla(204, 100%, 95%, 0.8) 5%, /*204, 100%, 95%, 0.8, 5% */
+      rgba(46, 43, 59, 0.756) 150% /* 250, 15%, 20%, 1, 150% */
     );
   filter: brightness(.85) contrast(2) saturate(2);
-  mix-blend-mode: overlay;
+  mix-blend-mode: soft-light; /* overlay */
   opacity: calc( var(--card-opacity) * ( 0.25 + var(--pointer-from-center) ) );
     
 }
@@ -187,7 +187,7 @@
       hsl(0, 0%, 10%) 60%
     );
 
-  filter: brightness(.85) contrast(2.3) saturate(2);
+  filter: brightness(.55) contrast(2.3) saturate(2);
   mix-blend-mode: soft-light;
   opacity: calc( 1 - var(--pointer-from-top) * .75 );
 

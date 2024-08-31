@@ -312,13 +312,13 @@ Shine & Glare Effects
 
 **/
 
-/**
+
 .card.masked .card__shine,
 .card.masked .card__shine:before,
 .card.masked .card__shine:after {
 
   /** masking image for cards which are masked **/
-  /**
+  
   -webkit-mask-image: var(--mask);
   mask-image: var(--mask);
 	-webkit-mask-size: cover;
@@ -345,4 +345,3 @@ Shine & Glare Effects
 .card[data-rarity$="reverse holo"][data-supertype="trainer"] .card__glare:after {
   clip-path: var(--clip-trainer);
 }
-**/

@@ -47,7 +47,7 @@
     "group": "EXO-CBX",
     "types": ["Fairy"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014643/uchen_lpnay8.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014643/ucbcn_unordinary_chen.png"
   },
 {
     "id": "ucbxm",
@@ -936,7 +936,7 @@
     "name": "Suho",
     "group": "EXO",
     "types": ["Fairy"],
-    "rarity": "Rare Holo VSTAR",
+    "rarity": "Amazing Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725020024/bunsuho_altair_suho.png"
   },
 {
@@ -946,7 +946,7 @@
     "name": "Suho",
     "group": "EXO",
     "types": ["Fire"],
-    "rarity": "Amazing Rare",
+    "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725020010/castlesuho_altair_suho.png"
   },
 {
