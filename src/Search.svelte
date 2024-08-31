@@ -17,7 +17,6 @@
 
   //=======
   let isJsonFine = true;
-  let jsonTest = "initialString";
   let isCaught = false;
   //=======
 

@@ -4,15 +4,17 @@
 	import Search from "./Search.svelte";
 	import CardList from "./Cards.svelte";
 	import Card from "./lib/components/CardProxy.svelte";
-	
+	import latestShowcase from "./latestCards.json";
 
 	let showcase, ordinary, unordinary, rare, special, 
-			extraordinary, priceless, altair;
+			extraordinary, priceless, altair, latest;
 
 	let query = "";
 	let isLoading = true;
 
-	
+	//Set this to 'true' when there is an update.
+	let isLatestShowcase = false;
+
 
 	const getCards = async () => {
 		let promiseArray = [];
@@ -22,6 +24,7 @@
 	};
 
 	const loadCards = async() => {
+		latest = latestShowcase;
 		return getCards()
 			.then((cards) => {
 				window.cards = cards;
@@ -65,7 +68,7 @@
 				An <mark>unofficial card collection</mark>
 				for the Discord bot <a href="https://top.gg/bot/1120361339253162004">SUHO</a>.
 				The cards use <mark>3D transforms</mark>, <mark>filters</mark>, <mark>blend modes</mark>, <mark>css gradients</mark> and interactions to provide a unique experience when taking a closer look! <br/> <br/>
-				<mark>Firefox browser</mark> is recommended for the bext experience.<br/><br/>
+				<mark>Firefox browser</mark> is recommended for the best experience.<br/><br/>
 				Shoutout to <a href="https://github.com/simeydotme/pokemon-cards-css"> simeydotme</a> for the amazing repository :3
 			</p>
 		</section>
@@ -105,6 +108,40 @@
 	<Search bind:query />
 
 	{#if query.length < 3}
+
+		{#if isLatestShowcase}
+			<h2 id="⚓-latest">
+				<a href="⚓-latest">
+					~Latest Update~
+				</a>
+			</h2>
+			<p>
+				AAAAA event is happening until <mark>00th December midnight UTC</mark> (00th December midnight KST) !
+				 <br/> <br/>
+				 NEWEST ENTRY: <strong>Priceless</strong> aaaaa, <strong>Priceless</strong> bbbbb, <strong>Priceless</strong>  ccccc,
+				 <strong>Priceless</strong>  ddddd, <strong>Priceless</strong>  eeeee, <strong>Priceless</strong> fffff
+			</p>
+			<h3>Good luck dropping!</h3>
+
+			<CardList>
+				{#if isLoading}
+					loading...
+				{:else}
+					{#each latest as card, index}
+						<Card
+							id={card.id}
+							name={card.name}
+							img={card.card_img}
+							number={card.number}
+							types={card.types}
+							supertype={card.supertype}
+							subtypes={card.subtypes}
+						/>
+					{/each}
+				{/if}
+			</CardList>
+		{/if}
+
 
 		<h2 id="⚓-common">
 			<a href="#⚓-common">

@@ -164,7 +164,7 @@
     "cardRarity": "Extraordinary",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Metal"],
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015604/esmbh_extraordinary_baekhyun.png"
@@ -174,7 +174,7 @@
     "cardRarity": "Extraordinary",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Fighting"],
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015685/esmka_extraordinary_kai.png"
@@ -184,7 +184,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Metal"],
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015755/osmbh_ordinary_baekhyun.png"
@@ -194,17 +194,17 @@
     "cardRarity": "Ordinary",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Metal"],
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015818/osmka_ordinary_kai.png"
   },
-{
+  {
     "id": "rsmbh",
     "cardRarity": "Rare",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Water"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015879/rsmbh_rare_baekhyun.png"
@@ -214,7 +214,7 @@
     "cardRarity": "Rare",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Fighting"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018291/rsmka_rare_kai.png"
@@ -224,7 +224,7 @@
     "cardRarity": "Special",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018368/ssmbh_special_baekhyun.png"
@@ -234,7 +234,7 @@
     "cardRarity": "Special",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018429/ssmka_special_kai.png"
@@ -244,7 +244,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Water"],
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018486/usmbh_unordinary_baekhyun.png"
@@ -254,12 +254,12 @@
     "cardRarity": "Unordinary",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": ["Metal"],
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018503/usmka_unordinary_kai.png"
   },
-{
+  {
     "id": "psesu",
     "cardRarity": "Priceless",
     "cardGroup": "Stardust Event",
