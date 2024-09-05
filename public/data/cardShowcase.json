@@ -5,7 +5,6 @@
     "cardGroup": "Aphrodite",
     "name": "Baekhyun",
     "group": "EXO",
-    "subtypes": ["Single Strike"],
     "types": ["Metal"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724867582/paqbh.png"
@@ -16,7 +15,6 @@
     "cardGroup": "EXO",
     "name": "Lay",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Fire"],
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725057041/oexla_ordinary_exo_lay.png",
@@ -28,7 +26,6 @@
     "cardGroup": "EXO",
     "name": "Kai",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Fire"],
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725057036/oexka_ordinary_exo_kai.png"
@@ -39,7 +36,6 @@
     "cardGroup": "EXO",
     "name": "Sehun",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Fire"],
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725057045/oexsh_ordinary_exo_sehun.png"
@@ -50,7 +46,6 @@
     "cardGroup": "EXO",
     "name": "Chen",
     "group": "EXO",
-    "subtypes": ["VMAX"],
     "types": ["Lightning"],
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725060678/uexcn_unordinary_exo_chen.png"
@@ -61,7 +56,6 @@
     "cardGroup": "EXO",
     "name": "Baekhyun",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Lightning"],
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725060672/uexbh_unordinary_exo_baekhyun.png"
@@ -72,7 +66,6 @@
     "cardGroup": "EXO",
     "name": "Xiumin",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Lightning"],
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725061107/uexxm_unordinary_exo_xiumin.png"
@@ -83,7 +76,6 @@
     "cardGroup": "EXO",
     "name": "Chanyeol",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Darkness"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725057588/r2excy_rare_exo_chanyeol.png"
@@ -94,7 +86,6 @@
     "cardGroup": "EXO",
     "name": "Xiumin",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Fire"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725058167/r2exxm_rare_exo_xiumin.png"
@@ -105,7 +96,6 @@
     "cardGroup": "EXO",
     "name": "D.O.",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Dragon"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725058187/rexdo_rare_exo_do.png"
@@ -116,7 +106,6 @@
     "cardGroup": "EXO",
     "name": "Baekhyun",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Metal"],
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725058222/s2eobh_special_exo_baekhyun.png"
@@ -127,7 +116,6 @@
     "cardGroup": "EXO",
     "name": "D.O.",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Metal"],
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725058908/s2eodo_special_exo_do.png"
@@ -138,7 +126,6 @@
     "cardGroup": "EXO",
     "name": "Kai",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725059607/seoka_special_exo_kai.png"
@@ -149,7 +136,6 @@
     "cardGroup": "EXO",
     "name": "Sehun",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Water"],
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724977782/e2exsh_extraordinary_exo_sehun.png"
@@ -160,7 +146,6 @@
     "cardGroup": "EXO",
     "name": "Chanyeol",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Fire"],
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724977870/e2excy_extraordinary_exo_chanyeol.png"
@@ -171,7 +156,6 @@
     "cardGroup": "EXO",
     "name": "Suho",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Fairy"],
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724977950/e2exsu_extraordinary_exo_suho.png"
@@ -182,7 +166,6 @@
     "cardGroup": "EXO",
     "name": "Suho",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Darkness"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724978032/psesu_priceless_suho.png"
@@ -193,7 +176,6 @@
     "cardGroup": "EXO",
     "name": "Sehun",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Psychic"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724978242/cdyshn_priceless_sehun.png"
@@ -204,7 +186,6 @@
     "cardGroup": "EXO",
     "name": "Lay",
     "group": "EXO",
-    "subtypes": ["Basic"],
     "types": ["Darkness"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724978346/psela_priceless_lay.png"
@@ -215,7 +196,6 @@
     "cardGroup": "EXO",
     "name": "Chen",
     "group": "EXO",
-    "subtypes": ["VMAX"],
     "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724978425/anexch_altair_chen.png"
@@ -226,7 +206,6 @@
     "cardGroup": "EXO",
     "name": "Suho",
     "group": "EXO",
-    "subtypes": ["VMAX"],
     "types": ["Psychic"],
     "rarity": "Amazing Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724999594/starsuho_altair_suho.png"
@@ -237,7 +216,6 @@
     "cardGroup": "EXO",
     "name": "Xiumin",
     "group": "EXO",
-    "subtypes": ["VMAX"],
     "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724978506/12yrsxm_altair_xiumin.png"

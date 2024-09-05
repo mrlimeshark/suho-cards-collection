@@ -13,7 +13,7 @@
 	let isLoading = true;
 
 	//Set this to 'true' when there is an update.
-	let isLatestShowcase = false;
+	let isLatestShowcase = true;
 
 
 	const getCards = async () => {
@@ -82,8 +82,6 @@
 				img={showcase.card_img}
 				name={showcase.name}
 				types={showcase.types}
-				supertype={showcase.supertype}
-				subtypes={showcase.subtypes}
 				rarity={showcase.rarity}
 				isReverse={showcase.isReverse}
 				showcase={true}
@@ -129,13 +127,13 @@
 				{:else}
 					{#each latest as card, index}
 						<Card
-							id={card.id}
-							name={card.name}
-							img={card.card_img}
-							number={card.number}
-							types={card.types}
-							supertype={card.supertype}
-							subtypes={card.subtypes}
+						id={card.id}
+						name={card.name}
+						img={card.card_img}
+						types={card.types}
+						rarity={card.rarity}
+						mask={card.mask}
+						foil={card.foil}
 						/>
 					{/each}
 				{/if}
@@ -162,10 +160,7 @@
 						id={card.id}
 						name={card.name}
 						img={card.card_img}
-						number={card.number}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 					/>
 				{/each}
 			{/if}
@@ -192,11 +187,7 @@
 						id={card.id}
 						img={card.card_img}
 						name={card.name}
-						number={card.number}
-						set={card.set}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 						rarity={card.rarity}
 					/>
 				{/each}
@@ -224,11 +215,7 @@
 						id={card.id}
 						img={card.card_img}
 						name={card.name}
-						number={card.number}
-						set={card.set}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 						rarity={card.rarity}
 					/>
 				{/each}
@@ -256,11 +243,7 @@
 						id={card.id}
 						img={card.card_img}
 						name={card.name}
-						number={card.number}
-						set={card.set}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 						rarity={card.rarity}
 					/>
 				{/each}
@@ -289,11 +272,7 @@
 						id={card.id}
 						img={card.card_img}
 						name={card.name}
-						number={card.number}
-						set={card.set}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 						rarity={card.rarity}
 					/>
 				{/each}
@@ -322,11 +301,7 @@
 						id={card.id}
 						img={card.card_img}
 						name={card.name}
-						number={card.number}
-						set={card.set}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 						rarity={card.rarity}
 					/>
 				{/each}
@@ -355,11 +330,7 @@
 						id={card.id}
 						img={card.card_img}
 						name={card.name}
-						number={card.number}
-						set={card.set}
 						types={card.types}
-						supertype={card.supertype}
-						subtypes={card.subtypes}
 						rarity={card.rarity}
 					/>
 				{/each}

@@ -22,7 +22,7 @@
     var(--glitter), 
     radial-gradient( 
       farthest-corner circle at var(--pointer-x) var(--pointer-y), 
-      hsla(150, 20%, 10%, 1) 10%, 
+      hsla(150, 20%, 10%, 1) 10%, /* 150, 20%, 10%, 1, 10% */
       hsla(177, 22%, 80%, 0.1) 50%, 
       hsla(0, 0%, 95%, .98) 90% 
     );
@@ -30,7 +30,7 @@
   background-size: var(--glittersize) var(--glittersize), var(--glittersize) var(--glittersize), cover;
   background-position: 40% 45%, 55% 55%, center center;
   background-blend-mode: soft-light, color-burn;
-  filter: brightness(1) contrast(1) saturate(.9);
+  filter: brightness(1) contrast(1) saturate(0.9); /* 1, 1, 0.9 */
 
 }
 
@@ -45,17 +45,17 @@
     radial-gradient( 
       farthest-corner circle at var(--pointer-x) var(--pointer-y), 
       hsla(50, 20%, 90%, 0.95) 10%, 
-      rgba(181, 139, 164, 0.5) 50%, 
-      hsl(0, 0%, 0%) 60% 
+      rgba(181, 139, 164, 0.5) 50%, /* 181, 139, 164, 0.5, 50% */
+      hsl(0, 0%, 0%) 60% /* 0, 0%, 0%, 60% */
     );
 
   background-size: cover, cover;
   background-position: center center, center center;
-  background-blend-mode: color-burn;
+  background-blend-mode: color-burn; /* color-burn */
 
-  mix-blend-mode: lighten;
+  mix-blend-mode: lighten; /*lighten*/
   filter: brightness(1) contrast(1) saturate(1);
-  opacity: 0.5;
+  opacity: 0.5; /*0.5*/
 
 }
 
@@ -79,7 +79,7 @@
 
   background-size: 400% 800%;
   background-position: calc( 50% + (50% - (var(--background-x))) * 3 ) calc( 50% + (50% - (var(--background-y))) * 3 );
-  filter: brightness(calc( 0.75 - ( var(--pointer-from-center) * 0.5 ))) contrast(1) saturate(1);
+  filter: brightness(calc( 0.75 - ( var(--pointer-from-center) * 0.5 ))) contrast(1) saturate(1); /* c:1, s:1 */
   mix-blend-mode: saturation;
 
 }
@@ -123,12 +123,12 @@
 			farthest-corner circle at 
 			var(--pointer-x) var(--pointer-y), 
 			hsla(50, 20%, 90%, 0.75) 0%, 
-			hsla(150, 20%, 30%, 0.65) 45%, 
-			hsla(0, 0%, 0%, 1) 90% 
+			hsla(150, 20%, 30%, 0.65) 45%, /* 150, 20%, 30%, 0.65, 45% */
+			rgba(0, 0, 0, 0.9) 90% /*0, 0%, 0%, 1, 90% */
 		);
 
   filter: brightness(1) contrast(1.5);
-  mix-blend-mode: cover;
+  mix-blend-mode: cover; /*cover*/
 	opacity: 1.15; /*1.2*/
 
 }
@@ -148,11 +148,12 @@
 
 */
 
-/*
+
 .card:not(.masked)[data-rarity="amazing rare"] .card__shine {
-  clip-path: var(--clip);
+  clip-path: var(--clip-borders);
 }
-*/
+
+
 
 
 .card:not(.masked)[data-rarity="amazing rare"] .card__glare {
