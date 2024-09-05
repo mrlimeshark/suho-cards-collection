@@ -5,19 +5,18 @@
   import { orientation, resetBaseOrientation } from "../stores/orientation.js";
   import { clamp, round, adjust } from "../helpers/Math.js";
 
-  // data / pokemon props
+  // data / SUHO card properties
   export let id = "";
+  export let cardRarity = undefined;
+  export let cardGroup = undefined;
   export let name = "";
-  export let number = "";
-  export let set = "";
+  export let group = "";
   export let types = "";
-  export let subtypes = "basic";
-  export let supertype = "pokémon";
   export let rarity = "common";
 
   // image props
   export let img = "";
-  export let back = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bded83c2-9666-4913-afaf-29ae29e5c24e/defaezm-9dfaea32-8df7-458d-8cbf-a85deba4c0d9.png/v1/fit/w_828,h_1280,q_70,strp/playing_card_back_by_feivelyn_defaezm-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU4MyIsInBhdGgiOiJcL2ZcL2JkZWQ4M2MyLTk2NjYtNDkxMy1hZmFmLTI5YWUyOWU1YzI0ZVwvZGVmYWV6bS05ZGZhZWEzMi04ZGY3LTQ1OGQtOGNiZi1hODVkZWJhNGMwZDkucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-03AHmNDd2ihmIExHIgYsDG3wKdNBsfXHs8M04vkqpk";
+  export let back = "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725179006/card_back_feivelyn.png";
   export let foil = "";
   export let mask = "";
 
@@ -156,9 +155,6 @@
           {
             item_id: id,
             item_name: name,
-            item_category: set,
-            item_category2: supertype,
-            item_category3: subtypes,
             item_category4: rarity
           }
         ]
@@ -266,18 +262,12 @@
     --translate-y: ${$springTranslate.y}px;
 	`;
 
-  $: {
-    rarity = rarity.toLowerCase();
-    supertype = supertype.toLowerCase();
-    number = number.toLowerCase();
-    isTrainerGallery = !!number.match(/^[tg]g/i) || !!( id === "swshp-SWSH076" || id === "swshp-SWSH077" );
-    if (Array.isArray(types)) {
+$: {
+  rarity = rarity.toLowerCase();
+  if (Array.isArray(types)) {
       types = types.join(" ").toLowerCase();
     }
-    if (Array.isArray(subtypes)) {
-      subtypes = subtypes.join(" ").toLowerCase();
-    }
-  }
+}
 
   const orientate = (e) => {
 
@@ -400,10 +390,6 @@
   class:interacting
   class:loading
   class:masked={!!mask}
-  data-number={number}
-  data-set={set}
-  data-subtypes={subtypes}
-  data-supertype={supertype}
   data-rarity={rarity}
   data-trainer-gallery={isTrainerGallery}
   style={dynamicStyles}

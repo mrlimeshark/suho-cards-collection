@@ -133,11 +133,7 @@
         id={card.id}
         img={card.card_img}
         name={card.name}
-        set={card.set}
-        number={card.number}
         types={card.types}
-        supertype={card.supertype}
-        subtypes={card.subtypes}
         rarity={card.rarity}
         isReverse={card.isReverse}
       />
@@ -155,9 +151,9 @@
       id="We are one!"
       name="Error"
       img="https://res.cloudinary.com/djg9bhuwi/image/upload/v1725002302/exo_card_back_mihi1.png"
-      supertype="What a cool design"
-      subtypes="Thank you Mihi"
-      rarity="Promo"
+      message1="What a cool design"
+      message2="Thank you Mihi"
+      rarity="Rare Secret"
       isReverse={false}
     />
   </CardList>

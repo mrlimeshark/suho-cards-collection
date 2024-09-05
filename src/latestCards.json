@@ -1,32 +1,11 @@
-[
+[  
     {
-        "id": "rsmbh",
-        "cardRarity": "Rare",
-        "cardGroup": "SuperM",
-        "name": "Baekhyun",
-        "group": "SuperM",
-        "types": ["Water"],
-        "rarity": "Rare Holo",
-        "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015879/rsmbh_rare_baekhyun.png"
-    },
-    {
-        "id": "e2exsh",
-        "cardRarity": "Extraordinary",
-        "cardGroup": "EXO",
-        "name": "Sehun",
-        "group": "EXO",
-        "types": ["Water"],
-        "rarity": "Radiant Rare",
-        "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724977782/e2exsh_extraordinary_exo_sehun.png"
-    },
-    {
-        "id": "psesu",
-        "cardRarity": "Priceless",
-        "cardGroup": "Stardust Event",
-        "name": "Suho",
-        "group": "EXO",
+        "id": "test-card",
+        "name": "Charizard VMAX",
         "types": ["Darkness"],
-        "rarity": "Rare Shiny",
-        "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724978032/psesu_priceless_suho.png"
-    }
+        "rarity": "Amazing Rare",
+        "card_img": "https://images.pokemontcg.io/swsh45sv/SV107_hires.png",
+        "mask": "",
+        "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/d5uu2f3-e6ecb556-226f-4d17-b4d7-2a083bfdcc21.png_hclqmo.png"
+      }
 ]
