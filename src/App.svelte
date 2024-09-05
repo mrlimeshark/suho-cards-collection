@@ -13,7 +13,7 @@
 	let isLoading = true;
 
 	//Set this to 'true' when there is an update.
-	let isLatestShowcase = true;
+	let isLatestShowcase = false;
 
 
 	const getCards = async () => {
@@ -161,6 +161,7 @@
 						name={card.name}
 						img={card.card_img}
 						types={card.types}
+						
 					/>
 				{/each}
 			{/if}
@@ -229,8 +230,9 @@
 			</a>
 		</h2>
 		<p>
-			Special cards have special <mark>galaxy effect holofoil</mark>
-			with a <mark>gradient rainbow set to color-dodge & color-burn</mark> on top. Quite special, isn't it? <br/>
+			Special cards have sparkling <mark>galaxy effect holofoil</mark>
+			with a <mark>gradient rainbow set to color-dodge & color-burn</mark> on top. Not too simple, yet not too flamboyant.
+			This holofoil complements card images just enough.  <br/>
 			
 		</p>
 
@@ -260,7 +262,7 @@
 		<p>
 			Extraordinary cards appear to have colourful and detailed backgrounds in general, therefore a gorgeous
             effect was chosen: a <mark>criss-cross linear gradient pattern</mark> that moves
-			across the card!
+			across the card! <mark>Note: This effect might not work well on mobile.</mark>
 		</p>
 
 		<CardList>
@@ -303,6 +305,8 @@
 						name={card.name}
 						types={card.types}
 						rarity={card.rarity}
+						mask={card.mask}
+						foil={card.foil}
 					/>
 				{/each}
 			{/if}
@@ -315,11 +319,13 @@
 			</a>
 		</h2>
 		<p>
-			Altair cards have <mark>diagonal gradients overlayed on them</mark>,
+			Default Altair cards have <mark>diagonal gradients overlayed on them</mark>,
             The cards are generally <mark>brighter with a pastel hue</mark>, though, which
 			makes the gradient and texture more subtle.
+			Since these are created for special occassions (anniversaries, etc.), you will see
+			a number of different effects applied to them.
 		</p>
-		<h3>Some cards have different effects fitting to their aesthetics!</h3>
+		<h3>Altair cards have most diverse effects fitting to their aesthetics!</h3>
 
 		<CardList>
 			{#if isLoading}
@@ -332,6 +338,8 @@
 						name={card.name}
 						types={card.types}
 						rarity={card.rarity}
+						mask={card.mask}
+						foil={card.foil}
 					/>
 				{/each}
 			{/if}

@@ -147,7 +147,7 @@
   background-blend-mode: color-dodge;
 
   mix-blend-mode: overlay;
-  filter: brightness(.66) contrast(2) saturate(.5);
+  filter: brightness(.60) contrast(2) saturate(.5); /*.66, 2, .5 */
 
 }
 

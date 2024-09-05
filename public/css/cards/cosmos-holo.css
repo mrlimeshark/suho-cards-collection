@@ -107,7 +107,7 @@
 
   background-size: cover, 400% 900%, cover;
 
-  filter: brightness(1) contrast(1.75) saturate(.8); /* 1.25, 1.75, 0.8 */
+  filter: brightness(1.1) contrast(1.75) saturate(.8); /* 1.25, 1.75, 0.8 */
   mix-blend-mode: overlay;
 
 }
@@ -147,7 +147,7 @@
 
   background-size: cover, 400% 900%, cover;
 
-  filter: brightness(.9) contrast(1.75) saturate(.8); /* 1.25, 1.75, 0.8 */
+  filter: brightness(1) contrast(1.75) saturate(.8); /* 1.25, 1.75, 0.8 */
   mix-blend-mode: multiply;
 
 }
@@ -187,7 +187,7 @@
       hsl(0, 0%, 10%) 60%
     );
 
-  filter: brightness(.55) contrast(2.3) saturate(2);
+  filter: brightness(.44) contrast(2.3) saturate(2); /*.55, 2.3, 2 */
   mix-blend-mode: soft-light;
   opacity: calc( 1 - var(--pointer-from-top) * .75 );
 
