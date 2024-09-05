@@ -208,7 +208,9 @@
     "group": "EXO",
     "types": ["Psychic"],
     "rarity": "Amazing Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724999594/starsuho_altair_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1724999594/starsuho_altair_suho.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png"
   },
   {
     "id": "12yrsxm",

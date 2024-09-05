@@ -6,7 +6,6 @@
   import { get } from "svelte/store";
 
   import SUHOLib from "./suhoLibrary.json";
-  //import { createCardsIndex, searchCardsIndex } from "./SearchIndex.svelte";
 
 	export let query = "";
 
@@ -21,7 +20,7 @@
   //=======
 
   //Directly using getCards() returns a Promise object.
-  //Don't do let something = getCards()
+  //Don't do 'let something = getCards()'
 
   const search = (data, query) => {
           //Normalise the query by converting to lowercase and splitting into tokens
