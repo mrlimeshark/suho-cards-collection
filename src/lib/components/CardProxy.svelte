@@ -5,10 +5,10 @@
   export let id = undefined;
   export let cardRarity = undefined;
   export let cardGroup = undefined;
-  export let name = undefined;
+  export let name = undefined; //Artist name
   export let group = undefined; // The "root" group of an artist
   export let types = undefined; //Card outline colour (Pokemon types)
-  export let rarity = undefined; //Foil effects based on the rarities of Pokemon cards.
+  export let rarity = undefined; //Foil effect based on the rarities of Pokemon cards.
   export let isReverse = false;
 
   // image props
