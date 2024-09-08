@@ -83,12 +83,16 @@
 		:global( .card-grid > .card:nth-child(n+10):nth-child(-n+12) ) { grid-row: 4; }
 		:global( .card-grid > .card:nth-child(n+13):nth-child(-n+15) ) { grid-row: 5; }
 		:global( .card-grid > .card:nth-child(n+16):nth-child(-n+18) ) { grid-row: 6; }
-		:global( .card-grid > .card:nth-child(n+19) ) {
-			grid-row: auto;
-			grid-column: auto;
-			transform: none!important;
-			left: 0!important;
-			top: 0!important;
+		:global( .card-grid > .card:nth-child(n+19):nth-child(-n+21) ) { grid-row: 7; }
+		:global( .card-grid > .card:nth-child(n+22):nth-child(-n+24) ) { grid-row: 8; }
+		:global( .card-grid > .card:nth-child(n+25):nth-child(-n+27) ) { grid-row: 9; }
+		:global( .card-grid > .card:nth-child(n+28):nth-child(-n+31) ) { grid-row: 10; }
+
+		:global( .card-grid > .card:nth-child(n+33) ) {
+    		grid-row: auto;
+   			transform: translate3d(0, 0, 0.1px) rotateZ(calc((var(--card-scale) - 18) * 5deg));
+    		left: calc((var(--card-scale) - 18) * 10px);
+    		top: calc((var(--card-scale) - 18) * 5px);
 		}
 
 	}
