@@ -68,7 +68,7 @@
 				An <mark>unofficial card collection</mark>
 				for the Discord bot <a href="https://top.gg/bot/1120361339253162004">SUHO</a>.
 				The cards use <mark>3D transforms</mark>, <mark>filters</mark>, <mark>blend modes</mark>, <mark>css gradients</mark> and interactions to provide a unique experience when taking a closer look! <br/> <br/>
-				<mark>Firefox browser</mark> is recommended for the best experience.<br/><br/>
+				<mark>Firefox on PC</mark> is recommended for the best experience.<br/><br/>
 				Shoutout to <a href="https://github.com/simeydotme/pokemon-cards-css"> simeydotme</a> for the amazing repository :3
 			</p>
 		</section>
@@ -291,7 +291,7 @@
 			Priceless cards are given quite a unique effect in whereby the foil background is a shiny silver
 			color. To achieve this, we apply the foil image with some radial gradients to darken the foil
 			over the background. This creates a slightly silver effect on top of the white card background.
-			<br/><mark>This effect works best in Firefox.</mark>
+			<br/><mark>This effect works best on Firefox.</mark>
 		</p>
 
 		<CardList>
@@ -323,7 +323,7 @@
             The cards are generally <mark>brighter with a pastel hue</mark>, though, which
 			makes the gradient and texture more subtle.
 			Since these are created for special occassions (anniversaries, etc.), you will see
-			a number of different effects applied to them.
+			a number of different effects and holofoils applied to them.
 		</p>
 		<h3>Altair cards have most diverse effects fitting to their aesthetics!</h3>
 
