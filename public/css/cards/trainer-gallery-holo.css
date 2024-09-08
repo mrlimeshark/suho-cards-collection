@@ -17,8 +17,7 @@
 */
 
 .card[data-rarity="trainer gallery rare holo"] .card__shine,
-.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__shine,
-.card[data-set="swshp"][data-number="swsh020"] .card__shine {
+.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__shine {
 
   --space: 5%;
   --angle: -22deg;
@@ -46,8 +45,7 @@
 }
 
 .card[data-rarity="trainer gallery rare holo"] .card__shine:after,
-.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__shine:after,
-.card[data-set="swshp"][data-number="swsh020"] .card__shine:after {
+.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__shine:after {
   
   content: "";
 
@@ -69,8 +67,7 @@
 }
 
 .card[data-rarity="trainer gallery rare holo"] .card__shine:before,
-.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__shine:before,
-.card[data-set="swshp"][data-number="swsh020"] .card__shine:before {
+.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__shine:before {
   content: none;
   display: none;
 }
@@ -92,8 +89,7 @@
 */
 
 .card[data-rarity="trainer gallery rare holo"] .card__glare,
-.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__glare,
-.card[data-set="swshp"][data-number="swsh020"] .card__glare {
+.card[data-rarity="rare holo"][data-trainer-gallery="true"] .card__glare{
 
   background-image: 
     radial-gradient( 

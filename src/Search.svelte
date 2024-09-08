@@ -135,6 +135,8 @@
         types={card.types}
         rarity={card.rarity}
         isReverse={card.isReverse}
+        mask={card.mask}
+        foil={card.foil}
       />
     {/each}
   </CardList>

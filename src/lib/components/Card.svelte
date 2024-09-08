@@ -7,8 +7,8 @@
 
   // data / SUHO card properties
   export let id = "";
-  export let cardRarity = undefined;
-  export let cardGroup = undefined;
+  export let cardRarity = "";
+  export let cardGroup = "";
   export let name = "";
   export let group = "";
   export let types = "";
@@ -390,6 +390,7 @@ $: {
   class:interacting
   class:loading
   class:masked={!!mask}
+  data-id={id}
   data-rarity={rarity}
   data-trainer-gallery={isTrainerGallery}
   style={dynamicStyles}
