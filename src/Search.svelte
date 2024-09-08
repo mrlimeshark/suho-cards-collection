@@ -62,7 +62,7 @@
             const filteredCards = search(SUHOLib, query);
             isError = false;
 
-            let cardsMap = filteredCards.slice(0, 51).map(card => {
+            let cardsMap = filteredCards.slice(0, 300).map(card => {
 						//if ( card.rarity === "Common" || card.rarity === "Uncommon" ) {
 						//	card.isReverse = !!Math.round(Math.random());
 						//}
