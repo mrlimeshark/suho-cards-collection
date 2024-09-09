@@ -40,9 +40,9 @@ function generateCards(imageUrls) {
       cardRarity: rarityMap[cardRarityKey.toLowerCase()],
       cardGroup: cardGroupRaw.toLowerCase() === 'exo' ? 'EXO' : cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1),
       name: name === 'do' ? 'D.O.' : name.charAt(0).toUpperCase() + name.slice(1), // Capitalize name
-      group: "EXO",
-      types: [], // Add logic for types if needed
-      rarity: "", // Add logic for rarity if needed
+      group: "EXO", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      types: [], 
+      rarity: "", 
       card_img: url
     };
 

@@ -5,7 +5,8 @@
 	import Card from "./lib/components/CardProxy.svelte";
   import { get } from "svelte/store";
 
-  import SUHOLib from "./suhoLibrary.json";
+  import EXOLib from "./lib/database/exoLibrary.json";
+  import SVTLib from "./lib/database/svtLibrary.json";
 
 	export let query = "";
 
@@ -22,13 +23,16 @@
   //Directly using getCards() returns a Promise object.
   //Don't do 'let something = getCards()'
 
+  // Combine the multiple libraries
+  const fullLibrary = [...EXOLib, ...SVTLib];
+
   const search = (data, query) => {
           //Normalise the query by converting to lowercase and splitting into tokens
           const queryTokens = query.toLowerCase().split(/\s+/);
 
           const matches = card => {
             const cardFullName = card.id.concat(' ', card.cardRarity,
-             ' ', card.cardGroup, ' ', card.name)
+             ' ', card.cardGroup, ' ', card.group, ' ', card.name)
             
             //Normalise the card name
             const cardTokens = cardFullName.toLowerCase().split(/\s+/);
@@ -59,7 +63,7 @@
 
           try {
 
-            const filteredCards = search(SUHOLib, query);
+            const filteredCards = search(fullLibrary, query);
             isError = false;
 
             let cardsMap = filteredCards.slice(0, 300).map(card => {
@@ -87,7 +91,7 @@
 		},666);
 	}
 
-  $: usableQuery = query.length > 2;
+  $: usableQuery = query.length > 1;
 	$: query && loadQuery();
 
 </script>

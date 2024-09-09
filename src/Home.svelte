@@ -107,7 +107,7 @@
 
 	<Search bind:query />
 
-	{#if query.length < 3}
+	{#if query.length < 2}
 
 		{#if isLatestShowcase}
 			<h2 id="⚓-latest">
