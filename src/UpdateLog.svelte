@@ -3,16 +3,16 @@
 
 	import CardList from "./Cards.svelte";
 	import Card from "./lib/components/CardProxy.svelte";
-	import latestShowcase from "./latestCards.json";
+	//import latestShowcase from "./latestCards.json";
 
-	let altair, latest;
+	let latest;
 
 	let isLoading = true;
 
 	//Set this to 'true' when there is an update.
 
 	const loadCards = async() => {
-		latest = latestShowcase;
+		//latest = latestShowcase;
 		isLoading = false;
 	};
 
@@ -71,9 +71,8 @@
 	</header>
 
 		<h2 id="⚓-log1">
-			<a href="#⚓-log1">
-				No new update yet... <sup></sup>
-			</a>
+			No new update yet... <sup></sup>
+
 		</h2>
 		<p>
 			Update log will be added when there is an update.
@@ -106,10 +105,6 @@
 			{/if}
 		</CardList>
 </main>
-
-<div class="back-to-top">
-  <a href="/#/update">Back to Top</a>
-</div>
 
 <style>
   .back-to-top a {
