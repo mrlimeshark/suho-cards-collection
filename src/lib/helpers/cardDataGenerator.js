@@ -1,3 +1,5 @@
+import { writeFileSync } from 'fs';
+
 // 1. Declare a list of several img URLs.
 const imageUrls = [
     "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725053091/e2exbh_extraordinary_exo_baekhyun.png",
@@ -74,9 +76,14 @@ function generateCards(imageUrls) {
     return card;
   });
 
-  // 5. Output into the console log.
-    console.log(JSON.stringify(cards, null, 2));
+  const jsonContent = JSON.stringify(cards, null, 2);
+
+  //Write the JSON string to a file named 'sorted_cards.json'
+  writeFileSync('card_data.json', jsonContent, 'utf-8');
+
+  console.log('Output written to card_data.json');
 }
 
 // Call the function with the image URLs
 generateCards(imageUrls);
+

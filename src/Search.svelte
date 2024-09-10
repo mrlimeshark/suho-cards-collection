@@ -9,6 +9,7 @@
   import SVTLib from "./lib/database/svtLibrary.json";
 
 	export let query = "";
+  let placeholderText = "";
 
 	let loadingQuery = true;
 	let queryTimer;
@@ -20,11 +21,24 @@
   let isCaught = false;
   //=======
 
+
+
   //Directly using getCards() returns a Promise object.
   //Don't do 'let something = getCards()'
 
   // Combine the multiple libraries
   const fullLibrary = [...EXOLib, ...SVTLib];
+
+
+  const generateRandomPlaceholder = () => {
+    if (EXOLib.length === 0) return "eg: Baekhyun or emebae"; // Ensure the library is not empty
+    const randomCard = EXOLib[Math.floor(Math.random() * EXOLib.length)];
+    placeholderText = "eg: " + randomCard.name + " or " + randomCard.id;
+  };
+
+  onMount(() => {
+    generateRandomPlaceholder();
+  });
 
   const search = (data, query) => {
           //Normalise the query by converting to lowercase and splitting into tokens
@@ -67,10 +81,6 @@
             isError = false;
 
             let cardsMap = filteredCards.slice(0, 300).map(card => {
-						//if ( card.rarity === "Common" || card.rarity === "Uncommon" ) {
-						//	card.isReverse = !!Math.round(Math.random());
-						//}
-						//card.set = card.set.id;
 						return card;
 					});
 
@@ -94,13 +104,15 @@
   $: usableQuery = query.length > 1;
 	$: query && loadQuery();
 
+
+
 </script>
 
 
 
 <section class="search-area">
 
-  <input type="search" name="search" id="search" bind:value={query} placeholder="eg: Baekhyun or emebae" />
+  <input type="search" name="search" id="search" bind:value={query} placeholder={placeholderText} />
 
   <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.25" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>

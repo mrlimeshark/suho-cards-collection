@@ -26,4 +26,3 @@ const jsonContent = JSON.stringify(cards, null, 2);
 writeFileSync('sorted_cards.json', jsonContent, 'utf-8');
 
 console.log('Output written to sorted_cards.json');
-  

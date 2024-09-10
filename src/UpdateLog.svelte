@@ -3,14 +3,14 @@
 
 	import CardList from "./Cards.svelte";
 	import Card from "./lib/components/CardProxy.svelte";
-	//import latestShowcase from "./latestCards.json";
+	import latestShowcase from "./latestCards.json";
 
 	let latest;
 
 	let isLoading = true;
 
 	const loadCards = async() => {
-		//latest = latestShowcase;
+		latest = latestShowcase;
 		isLoading = false;
 	};
 
@@ -33,22 +33,22 @@
 <main>
 	<header>
 
-		<style>
-			header {
-    			grid-template-columns: 100% 1fr;
-  			}
-		</style>
-
-		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG
+		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>10/09/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">
 
-			<h2>Latest card library update: <strong>31/08/2024</strong></h2> <br/>
+			<h2>Latest card library update: <strong>10/09/2024</strong></h2> <br/>
 			<p>
-				<mark>The SUHO Cards Collection website is live as of 31/08/2024!</mark> 🎉 <br/>
-				Everyone can view all EXO cards faster than ever with 3D interactions and pretty holofoils! <br/>
-				New cards are going to be added whenever there is any update.
+				<mark>Please welcome the newest addition to our card database: Seventeen!</mark> 🎉 <br/>
+				Seventeen cards have many inconsistent search keywords especially with duo cards (JeongCheol, SoonHoon, etc.).
+				Worry not. Our flexible search system on this website has fixed such a problem. <br/>
+				
+				Simply use keywords like "<strong>Jeonghan</strong>," "<strong>S.Coups</strong>," or "<strong>JeongCheol</strong>" to quickly find the <strong>ansvjc JeongCheol</strong> card, for instance.
+
+				<br/> We are certain that everyone will be delighted with this update. :) <br/>
+				
+				
 			</p>
 		</section>
 
@@ -68,39 +68,36 @@
 		</section>
 	</header>
 
+	<CardList>
+		{#if isLoading}
+			loading...
+		{:else}
+			{#each latest as card, index}
+				<Card
+				id={card.id}
+				name={card.name}
+				img={card.card_img}
+				types={card.types}
+				rarity={card.rarity}
+				mask={card.mask}
+				foil={card.foil}
+				/>
+			{/each}
+		{/if}
+	</CardList>
+
 		<h2 id="⚓-log1">
-				No new update yet... <sup></sup>
+				Grand opening! <sup>31/08/2024</sup>
 		</h2>
 		<p>
-			Update log will be added when there is an update.
+			<br/>
+			<mark>The SUHO Cards Collection website is live as of 31/08/2024!</mark> 🎉 <br/>
+			Everyone can view all EXO cards faster than ever with 3D interactions and pretty holofoils! <br/>
+			New cards are going to be added whenever there is any update.
 		</p>
 		<h3></h3>
 
-		<CardList>
-			{#if isLoading}
-				loading...
-			{:else}
-				<Card 
-				name="C"
-				img="https://res.cloudinary.com/djg9bhuwi/image/upload/v1725814478/IMG_4135_twwfds.jpg"
-				rarity="Rare Secret"
-				isReverse={false}
-		  		/>
-				<Card 
-				name="B"
-				img="https://res.cloudinary.com/djg9bhuwi/image/upload/v1725814208/IMG_4134_f4npqm.jpg"
-				rarity="Rare Secret"
-				isReverse={false}
-				/>
-				<Card 
-				name="X"
-				img="https://res.cloudinary.com/djg9bhuwi/image/upload/v1725814208/IMG_4136_tyx9i6.jpg"
-				rarity="Rare Secret"
-				isReverse={false}
-				/>
 
-			{/if}
-		</CardList>
 </main>
 
 <style>

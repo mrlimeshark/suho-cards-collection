@@ -5,7 +5,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881672/osvdk_ordinary_seventeen_dk.png"
     },
@@ -15,7 +15,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881629/o2svdk_ordinary_seventeen_dk.png"
     },
@@ -25,7 +25,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881688/osvdn_ordinary_seventeen_dino.png"
     },
@@ -35,7 +35,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881649/o2svdn_ordinary_seventeen_dino.png"
     },
@@ -45,7 +45,7 @@
       "cardGroup": "Soloist",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866470/osldn_ordinary_soloist_dino.png"
     },
@@ -55,7 +55,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881713/osvhs_ordinary_seventeen_hoshi.png"
     },
@@ -65,7 +65,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Grass"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881700/o2svhs_ordinary_seventeen_hoshi.png"
     },
@@ -75,7 +75,7 @@
       "cardGroup": "Soloist",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866757/oslhs_ordinary_soloist_hoshi.png"
     },
@@ -85,7 +85,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881776/osvjh_ordinary_seventeen_jeonghan.png"
     },
@@ -95,7 +95,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881739/o2svjh_ordinary_seventeen_jeonghan.png"
     },
@@ -105,7 +105,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881787/osvjn_ordinary_seventeen_jun.png"
     },
@@ -115,7 +115,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881762/o2svjn_ordinary_seventeen_jun.png"
     },
@@ -125,7 +125,7 @@
       "cardGroup": "Soloist",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725867064/osljn_ordinary_soloist_jun.png"
     },
@@ -135,7 +135,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881827/osvjs_ordinary_seventeen_joshua.png"
     },
@@ -145,7 +145,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881816/o2svjs_ordinary_seventeen_joshua.png"
     },
@@ -155,7 +155,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881909/osvmg_ordinary_seventeen_mingyu.png"
     },
@@ -165,7 +165,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881849/o2svmg_ordinary_seventeen_mingyu.png"
     },
@@ -175,7 +175,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881952/osvsc_ordinary_seventeen_s.coups.png"
     },
@@ -185,7 +185,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881942/o2svsc_ordinary_seventeen_s.coups.png"
     },
@@ -195,7 +195,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881896/osvsk_ordinary_seventeen_seungkwan.png"
     },
@@ -205,7 +205,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881867/o2svsk_ordinary_seventeen_seungkwan.png"
     },
@@ -215,7 +215,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882713/osvt8_ordinary_seventeen_the8.png"
     },
@@ -225,7 +225,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881964/o2svt8_ordinary_seventeen_the8.png"
     },
@@ -235,7 +235,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882738/osvvn_ordinary_seventeen_vernon.png"
     },
@@ -245,7 +245,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882726/o2svvn_ordinary_seventeen_vernon.png"
     },
@@ -255,7 +255,7 @@
       "cardGroup": "Soloist",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725869811/oslvn_ordinary_soloist_vernon.png"
     },
@@ -265,7 +265,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882765/osvwo_ordinary_seventeen_wonwoo.png"
     },
@@ -275,7 +275,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882754/o2svwo_ordinary_seventeen_wonwoo.png"
     },
@@ -285,7 +285,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882790/o2svwz_ordinary_seventeen_woozi.png"
     },
@@ -295,7 +295,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882777/osvwz_ordinary_seventeen_woozi.png"
     },
@@ -305,7 +305,7 @@
       "cardGroup": "Soloist",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725870063/oslwo_ordinary_soloist_woozi.png"
     },
@@ -315,7 +315,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880334/usvdk_unordinary_seventeen_dk.png"
     },
@@ -325,7 +325,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880301/u2svdk_unordinary_seventeen_dk.png"
     },
@@ -335,7 +335,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880416/usvdn_unordinary_seventeen_dino.png"
     },
@@ -345,7 +345,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880380/u2svdn_unordinary_seventeen_dino.png"
     },
@@ -355,7 +355,7 @@
       "cardGroup": "Soloist",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866638/usldn_unordinary_soloist_dino.png"
     },
@@ -365,7 +365,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Grass"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880619/usvhs_unordinary_seventeen_hoshi.png"
     },
@@ -375,7 +375,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880525/u2svhs_unordinary_seventeen_hoshi.png"
     },
@@ -385,7 +385,7 @@
       "cardGroup": "Soloist",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866923/uslhs_unordinary_soloist_hoshi.png"
     },
@@ -395,7 +395,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880706/usvjh_unordinary_seventeen_jeonghan.png"
     },
@@ -405,7 +405,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880666/u2svjh_unordinary_seventeen_jeonghan.png"
     },
@@ -415,7 +415,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880893/usvjn_unordinary_seventeen_jun.png"
     },
@@ -425,7 +425,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880785/u2svjn_unordinary_seventeen_jun.png"
     },
@@ -435,7 +435,7 @@
       "cardGroup": "Soloist",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725869477/usljn_unordinary_soloist_jun.png"
     },
@@ -445,7 +445,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881082/usvjs_unordinary_seventeen_joshua.png"
     },
@@ -455,7 +455,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881018/u2svjs_unordinary_seventeen_joshua.png"
     },
@@ -465,7 +465,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881122/usvmg_unordinary_seventeen_mingyu.png"
     },
@@ -475,7 +475,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881111/u2svmg_unordinary_seventeen_mingyu.png"
     },
@@ -485,7 +485,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881217/usvsc_unordinary_seventeen_s.coups.png"
     },
@@ -495,7 +495,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881176/u2svsc_unordinary_seventeen_s.coups.png"
     },
@@ -505,7 +505,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881164/usvsk_unordinary_seventeen_seungkwan.png"
     },
@@ -515,7 +515,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881148/u2svsk_unordinary_seventeen_seungkwan.png"
     },
@@ -525,7 +525,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881267/usvt8_unordinary_seventeen_the8.png"
     },
@@ -535,7 +535,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881246/u2svt8_unordinary_seventeen_the8.png"
     },
@@ -545,7 +545,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881302/usvvn_unordinary_seventeen_vernon.png"
     },
@@ -555,7 +555,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881284/u2svvn_unordinary_seventeen_vernon.png"
     },
@@ -565,7 +565,7 @@
       "cardGroup": "Soloist",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725869975/uslvn_unordinary_soloist_vernon.png"
     },
@@ -575,7 +575,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881384/usvwo_unordinary_seventeen_wonwoo.png"
     },
@@ -585,7 +585,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881341/u2svwo_unordinary_seventeen_wonwoo.png"
     },
@@ -595,7 +595,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Grass"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881398/usvwz_unordinary_seventeen_woozi.png"
     },
@@ -605,7 +605,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881368/u2svwz_unordinary_seventeen_woozi.png"
     },
@@ -615,7 +615,7 @@
       "cardGroup": "Soloist",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725870191/uslwo_unordinary_soloist_woozi.png"
     },
@@ -625,7 +625,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878819/rsvdk_rare_seventeen_dk.png"
     },
@@ -635,7 +635,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878782/r2svdk_rare_seventeen_dk.png"
     },
@@ -645,7 +645,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878929/rsvdn_rare_seventeen_dino.png"
     },
@@ -655,7 +655,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878863/r2svdn_rare_seventeen_dino.png"
     },
@@ -665,7 +665,7 @@
       "cardGroup": "Soloist",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866553/rsldn_rare_soloist_dino.png"
     },
@@ -675,7 +675,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879051/rsvhs_rare_seventeen_hoshi.png"
     },
@@ -685,7 +685,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878968/r2svhs_rare_seventeen_hoshi.png"
     },
@@ -695,7 +695,7 @@
       "cardGroup": "Soloist",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866810/rslhs_rare_soloist_hoshi.png"
     },
@@ -705,7 +705,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879115/rsvjh_rare_seventeen_jeonghan.png"
     },
@@ -715,7 +715,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879079/r2svjh_rare_seventeen_jeonghan.png"
     },
@@ -725,7 +725,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879200/rsvjn_rare_seventeen_jun.png"
     },
@@ -735,7 +735,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879151/r2svjn_rare_seventeen_jun.png"
     },
@@ -745,7 +745,7 @@
       "cardGroup": "Soloist",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725867167/rsljn_rare_soloist_jun.png"
     },
@@ -755,7 +755,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879294/rsvjs_rare_seventeen_joshua.png"
     },
@@ -765,7 +765,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879238/r2svjs_rare_seventeen_joshua.png"
     },
@@ -775,7 +775,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879402/rsvmg_rare_seventeen_mingyu.png"
     },
@@ -785,7 +785,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879348/r2svmg_rare_seventeen_mingyu.png"
     },
@@ -795,7 +795,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879614/rsvsc_rare_seventeen_s.coups.png"
     },
@@ -805,7 +805,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879573/r2svsc_rare_seventeen_s.coups.png"
     },
@@ -815,7 +815,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879531/rsvsk_rare_seventeen_seungkwan.png"
     },
@@ -825,7 +825,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879488/r2svsk_rare_seventeen_seungkwan.png"
     },
@@ -835,7 +835,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879692/rsvt8_rare_seventeen_the8.png"
     },
@@ -845,7 +845,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879655/r2svt8_rare_seventeen_the8.png"
     },
@@ -855,7 +855,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879784/rsvvn_rare_seventeen_vernon.png"
     },
@@ -865,7 +865,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879731/r2svvn_rare_seventeen_vernon.png"
     },
@@ -875,7 +875,7 @@
       "cardGroup": "Soloist",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725869862/rslvn_rare_soloist_vernon.png"
     },
@@ -885,7 +885,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879946/rsvwo_rare_seventeen_wonwoo.png"
     },
@@ -895,7 +895,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879891/r2svwo_rare_seventeen_wonwoo.png"
     },
@@ -905,7 +905,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725880014/rsvwz_rare_seventeen_woozi.png"
     },
@@ -915,7 +915,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725879982/r2svwz_rare_seventeen_woozi.png"
     },
@@ -925,7 +925,7 @@
       "cardGroup": "Soloist",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725870114/rslwo_rare_soloist_woozi.png"
     },
@@ -935,7 +935,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877357/ssvdk_special_seventeen_dk.png"
     },
@@ -945,7 +945,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877315/s2svdk_special_seventeen_dk.png"
     },
@@ -955,7 +955,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877443/ssvdn_special_seventeen_dino.png"
     },
@@ -965,7 +965,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877394/s2svdn_special_seventeen_dino.png"
     },
@@ -975,7 +975,7 @@
       "cardGroup": "Soloist",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866596/ssldn_special_soloist_dino.png"
     },
@@ -985,7 +985,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877716/ssvhs_special_seventeen_hoshi.png"
     },
@@ -995,7 +995,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877672/s2svhs_special_seventeen_hoshi.png"
     },
@@ -1005,7 +1005,7 @@
       "cardGroup": "Soloist",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866863/sslhs_special_soloist_hoshi.png"
     },
@@ -1015,7 +1015,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877519/ssvjh_special_seventeen_jeonghan.png"
     },
@@ -1025,7 +1025,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877477/s2svjh_special_seventeen_jeonghan.png"
     },
@@ -1035,7 +1035,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877620/ssvjn_special_seventeen_jun.png"
     },
@@ -1045,7 +1045,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877565/s2svjn_special_seventeen_jun.png"
     },
@@ -1055,7 +1055,7 @@
       "cardGroup": "Soloist",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725867249/ssljn_special_soloist_jun.png"
     },
@@ -1065,7 +1065,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877836/ssvjs_special_seventeen_joshua.png"
     },
@@ -1075,7 +1075,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877774/s2svjs_special_seventeen_joshua.png"
     },
@@ -1085,7 +1085,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877936/ssvmg_special_seventeen_mingyu.png"
     },
@@ -1095,7 +1095,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877892/s2svmg_special_seventeen_mingyu.png"
     },
@@ -1105,7 +1105,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878092/ssvsc_special_seventeen_s.coups.png"
     },
@@ -1115,7 +1115,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878053/s2svsc_special_seventeen_s.coups.png"
     },
@@ -1125,7 +1125,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878016/ssvsk_special_seventeen_seungkwan.png"
     },
@@ -1135,7 +1135,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725877981/s2svsk_special_seventeen_seungkwan.png"
     },
@@ -1145,7 +1145,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878186/ssvt8_special_seventeen_the8.png"
     },
@@ -1155,7 +1155,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878142/s2svt8_special_seventeen_the8.png"
     },
@@ -1165,7 +1165,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878291/ssvvn_special_seventeen_vernon.png"
     },
@@ -1175,7 +1175,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878247/s2svvn_special_seventeen_vernon.png"
     },
@@ -1185,7 +1185,7 @@
       "cardGroup": "Soloist",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725869905/sslvn_special_soloist_vernon.png"
     },
@@ -1195,7 +1195,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878460/ssvwo_special_seventeen_wonwoo.png"
     },
@@ -1205,7 +1205,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878427/s2svwo_special_seventeen_wonwoo.png"
     },
@@ -1215,7 +1215,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878553/ssvwz_special_seventeen_woozi.png"
     },
@@ -1225,7 +1225,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725878509/s2svwz_special_seventeen_woozi.png"
     },
@@ -1235,7 +1235,7 @@
       "cardGroup": "Soloist",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725870150/sslwo_special_soloist_woozi.png"
     },
@@ -1245,7 +1245,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875755/esvdk_extraordinary_seventeen_dk.png"
     },
@@ -1255,7 +1255,7 @@
       "cardGroup": "Seventeen",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725874644/e2svdk_extraordinary_seventeen_dk.png"
     },
@@ -1265,7 +1265,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875838/esvdn_extraordinary_seventeen_dino.png"
     },
@@ -1275,7 +1275,7 @@
       "cardGroup": "Seventeen",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725874743/e2svdn_extraordinary_seventeen_dino.png"
     },
@@ -1285,7 +1285,7 @@
       "cardGroup": "Soloist",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866402/esldn_extraordinary_soloist_dino.png"
     },
@@ -1295,7 +1295,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876094/esvhs_extraordinary_seventeen_hoshi.png"
     },
@@ -1305,7 +1305,7 @@
       "cardGroup": "Seventeen",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725874888/e2svhs_extraordinary_seventeen_hoshi.png"
     },
@@ -1315,7 +1315,7 @@
       "cardGroup": "Soloist",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725866706/eslhs_extraordinary_soloist_hoshi.png"
     },
@@ -1325,7 +1325,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Psychic"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876198/esvjh_extraordinary_seventeen_jeonghan.png"
     },
@@ -1335,7 +1335,7 @@
       "cardGroup": "Seventeen",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725874974/e2svjh_extraordinary_seventeen_jeonghan.png"
     },
@@ -1345,7 +1345,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876257/esvjn_extraordinary_seventeen_jun.png"
     },
@@ -1355,7 +1355,7 @@
       "cardGroup": "Seventeen",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875068/e2svjn_extraordinary_seventeen_jun.png"
     },
@@ -1365,7 +1365,7 @@
       "cardGroup": "Soloist",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725867013/esljn_extraordinary_soloist_jun.png"
     },
@@ -1375,7 +1375,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876311/esvjs_extraordinary_seventeen_joshua.png"
     },
@@ -1385,7 +1385,7 @@
       "cardGroup": "Seventeen",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875137/e2svjs_extraordinary_seventeen_joshua.png"
     },
@@ -1395,7 +1395,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876404/esvmg_extraordinary_seventeen_mingyu.png"
     },
@@ -1405,7 +1405,7 @@
       "cardGroup": "Seventeen",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875297/e2svmg_extraordinary_seventeen_mingyu.png"
     },
@@ -1415,7 +1415,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Psychic"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876504/esvsc_extraordinary_seventeen_s.coups.png"
     },
@@ -1425,7 +1425,7 @@
       "cardGroup": "Seventeen",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875427/e2svsc_extraordinary_seventeen_s.coups.png"
     },
@@ -1435,7 +1435,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876558/esvsk_extraordinary_seventeen_seungkwan.png"
     },
@@ -1445,7 +1445,7 @@
       "cardGroup": "Seventeen",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875396/e2svsk_extraordinary_seventeen_seungkwan.png"
     },
@@ -1455,7 +1455,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876619/esvt8_extraordinary_seventeen_the8.png"
     },
@@ -1465,7 +1465,7 @@
       "cardGroup": "Seventeen",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875503/e2svt8_extraordinary_seventeen_the8.png"
     },
@@ -1475,7 +1475,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876659/esvvn_extraordinary_seventeen_vernon.png"
     },
@@ -1485,7 +1485,7 @@
       "cardGroup": "Seventeen",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875560/e2svvn_extraordinary_seventeen_vernon.png"
     },
@@ -1495,7 +1495,7 @@
       "cardGroup": "Soloist",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725869716/eslvn_extraordinary_soloist_vernon.png"
     },
@@ -1505,7 +1505,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876708/esvwo_extraordinary_seventeen_wonwoo.png"
     },
@@ -1515,7 +1515,7 @@
       "cardGroup": "Seventeen",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875636/e2svwo_extraordinary_seventeen_wonwoo.png"
     },
@@ -1525,7 +1525,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876753/esvwz_extraordinary_seventeen_woozi.png"
     },
@@ -1535,7 +1535,7 @@
       "cardGroup": "Seventeen",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725875673/e2svwz_extraordinary_seventeen_woozi.png"
     },
@@ -1545,7 +1545,7 @@
       "cardGroup": "Soloist",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725870022/eslwo_extraordinary_soloist_woozi.png"
     },
@@ -1555,7 +1555,7 @@
       "cardGroup": "Pfriendship Event",
       "name": "The8 & Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725886196/fethju_priceless_Pfriendship%20Event_the8_jun.png"
     },
@@ -1565,7 +1565,7 @@
       "cardGroup": "Friendship Event",
       "name": "Moonbin & Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725886060/fesemo_priceless_Friendship%20Event_moonbin_seungkwan.png"
     },
@@ -1575,7 +1575,7 @@
       "cardGroup": "Amethyst",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871725/amedkk_priceless_amethyst_dk.png"
     },
@@ -1585,7 +1585,7 @@
       "cardGroup": "Aphrodite",
       "name": "DK",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871797/paqdk_priceless_aphrodite_dk.png"
     },
@@ -1595,7 +1595,7 @@
       "cardGroup": "Amethyst",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871882/amedin_priceless_amethyst_dino.png"
     },
@@ -1605,7 +1605,7 @@
       "cardGroup": "Bsummer",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871949/sumdin_priceless_bsummer_dino.png"
     },
@@ -1615,7 +1615,7 @@
       "cardGroup": "XOXO",
       "name": "Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725872528/xodin_priceless_XOXO_dino.png"
     },
@@ -1625,7 +1625,7 @@
       "cardGroup": "Alexandrite",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Psychic"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725872603/alehos_priceless_alexandrite_hoshi.png"
     },
@@ -1635,7 +1635,7 @@
       "cardGroup": "Apf",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873104/apfshi_priceless_apf_hoshi.png"
     },
@@ -1645,7 +1645,7 @@
       "cardGroup": "Xmas23",
       "name": "Hoshi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873202/xmhsi_priceless_xmas23_hoshi.png"
     },
@@ -1655,7 +1655,7 @@
       "cardGroup": "Evil",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873300/evghan_priceless_evil_jeonghan.png"
     },
@@ -1665,7 +1665,7 @@
       "cardGroup": "Bfairies",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873347/faejhn_priceless_bfairies_jeonghan.png"
     },
@@ -1675,7 +1675,7 @@
       "cardGroup": "Libra",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873457/libjeo_priceless_libra_jeonghan.png"
     },
@@ -1685,7 +1685,7 @@
       "cardGroup": "Royal Event",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873512/royhan_priceless_Royal%20Event_jeonghan.png"
     },
@@ -1695,7 +1695,7 @@
       "cardGroup": "Staff Birthday",
       "name": "Jeonghan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873402/hbdpocket_priceless_Staff%20Birthday_jeonghan.png"
     },
@@ -1705,7 +1705,7 @@
       "cardGroup": "Alexandrite",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881927/alejun_priceless_alexandrite_jun.png"
     },
@@ -1715,7 +1715,7 @@
       "cardGroup": "Psanrio",
       "name": "Jun",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882042/srojun_priceless_psanrio_jun.png"
     },
@@ -1725,7 +1725,7 @@
       "cardGroup": "Staff Birthday",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882710/hbdsophiya_priceless_Staff%20Birthday_joshua.png"
     },
@@ -1735,7 +1735,7 @@
       "cardGroup": "Staff Birthday",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882512/hbdcami_priceless_Staff%20Birthday_joshua.png"
     },
@@ -1745,7 +1745,7 @@
       "cardGroup": "Staffmate",
       "name": "Joshua",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882760/sfmami_priceless_staffmate_joshua.png"
     },
@@ -1755,7 +1755,7 @@
       "cardGroup": "Pcardcaptor",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883130/zuhmgy_priceless_pcardcaptor_mingyu.png"
     },
@@ -1765,7 +1765,7 @@
       "cardGroup": "Diamond",
       "name": "Mingyu",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883074/diagyu_priceless_diamond_mingyu.png"
     },
@@ -1775,7 +1775,7 @@
       "cardGroup": "BTA",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883258/btasco_priceless_BTA_s.coups.png"
     },
@@ -1785,7 +1785,7 @@
       "cardGroup": "Leo",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883364/leoups_priceless_leo_s.coups.png"
     },
@@ -1795,7 +1795,7 @@
       "cardGroup": "Sardonyx",
       "name": "S.Coups",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Dragon"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883470/sarsco_priceless_sardonyx_s.coups.png"
     },
@@ -1805,7 +1805,7 @@
       "cardGroup": "Staff Birthday",
       "name": "Seungkwan",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883556/hbdtellie_priceless_Staff%20Birthday_seungkwan.png"
     },
@@ -1815,7 +1815,7 @@
       "cardGroup": "Bcandy",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Psychic"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883864/cdythe_priceless_bcandy_the8.png"
     },
@@ -1825,7 +1825,7 @@
       "cardGroup": "Scorpio",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883960/scothe_priceless_scorpio_the8.png"
     },
@@ -1835,7 +1835,7 @@
       "cardGroup": "Stardust Event",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883902/pset8_priceless_Stardust%20Event_the8.png"
     },
@@ -1845,7 +1845,7 @@
       "cardGroup": "Pthanku",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884091/tyuth8_priceless_pthanku_the8.png"
     },
@@ -1855,7 +1855,7 @@
       "cardGroup": "Amethyst",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Psychic"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884165/amever_priceless_amethyst_vernon.png"
     },
@@ -1865,7 +1865,7 @@
       "cardGroup": "Papocalypse",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884197/apover_priceless_papocalypse_vernon.png"
     },
@@ -1875,7 +1875,7 @@
       "cardGroup": "Staffmate",
       "name": "Vernon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884239/sfmshy_priceless_staffmate_vernon.png"
     },
@@ -1885,7 +1885,7 @@
       "cardGroup": "Cancer",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884302/canwon_priceless_cancer_wonwoo.png"
     },
@@ -1895,7 +1895,7 @@
       "cardGroup": "Ruby",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884378/ubywoo_priceless_ruby_wonwoo.png"
     },
@@ -1905,7 +1905,7 @@
       "cardGroup": "Soulmate",
       "name": "Wonwoo",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884344/slmwwo_priceless_soulmate_wonwoo.png"
     },
@@ -1915,7 +1915,7 @@
       "cardGroup": "Sagittarius",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884487/sagwoo_priceless_sagittarius_woozi.png"
     },
@@ -1925,7 +1925,7 @@
       "cardGroup": "Staff Birthday",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884439/hbdlou_priceless_Staff%20Birthday_woozi.png"
     },
@@ -1935,7 +1935,7 @@
       "cardGroup": "Staffmate",
       "name": "Woozi",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884529/sfmnco_priceless_staffmate_woozi.png"
     },
@@ -1945,8 +1945,8 @@
       "cardGroup": "Anniversary",
       "name": "Vernon & Dino & Seungkwan & BooChanSol",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
+      "types": ["Grass"],
+      "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885647/ansvbcs_altair_anniversary_Vernon%20Dino%20Seungkwan.png"
     },
     {
@@ -1955,9 +1955,10 @@
       "cardGroup": "Anniversary",
       "name": "S.Coups & Jeonghan & JeongCheol",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
-      "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885527/ansvjc_altair_anniversary_S.Coups%20Jeonghan.png"
+      "types": ["Fire"],
+      "rarity": "Amazing Rare",
+      "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885527/ansvjc_altair_anniversary_S.Coups%20Jeonghan.png",
+      "foil":"https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png"
     },
     {
       "id": "ansvsh",
@@ -1965,7 +1966,7 @@
       "cardGroup": "Anniversary",
       "name": "Hoshi & Woozi & SoonHoon",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Fairy"],
       "rarity": "Trainer Gallery Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885425/ansvsh_altair_anniversary_Hoshi%20Woozi.png"
     },
@@ -1975,9 +1976,10 @@
       "cardGroup": "Anniversary",
       "name": "Seungkwan & DK & SeokSoo",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
-      "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885187/ansvss_altair_anniversary_Seungkwan%20DK.png"
+      "types": ["Fighting"],
+      "rarity": "Amazing Rare",
+      "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885187/ansvss_altair_anniversary_Seungkwan%20DK.png",
+      "foil":"https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png"
     },
     {
       "id": "ansvmw",
@@ -1985,9 +1987,10 @@
       "cardGroup": "Anniversary",
       "name": "Mingyu & Wonwoo & MinWon",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
-      "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885017/ansvmw_altair_anniversary_Mingyu%20Wonwoo.png"
+      "types": ["Fairy"],
+      "rarity": "Amazing Rare",
+      "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885017/ansvmw_altair_anniversary_Mingyu%20Wonwoo.png",
+      "foil":"https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png"
     },
     {
       "id": "ansvjh",
@@ -1995,8 +1998,8 @@
       "cardGroup": "Anniversary",
       "name": "Jun & The8 & JunHao",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
+      "types": ["Grass"],
+      "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884947/ansvjh_altair_anniversary_Jun%20The8.png"
     },
     {
@@ -2005,7 +2008,7 @@
       "cardGroup": "Fools",
       "name": "Pi Cheolin & Dino",
       "group": "Seventeen",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Trainer Gallery Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725887787/foolpic_altair_fools_Pi%20Cheolin_dino.png"
     },
@@ -2015,8 +2018,8 @@
       "cardGroup": "Kitties",
       "name": "Jay & Jun",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
+      "types": ["Metal"],
+      "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725887398/kittyjayjun_altair_kitties_Jay%20Jun.png"
     },
     {
@@ -2025,8 +2028,8 @@
       "cardGroup": "Xmas",
       "name": "Joshua & DK & SeokSoo",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
+      "types": ["Fairy"],
+      "rarity": "Rare Shiny",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725887721/xmasseoksoo_altair_xmas_Joshua%20DK.png"
     },
     {
@@ -2035,8 +2038,8 @@
       "cardGroup": "Wild Animal",
       "name": "The8",
       "group": "Seventeen",
-      "types": [],
-      "rarity": "Trainer Gallery Rare Holo",
+      "types": ["Darkness"],
+      "rarity": "Rare Holo VSTAR",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883672/woofhao_altair_Wild%20Animal_the8.png"
     },
     {
@@ -2045,7 +2048,7 @@
       "cardGroup": "BSS",
       "name": "DK",
       "group": "BSS",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725864973/obsdk_ordinary_BSS_dk.png"
     },
@@ -2055,7 +2058,7 @@
       "cardGroup": "BSS",
       "name": "Hoshi",
       "group": "BSS",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865054/obshs_ordinary_BSS_hoshi.png"
     },
@@ -2065,7 +2068,7 @@
       "cardGroup": "BSS",
       "name": "Seungkwan",
       "group": "BSS",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Common",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865120/oBSSk_ordinary_BSS_seungkwan.png"
     },
@@ -2075,7 +2078,7 @@
       "cardGroup": "BSS",
       "name": "DK",
       "group": "BSS",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865521/ubsdk_unordinary_BSS_dk.png"
     },
@@ -2085,7 +2088,7 @@
       "cardGroup": "BSS",
       "name": "Hoshi",
       "group": "BSS",
-      "types": [],
+      "types": ["Psychic"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865576/ubshs_unordinary_BSS_hoshi.png"
     },
@@ -2095,7 +2098,7 @@
       "cardGroup": "BSS",
       "name": "Seungkwan",
       "group": "BSS",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Rare Secret",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865620/uBSSk_unordinary_BSS_seungkwan.png"
     },
@@ -2105,7 +2108,7 @@
       "cardGroup": "BSS",
       "name": "DK",
       "group": "BSS",
-      "types": [],
+      "types": ["Darkness"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865174/rbsdk_rare_BSS_dk.png"
     },
@@ -2115,7 +2118,7 @@
       "cardGroup": "BSS",
       "name": "Hoshi",
       "group": "BSS",
-      "types": [],
+      "types": ["Water"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865221/rbshs_rare_BSS_hoshi.png"
     },
@@ -2125,7 +2128,7 @@
       "cardGroup": "BSS",
       "name": "Seungkwan",
       "group": "BSS",
-      "types": [],
+      "types": ["Fire"],
       "rarity": "Rare Holo",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865270/rBSSk_rare_BSS_seungkwan.png"
     },
@@ -2135,7 +2138,7 @@
       "cardGroup": "BSS",
       "name": "DK",
       "group": "BSS",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865328/sbsdk_special_BSS_dk.png"
     },
@@ -2145,7 +2148,7 @@
       "cardGroup": "BSS",
       "name": "Hoshi",
       "group": "BSS",
-      "types": [],
+      "types": ["Lightning"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865394/sbshs_special_BSS_hoshi.png"
     },
@@ -2155,7 +2158,7 @@
       "cardGroup": "BSS",
       "name": "Seungkwan",
       "group": "BSS",
-      "types": [],
+      "types": ["Grass"],
       "rarity": "Rare Holo Cosmos",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725865457/sBSSk_special_BSS_seungkwan.png"
     },
@@ -2165,7 +2168,7 @@
       "cardGroup": "BSS",
       "name": "DK",
       "group": "BSS",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725864332/ebsdk_extraordinary_BSS_dk.png"
     },
@@ -2175,7 +2178,7 @@
       "cardGroup": "BSS",
       "name": "Hoshi",
       "group": "BSS",
-      "types": [],
+      "types": ["Metal"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725864845/ebshs_extraordinary_BSS_hoshi.png"
     },
@@ -2185,7 +2188,7 @@
       "cardGroup": "BSS",
       "name": "Seungkwan",
       "group": "BSS",
-      "types": [],
+      "types": ["Fighting"],
       "rarity": "Radiant Rare",
       "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725864925/eBSSk_extraordinary_BSS_seungkwan.png"
     }
