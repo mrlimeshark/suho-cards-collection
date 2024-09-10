@@ -90,6 +90,7 @@
 		:global( .card-grid > .card:nth-child(n+31):nth-child(-n+33) ) { grid-row: 11; }
 
 		:global( .card-grid > .card:nth-child(n+34) ) {
+
     		grid-row: auto;
    			transform: translate3d(0, 0, 0.1px) rotateZ(calc((var(--card-scale) - 18) * 5deg));
     		left: calc((var(--card-scale) - 18) * 10px);

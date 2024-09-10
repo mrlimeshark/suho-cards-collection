@@ -107,6 +107,7 @@
 
 	<Search bind:query />
 
+
 	{#if query.length < 2}
 
 		{#if isLatestShowcase}

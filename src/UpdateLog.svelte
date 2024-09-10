@@ -1,5 +1,5 @@
 <script>
-  	import { onMount } from "svelte";
+  import { onMount } from "svelte";
 
 	import CardList from "./Cards.svelte";
 	import Card from "./lib/components/CardProxy.svelte";
@@ -33,10 +33,12 @@
 <main>
 	<header>
 
+
 		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>10/09/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">
+
 
 			<h2>Latest card library update: <strong>10/09/2024</strong></h2> <br/>
 			<p>
@@ -47,8 +49,6 @@
 				Simply use keywords like "<strong>Jeonghan</strong>," "<strong>S.Coups</strong>," or "<strong>JeongCheol</strong>" to quickly find the <strong>ansvjc JeongCheol</strong> card, for instance.
 
 				<br/> We are certain that everyone will be delighted with this update. :) <br/>
-				
-				
 			</p>
 		</section>
 
@@ -67,6 +67,7 @@
 			</p>	
 		</section>
 	</header>
+
 
 	<CardList>
 		{#if isLoading}
@@ -96,7 +97,6 @@
 			New cards are going to be added whenever there is any update.
 		</p>
 		<h3></h3>
-
 
 </main>
 
