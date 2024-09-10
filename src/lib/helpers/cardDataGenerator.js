@@ -1,3 +1,5 @@
+import { writeFileSync } from 'fs';
+
 // 1. Declare a list of several img URLs.
 const imageUrls = [
     "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725053091/e2exbh_extraordinary_exo_baekhyun.png",
@@ -40,9 +42,9 @@ function generateCards(imageUrls) {
       cardRarity: rarityMap[cardRarityKey.toLowerCase()],
       cardGroup: cardGroupRaw.toLowerCase() === 'exo' ? 'EXO' : cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1),
       name: name === 'do' ? 'D.O.' : name.charAt(0).toUpperCase() + name.slice(1), // Capitalize name
-      group: "EXO",
-      types: [], // Add logic for types if needed
-      rarity: "", // Add logic for rarity if needed
+      group: "EXO", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      types: [], 
+      rarity: "", 
       card_img: url
     };
 
@@ -74,9 +76,14 @@ function generateCards(imageUrls) {
     return card;
   });
 
-  // 5. Output into the console log.
-    console.log(JSON.stringify(cards, null, 2));
+  const jsonContent = JSON.stringify(cards, null, 2);
+
+  //Write the JSON string to a file named 'sorted_cards.json'
+  writeFileSync('card_data.json', jsonContent, 'utf-8');
+
+  console.log('Output written to card_data.json');
 }
 
 // Call the function with the image URLs
 generateCards(imageUrls);
+

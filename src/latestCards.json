@@ -1,11 +1,34 @@
-[  
-    {
-        "id": "test-card",
-        "name": "Charizard VMAX",
-        "types": ["Darkness"],
-        "rarity": "Amazing Rare",
-        "card_img": "https://images.pokemontcg.io/swsh45sv/SV107_hires.png",
-        "mask": "",
-        "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png"
-      }
+[    
+  {
+  "id": "e2svdn",
+  "cardRarity": "Extraordinary",
+  "cardGroup": "Seventeen",
+  "name": "Dino",
+  "group": "Seventeen",
+  "types": ["Fairy"],
+  "rarity": "Radiant Rare",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725874743/e2svdn_extraordinary_seventeen_dino.png"
+}, 
+{
+  "id": "esvwz",
+  "cardRarity": "Extraordinary",
+  "cardGroup": "Seventeen",
+  "name": "Woozi",
+  "group": "Seventeen",
+  "types": ["Metal"],
+  "rarity": "Radiant Rare",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876753/esvwz_extraordinary_seventeen_woozi.png"
+},  
+{
+  "id": "esvsc",
+  "cardRarity": "Extraordinary",
+  "cardGroup": "Seventeen",
+  "name": "S.Coups",
+  "group": "Seventeen",
+  "types": ["Psychic"],
+  "rarity": "Radiant Rare",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876504/esvsc_extraordinary_seventeen_s.coups.png"
+}
+
+
 ]
