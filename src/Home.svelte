@@ -97,7 +97,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card library update: <strong>31/08/2024</strong>  <br />
+				Latest card library update: <strong>11/09/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.

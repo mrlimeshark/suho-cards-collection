@@ -34,13 +34,13 @@
 	<header>
 
 
-		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>10/09/2024</sup>
+		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>11/09/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">
 
 
-			<h2>Latest card library update: <strong>10/09/2024</strong></h2> <br/>
+			<h2>Latest card library update: <strong>11/09/2024</strong></h2> <br/>
 			<p>
 				<mark>Please welcome the newest addition to our card database: Seventeen!</mark> 🎉 <br/>
 				Seventeen cards have many inconsistent search keywords especially with duo cards (JeongCheol, SoonHoon, etc.).
