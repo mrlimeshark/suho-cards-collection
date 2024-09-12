@@ -78,6 +78,7 @@
 			opacity: 1;
 		}
 		
+		/* What a horrible block of code! But it works lol. */
 		:global( .card-grid > .card:nth-child(n+4):nth-child(-n+6) ) { grid-row: 2; }
 		:global( .card-grid > .card:nth-child(n+7):nth-child(-n+9) ) { grid-row: 3; }
 		:global( .card-grid > .card:nth-child(n+10):nth-child(-n+12) ) { grid-row: 4; }
@@ -88,13 +89,22 @@
 		:global( .card-grid > .card:nth-child(n+25):nth-child(-n+27) ) { grid-row: 9; }
 		:global( .card-grid > .card:nth-child(n+28):nth-child(-n+30) ) { grid-row: 10; }
 		:global( .card-grid > .card:nth-child(n+31):nth-child(-n+33) ) { grid-row: 11; }
+		:global( .card-grid > .card:nth-child(n+34):nth-child(-n+36) ) { grid-row: 12; }
+		:global( .card-grid > .card:nth-child(n+37):nth-child(-n+39) ) { grid-row: 13; }
+		:global( .card-grid > .card:nth-child(n+40):nth-child(-n+42) ) { grid-row: 14; }
+		:global( .card-grid > .card:nth-child(n+43):nth-child(-n+45) ) { grid-row: 15; }
+		:global( .card-grid > .card:nth-child(n+46):nth-child(-n+48) ) { grid-row: 16; }
+		:global( .card-grid > .card:nth-child(n+49):nth-child(-n+51) ) { grid-row: 17; }
+		:global( .card-grid > .card:nth-child(n+52):nth-child(-n+54) ) { grid-row: 18; }
+		:global( .card-grid > .card:nth-child(n+55):nth-child(-n+57) ) { grid-row: 19; }
+		:global( .card-grid > .card:nth-child(n+58):nth-child(-n+60) ) { grid-row: 20; }
 
-		:global( .card-grid > .card:nth-child(n+34) ) {
-
-    		grid-row: auto;
-   			transform: translate3d(0, 0, 0.1px) rotateZ(calc((var(--card-scale) - 18) * 5deg));
-    		left: calc((var(--card-scale) - 18) * 10px);
-    		top: calc((var(--card-scale) - 18) * 5px);
+		:global( .card-grid > .card:nth-child(n+61) ) {
+			grid-row: auto;
+			grid-column: auto;
+			transform: none!important;
+			left: 0!important;
+			top: 0!important;
 		}
 
 	}
