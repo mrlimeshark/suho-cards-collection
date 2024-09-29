@@ -1738,6 +1738,16 @@
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725022840/tyubae_priceless_baekhyun.png"
   },
   {
+    "id": "sapchn",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sapphire",
+    "name": "Chen",
+    "group": "EXO",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1727630926/sapchn_priceless_sapphire_chen.png"
+  },
+  {
     "id": "psecn",
     "cardRarity": "Priceless",
     "cardGroup": "Stardust Event",
@@ -2507,7 +2517,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "EXO-CBX",
     "name": "Baekhyun",
-    "group": "EXO-CBX",
+    "group": "EXO",
     "types": [
       "Fire"
     ],
@@ -2519,7 +2529,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "EXO-CBX",
     "name": "Chen",
-    "group": "EXO-CBX",
+    "group": "EXO",
     "types": [
       "Grass"
     ],
@@ -2531,7 +2541,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "EXO-CBX",
     "name": "Xiumin",
-    "group": "EXO-CBX",
+    "group": "EXO",
     "types": [
       "Fairy"
     ],
@@ -2543,7 +2553,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "EXO-CBX",
     "name": "Baekhyun",
-    "group": "EXO-CBX",
+    "group": "EXO",
     "types": [
       "Fairy"
     ],
@@ -2555,7 +2565,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "EXO-CBX",
     "name": "Chen",
-    "group": "EXO-CBX",
+    "group": "EXO",
     "types": [
       "Fairy"
     ],
@@ -2567,7 +2577,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "EXO-CBX",
     "name": "Xiumin",
-    "group": "EXO-CBX",
+    "group": "EXO",
     "types": [
       "Water"
     ],
@@ -2579,7 +2589,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Metal"
     ],
@@ -2591,7 +2601,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "EXO-SC",
     "name": "Sehun",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Darkness"
     ],
@@ -2603,7 +2613,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Fairy"
     ],
@@ -2615,7 +2625,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "EXO-SC",
     "name": "Sehun",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Lightning"
     ],
@@ -2627,7 +2637,7 @@
     "cardRarity": "Rare",
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Water"
     ],
@@ -2639,7 +2649,7 @@
     "cardRarity": "Rare",
     "cardGroup": "EXO-SC",
     "name": "Sehun",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Water"
     ],
@@ -2651,7 +2661,7 @@
     "cardRarity": "Special",
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Lightning"
     ],
@@ -2663,7 +2673,7 @@
     "cardRarity": "Special",
     "cardGroup": "EXO-SC",
     "name": "Sehun",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Lightning"
     ],
@@ -2675,7 +2685,7 @@
     "cardRarity": "Extraordinary",
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Fire"
     ],
@@ -2687,7 +2697,7 @@
     "cardRarity": "Extraordinary",
     "cardGroup": "EXO-SC",
     "name": "Sehun",
-    "group": "EXO-SC",
+    "group": "EXO",
     "types": [
       "Metal"
     ],
@@ -2699,7 +2709,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Metal"
     ],
@@ -2711,7 +2721,7 @@
     "cardRarity": "Ordinary",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Metal"
     ],
@@ -2723,7 +2733,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Water"
     ],
@@ -2735,7 +2745,7 @@
     "cardRarity": "Unordinary",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Metal"
     ],
@@ -2747,7 +2757,7 @@
     "cardRarity": "Rare",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Water"
     ],
@@ -2759,7 +2769,7 @@
     "cardRarity": "Rare",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Fighting"
     ],
@@ -2771,7 +2781,7 @@
     "cardRarity": "Special",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Lightning"
     ],
@@ -2783,7 +2793,7 @@
     "cardRarity": "Special",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Lightning"
     ],
@@ -2795,7 +2805,7 @@
     "cardRarity": "Extraordinary",
     "cardGroup": "SuperM",
     "name": "Baekhyun",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Metal"
     ],
@@ -2807,7 +2817,7 @@
     "cardRarity": "Extraordinary",
     "cardGroup": "SuperM",
     "name": "Kai",
-    "group": "SuperM",
+    "group": "EXO",
     "types": [
       "Fighting"
     ],

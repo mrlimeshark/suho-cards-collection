@@ -13,7 +13,7 @@
 	let isLoading = true;
 
 	//Set this to 'true' when there is an update.
-	let isLatestShowcase = false;
+	let isLatestShowcase = true;
 
 
 	const getCards = async () => {
@@ -97,7 +97,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card library update: <strong>11/09/2024</strong>  <br />
+				Latest card library update: <strong>30/09/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -117,10 +117,9 @@
 				</a>
 			</h2>
 			<p>
-				AAAAA event is happening until <mark>00th December midnight UTC</mark> (00th December midnight KST) !
+				Sapphire event is happening until <mark>10th October 2024 00:00 UTC</mark> (10th October 2024 09:00 KST) !
 				 <br/> <br/>
-				 NEWEST ENTRY: <strong>Priceless</strong> aaaaa, <strong>Priceless</strong> bbbbb, <strong>Priceless</strong>  ccccc,
-				 <strong>Priceless</strong>  ddddd, <strong>Priceless</strong>  eeeee, <strong>Priceless</strong> fffff
+				 NEWEST ENTRY: <strong>Priceless</strong> sapchn
 			</p>
 			<h3>Good luck dropping!</h3>
 

@@ -34,7 +34,7 @@
 	<header>
 
 
-		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>11/09/2024</sup>
+		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>30/09/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">

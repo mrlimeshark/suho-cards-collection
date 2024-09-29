@@ -1,34 +1,12 @@
 [    
-  {
-  "id": "e2svdn",
-  "cardRarity": "Extraordinary",
-  "cardGroup": "Seventeen",
-  "name": "Dino",
-  "group": "Seventeen",
-  "types": ["Fairy"],
-  "rarity": "Radiant Rare",
-  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725874743/e2svdn_extraordinary_seventeen_dino.png"
-}, 
 {
-  "id": "esvwz",
-  "cardRarity": "Extraordinary",
-  "cardGroup": "Seventeen",
-  "name": "Woozi",
-  "group": "Seventeen",
+  "id": "sapchn",
+  "cardRarity": "Priceless",
+  "cardGroup": "Sapphire",
+  "name": "Chen",
+  "group": "EXO",
   "types": ["Metal"],
-  "rarity": "Radiant Rare",
-  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876753/esvwz_extraordinary_seventeen_woozi.png"
-},  
-{
-  "id": "esvsc",
-  "cardRarity": "Extraordinary",
-  "cardGroup": "Seventeen",
-  "name": "S.Coups",
-  "group": "Seventeen",
-  "types": ["Psychic"],
-  "rarity": "Radiant Rare",
-  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725876504/esvsc_extraordinary_seventeen_s.coups.png"
+  "rarity": "Rare Shiny",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1727630926/sapchn_priceless_sapphire_chen.png"
 }
-
-
 ]
