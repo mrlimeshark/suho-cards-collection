@@ -97,7 +97,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card library update: <strong>30/09/2024</strong>  <br />
+				Latest card library update: <strong>06/10/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -119,7 +119,9 @@
 			<p>
 				Sapphire event is happening until <mark>10th October 2024 00:00 UTC</mark> (10th October 2024 09:00 KST) !
 				 <br/> <br/>
-				 NEWEST ENTRY: <strong>Priceless</strong> sapchn
+				 EVENT DROP: <strong>Priceless</strong> sapchn <br />
+				 REGULAR RELEASE: <strong>Ordinary</strong> o2slsu, <strong>Unordinary</strong> u2slsu, <strong>Rare</strong> r2slsu,
+				 <strong>Special</strong> s2slsu, <strong>Extraordinary</strong> e2slsu
 			</p>
 			<h3>Good luck dropping!</h3>
 

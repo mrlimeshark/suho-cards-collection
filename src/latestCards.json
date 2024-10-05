@@ -8,5 +8,55 @@
   "types": ["Metal"],
   "rarity": "Rare Shiny",
   "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1727630926/sapchn_priceless_sapphire_chen.png"
+},
+{
+  "id": "o2slsu",
+  "cardRarity": "Ordinary",
+  "cardGroup": "Soloist",
+  "name": "Suho",
+  "group": "EXO",
+  "types": ["Metal"],
+  "rarity": "Common",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154769/o2slsu_ordinary_soloist_suho_hmzswz.png"
+},
+{
+  "id": "u2slsu",
+  "cardRarity": "Unordinary",
+  "cardGroup": "Soloist",
+  "name": "Suho",
+  "group": "EXO",
+  "types": ["Fighting"],
+  "rarity": "Rare Secret",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154778/u2slsu_unordinary_soloist_suho_ndhiun.png"
+},
+{
+  "id": "r2slsu",
+  "cardRarity": "Rare",
+  "cardGroup": "Soloist",
+  "name": "Suho",
+  "group": "EXO",
+  "types": ["Water"],
+  "rarity": "Rare Holo",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154786/r2slsu_rare_soloist_suho_lducu9.png"
+},
+{
+  "id": "s2slsu",
+  "cardRarity": "Special",
+  "cardGroup": "Soloist",
+  "name": "Suho",
+  "group": "EXO",
+  "types": ["Water"],
+  "rarity": "Rare Holo Cosmos",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154794/s2slsu_special_soloist_suho_jhg435.png"
+},
+{
+  "id": "e2slsu",
+  "cardRarity": "Extraordinary",
+  "cardGroup": "Soloist",
+  "name": "Suho",
+  "group": "EXO",
+  "types": ["Psychic"],
+  "rarity": "Radiant Rare",
+  "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154803/e2slsu_extraordinary_soloist_suho_wvcz3x.png"
 }
 ]
