@@ -2568,11 +2568,9 @@
     "cardGroup": "EXO-CBX",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725013973/ocbbh_ordinary_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159258/ocbbh_ordinary_cbx_baekhyun_kmm79b.png"
   },
   {
     "id": "ocbcn",
@@ -2580,11 +2578,9 @@
     "cardGroup": "EXO-CBX",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014364/ocbcn_ordinary_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159253/ocbcn_ordinary_cbx_chen_xliyna.png"
   },
   {
     "id": "ocbxm",
@@ -2592,11 +2588,9 @@
     "cardGroup": "EXO-CBX",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014478/ocbxm_ordinary_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159264/ocbxm_ordinary_cbx_xiumin_kyhskk.png"
   },
   {
     "id": "ucbbh",
@@ -2604,11 +2598,9 @@
     "cardGroup": "EXO-CBX",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014554/ucbbh_unordinary_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159274/ucbbh_unordinary_cbx_baekhyun_e2yf5x.png"
   },
   {
     "id": "ucbcn",
@@ -2616,11 +2608,9 @@
     "cardGroup": "EXO-CBX",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014643/ucbcn_unordinary_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159268/ucbcn_unordinary_cbx_chen_xhy9q5.png"
   },
   {
     "id": "ucbxm",
@@ -2628,11 +2618,9 @@
     "cardGroup": "EXO-CBX",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014695/ucbxm_unordinary_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159278/ucbxm_unordinary_cbx_xiumin_bxwt5p.png"
   },
   {
     "id": "oescy",
@@ -2644,7 +2632,7 @@
       "Metal"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014971/oescy_ordinary_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158519/oescy_ordinary_sc_chanyeol_spjas6.png"
   },
   {
     "id": "oessh",
@@ -2656,7 +2644,7 @@
       "Darkness"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015048/oessh_ordinary_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158528/oessh_ordinary_sc_sehun_hy0uzc.png"
   },
   {
     "id": "uescy",
@@ -2668,7 +2656,7 @@
       "Fairy"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015383/uescy_unordinary_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158575/uescy_unordinary_sc_chanyeol_vzv3re.png"
   },
   {
     "id": "uessh",
@@ -2680,7 +2668,7 @@
       "Lightning"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015466/uessh_unordinary_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158580/uessh_unordinary_sc_sehun.png"
   },
   {
     "id": "rescy",
@@ -2692,7 +2680,7 @@
       "Water"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015109/rescy_rare_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158663/rescy_rare_sc_chanyeol_mebup7.png"
   },
   {
     "id": "ressh",
@@ -2704,7 +2692,7 @@
       "Water"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015186/ressh_rare_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158667/ressh_rare_sc_sehun_j0bndh.png"
   },
   {
     "id": "sescy",
@@ -2716,7 +2704,7 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015260/sescy_special_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158738/sescy_special_sc_chanyeol_ww1f5y.png"
   },
   {
     "id": "sessh",
@@ -2728,7 +2716,7 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015336/sessh_special_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158743/sessh_special_sc_sehun_hnyb8z.png"
   },
   {
     "id": "eescy",
@@ -2740,7 +2728,7 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014801/eescy_extraordinary_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158785/eescy_extraordinary_sc_chanyeol_eje3y0.png"
   },
   {
     "id": "eessh",
@@ -2752,7 +2740,7 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725014886/eessh_extraordinary_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158788/eessh_extraordinary_sc_sehun_tbdhjs.png"
   },
   {
     "id": "osmbh",
@@ -2760,11 +2748,9 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015755/osmbh_ordinary_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160135/osmbh_ordinary_superm_baekhyun_ajmxbe.png"
   },
   {
     "id": "osmka",
@@ -2772,11 +2758,9 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015818/osmka_ordinary_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160138/osmka_ordinary_superm_kai_df3fw4.png"
   },
   {
     "id": "usmbh",
@@ -2784,11 +2768,9 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018486/usmbh_unordinary_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160143/usmbh_unordinary_superm_baekhyun_v1n2aq.png"
   },
   {
     "id": "usmka",
@@ -2796,11 +2778,9 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018503/usmka_unordinary_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160147/usmka_unordinary_superm_kai_gbpmfl.png"
   },
   {
     "id": "rsmbh",
@@ -2808,11 +2788,9 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015879/rsmbh_rare_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160227/rsmbh_rare_superm_baekhyun_s70oyp.png"
   },
   {
     "id": "rsmka",
@@ -2820,11 +2798,9 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018291/rsmka_rare_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160231/rsmka_rare_superm_kai_fhkz0x.png"
   },
   {
     "id": "ssmbh",
@@ -2832,11 +2808,9 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018368/ssmbh_special_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160236/ssmbh_special_superm_baekhyun_k08vak.png"
   },
   {
     "id": "ssmka",
@@ -2844,11 +2818,9 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725018429/ssmka_special_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160239/ssmka_special_superm_kai_yg3ctm.png"
   },
   {
     "id": "esmbh",
@@ -2856,11 +2828,9 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015604/esmbh_extraordinary_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160244/esmbh_extraordinary_superm_baekhyun_fusbmj.png"
   },
   {
     "id": "esmka",
@@ -2868,10 +2838,8 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725015685/esmka_extraordinary_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160247/esmka_extraordinary_superm_kai_esgs4w.png"
   }
 ]
