@@ -68,25 +68,6 @@
 		</section>
 	</header>
 
-
-	<CardList>
-		{#if isLoading}
-			loading...
-		{:else}
-			{#each latest as card, index}
-				<Card
-				id={card.id}
-				name={card.name}
-				img={card.card_img}
-				types={card.types}
-				rarity={card.rarity}
-				mask={card.mask}
-				foil={card.foil}
-				/>
-			{/each}
-		{/if}
-	</CardList>
-
 		<h2 id="⚓-log1">
 				Grand opening! <sup>31/08/2024</sup>
 		</h2>
@@ -99,11 +80,3 @@
 		<h3></h3>
 
 </main>
-
-<style>
-  .back-to-top a {
-    color: inherit;
-    text-decoration: none;
-		z-index: 999;
-  }
-</style>

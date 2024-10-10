@@ -117,9 +117,9 @@
 				</a>
 			</h2>
 			<p>
-				Sapphire event is happening until <mark>10th October 2024 00:00 UTC</mark> (10th October 2024 09:00 KST) !
-				 <br/> <br/>
-				 EVENT DROP: <strong>Priceless</strong> sapchn <br />
+				
+				 <br/>
+				 EVENT DROP: <strong>Priceless</strong> sapchn (no longer droppable)<br />
 				 REGULAR RELEASE: <strong>Ordinary</strong> o2slsu, <strong>Unordinary</strong> u2slsu, <strong>Rare</strong> r2slsu,
 				 <strong>Special</strong> s2slsu, <strong>Extraordinary</strong> e2slsu
 			</p>
