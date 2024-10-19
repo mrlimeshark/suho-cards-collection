@@ -86,6 +86,9 @@
 			Any search keywords one considers reasonable should work.<br/>
 			
 			<br/><mark>Other QOL updates:</mark><br/>
+
+			- Previously missing SuperM members' cards(Mark, Taemin, Ten, and Taeyong cards) have been added.<br/><br/>
+
 			- Keywords are not case-sensitive; 'EXO' or 'exo' do not matter.<br/>
 			It has always been like this, but this feature has not been explicitly stated.<br/><br/>
 			

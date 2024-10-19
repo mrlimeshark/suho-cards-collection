@@ -121,7 +121,8 @@
 				 <br/>
 				 <strong><mark>NCT joins our interactive card collection!</mark></strong><br />
 				 NCT127, NCT Dream, WayV, KUN&XIAOJUN, NCT WISH, Soloist, and all event cards are now searchable. <br />
-				 Typing <strong>only</strong> the 'NCT' keyword will fetch every aforementioned card, so specific keywords are preferred for your convenience.
+				 Typing <strong>only</strong> the 'NCT' keyword will fetch every aforementioned card, so specific keywords are preferred for your convenience. <br/>
+				 <br/>PS, all SuperM cards are also available.
 			</p>
 			<h3></h3>
 
