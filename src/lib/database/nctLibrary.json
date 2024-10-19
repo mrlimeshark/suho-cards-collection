@@ -1,0 +1,2176 @@
+[
+  {
+    "id": "oncdy",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215791/oncdy_ordinary_nct127_doyoung.png"
+  },
+  {
+    "id": "onchc",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215794/onchc_ordinary_nct127_haechan.png"
+  },
+  {
+    "id": "oncjh",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215826/oncjh_ordinary_nct127_jaehyun.png"
+  },
+  {
+    "id": "oncjn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215797/oncjn_ordinary_nct127_johnny.png"
+  },
+  {
+    "id": "oncjw",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215801/oncjw_ordinary_nct127_jungwoo.png"
+  },
+  {
+    "id": "oncmk",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215803/oncmk_ordinary_nct127_mark.png"
+  },
+  {
+    "id": "oncty",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215806/oncty_ordinary_nct127_taeyong.png"
+  },
+  {
+    "id": "oncyt",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215810/oncyt_ordinary_nct127_yuta.png"
+  },
+  {
+    "id": "uncdy",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Water"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215841/uncdy_unordinary_nct127_doyoung.png"
+  },
+  {
+    "id": "unchc",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215846/unchc_unordinary_nct127_haechan.png"
+  },
+  {
+    "id": "uncjh",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215845/uncjh_unordinary_nct127_jaehyun.png"
+  },
+  {
+    "id": "uncjn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215758/uncjn_unordinary_nct127_johnny.png"
+  },
+  {
+    "id": "uncjw",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215753/uncjw_unordinary_nct127_jungwoo.png"
+  },
+  {
+    "id": "uncmk",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215778/uncmk_unordinary_nct127_mark.png"
+  },
+  {
+    "id": "uncty",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215791/uncty_unordinary_nct127_taeyong.png"
+  },
+  {
+    "id": "uncyt",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215765/uncyt_unordinary_nct127_yuta.png"
+  },
+  {
+    "id": "rncdy",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Dragon"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215813/rncdy_rare_nct127_doyoung.png"
+  },
+  {
+    "id": "rnchc",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215832/rnchc_rare_nct127_haechan.png"
+  },
+  {
+    "id": "rncjh",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215818/rncjh_rare_nct127_jaehyun.png"
+  },
+  {
+    "id": "rncjn",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215822/rncjn_rare_nct127_johnny.png"
+  },
+  {
+    "id": "rncjw",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215840/rncjw_rare_nct127_jungwoo.png"
+  },
+  {
+    "id": "rncmk",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Water"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215831/rncmk_rare_nct127_mark.png"
+  },
+  {
+    "id": "rncty",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215843/rncty_rare_nct127_taeyong.png"
+  },
+  {
+    "id": "rncyt",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT127 127",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215842/rncyt_rare_nct127_yuta.png"
+  },
+  {
+    "id": "sncdy",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215773/sncdy_special_nct127_doyoung.png"
+  },
+  {
+    "id": "snchc",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215766/snchc_special_nct127_haechan.png"
+  },
+  {
+    "id": "sncjh",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215751/sncjh_special_nct127_jaehyun.png"
+  },
+  {
+    "id": "sncjn",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215777/sncjn_special_nct127_johnny.png"
+  },
+  {
+    "id": "sncjw",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215769/sncjw_special_nct127_jungwoo.png"
+  },
+  {
+    "id": "sncmk",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215762/sncmk_special_nct127_mark.png"
+  },
+  {
+    "id": "sncty",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215759/sncty_special_nct127_taeyong.png"
+  },
+  {
+    "id": "sncyt",
+    "cardRarity": "Special",
+    "cardGroup": "NCT127 127",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215845/sncyt_special_nct127_yuta.png"
+  },
+  {
+    "id": "encdy",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215810/encdy_extraordinary_nct127_doyoung.png"
+  },
+  {
+    "id": "enchc",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215772/enchc_extraordinary_nct127_haechan.png"
+  },
+  {
+    "id": "encjh",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Water"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215822/encjh_extraordinary_nct127_jaehyun.png"
+  },
+  {
+    "id": "encjn",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Water"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215779/encjn_extraordinary_nct127_johnny.png"
+  },
+  {
+    "id": "encjw",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215820/encjw_extraordinary_nct127_jungwoo.png"
+  },
+  {
+    "id": "encmk",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215831/encmk_extraordinary_nct127_mark.png"
+  },
+  {
+    "id": "encty",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Water"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215783/encty_extraordinary_nct127_taeyong.png"
+  },
+  {
+    "id": "encyt",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT127 127",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728215788/encyt_extraordinary_nct127_yuta.png"
+  },
+  {
+    "id": "ondch",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Fire"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164302/ondch_ordinary_nct%20dream_chenle.png"
+  },
+  {
+    "id": "ondhc",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Water"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164311/ondhc_ordinary_nct%20dream_haechan.png"
+  },
+  {
+    "id": "ondjm",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Psychic"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164315/ondjm_ordinary_nct%20dream_jaemin.png"
+  },
+  {
+    "id": "ondjn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164315/ondjn_ordinary_nct%20dream_jeno.png"
+  },
+  {
+    "id": "ondjs",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164318/ondjs_ordinary_nct%20dream_jisung.png"
+  },
+  {
+    "id": "ondmk",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Darkness"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164326/ondmk_ordinary_nct%20dream_mark.png"
+  },
+  {
+    "id": "ondrj",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Dragon"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164325/ondrj_ordinary_nct%20dream_renjun.png"
+  },
+  {
+    "id": "undch",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164353/undch_unordinary_nct%20dream_chenle.png"
+  },
+  {
+    "id": "undhc",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164353/undhc_unordinary_nct%20dream_haechan.png"
+  },
+  {
+    "id": "undjm",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164354/undjm_unordinary_nct%20dream_jaemin.png"
+  },
+  {
+    "id": "undjn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164361/undjn_unordinary_nct%20dream_jeno.png"
+  },
+  {
+    "id": "undjs",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Grass"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164361/undjs_unordinary_nct%20dream_jisung.png"
+  },
+  {
+    "id": "undmk",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164360/undmk_unordinary_nct%20dream_mark.png"
+  },
+  {
+    "id": "undrj",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164374/undrj_unordinary_nct%20dream_renjun.png"
+  },
+  {
+    "id": "rndch",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Fire"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164327/rndch_rare_nct%20dream_chenle.png"
+  },
+  {
+    "id": "rndhc",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164341/rndhc_rare_nct%20dream_haechan.png"
+  },
+  {
+    "id": "rndjm",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164344/rndjm_rare_nct%20dream_jaemin.png"
+  },
+  {
+    "id": "rndjn",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164345/rndjn_rare_nct%20dream_jeno.png"
+  },
+  {
+    "id": "rndjs",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Grass"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164348/rndjs_rare_nct%20dream_jisung.png"
+  },
+  {
+    "id": "rndmk",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164315/rndmk_rare_nct%20dream_mark.png"
+  },
+  {
+    "id": "rndrj",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT Dream",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Fighting"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164320/rndrj_rare_nct%20dream_renjun.png"
+  },
+  {
+    "id": "sndch",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164334/sndch_special_nct%20dream_chenle.png"
+  },
+  {
+    "id": "sndhc",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164387/sndhc_special_nct%20dream_haechan.png"
+  },
+  {
+    "id": "sndjm",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164389/sndjm_special_nct%20dream_jaemin.png"
+  },
+  {
+    "id": "sndjn",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164390/sndjn_special_nct%20dream_jeno.png"
+  },
+  {
+    "id": "sndjs",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164334/sndjs_special_nct%20dream_jisung.png"
+  },
+  {
+    "id": "sndmk",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164390/sndmk_special_nct%20dream_mark.png"
+  },
+  {
+    "id": "sndrj",
+    "cardRarity": "Special",
+    "cardGroup": "NCT Dream",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164302/sndrj_special_nct%20dream_renjun.png"
+  },
+  {
+    "id": "endch",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Fighting"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164367/endch_extraordinary_nct%20dream_chenle.png"
+  },
+  {
+    "id": "endhc",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164371/endhc_extraordinary_nct%20dream_haechan.png"
+  },
+  {
+    "id": "endjm",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164329/endjm_extraordinary_nct%20dream_jaemin.png"
+  },
+  {
+    "id": "endjn",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Darkness"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164391/endjn_extraordinary_nct%20dream_jeno.png"
+  },
+  {
+    "id": "endjs",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164381/endjs_extraordinary_nct%20dream_jisung.png"
+  },
+  {
+    "id": "endmk",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164377/endmk_extraordinary_nct%20dream_mark.png"
+  },
+  {
+    "id": "endrj",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "NCT Dream",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164376/endrj_extraordinary_nct%20dream_renjun.png"
+  },
+  {
+    "id": "owvhd",
+    "cardRarity": "Ordinary",
+    "cardGroup": "WayV",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Fighting"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980665/owvhd_ordinary_wayv_hendery.png"
+  },
+  {
+    "id": "owvkn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "WayV",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Fighting"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980650/owvkn_ordinary_wayv_kun.png"
+  },
+  {
+    "id": "owvtn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "WayV",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980650/owvtn_ordinary_wayv_ten.png"
+  },
+  {
+    "id": "owvww",
+    "cardRarity": "Ordinary",
+    "cardGroup": "WayV",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980634/owvww_ordinary_wayv_winwin.png"
+  },
+  {
+    "id": "owvxj",
+    "cardRarity": "Ordinary",
+    "cardGroup": "WayV",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Fighting"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980638/owvxj_ordinary_wayv_xiaojun.png"
+  },
+  {
+    "id": "owvyy",
+    "cardRarity": "Ordinary",
+    "cardGroup": "WayV",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980637/owvyy_ordinary_wayv_yangyang.png"
+  },
+  {
+    "id": "uwvhd",
+    "cardRarity": "Unordinary",
+    "cardGroup": "WayV",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980654/uwvhd_unordinary_wayv_hendery.png"
+  },
+  {
+    "id": "uwvkn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "WayV",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980669/uwvkn_unordinary_wayv_kun.png"
+  },
+  {
+    "id": "uwvtn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "WayV",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980671/uwvtn_unordinary_wayv_ten.png"
+  },
+  {
+    "id": "uwvww",
+    "cardRarity": "Unordinary",
+    "cardGroup": "WayV",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980675/uwvww_unordinary_wayv_winwin.png"
+  },
+  {
+    "id": "uwvxj",
+    "cardRarity": "Unordinary",
+    "cardGroup": "WayV",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980658/uwvxj_unordinary_wayv_xiaojun.png"
+  },
+  {
+    "id": "uwvyy",
+    "cardRarity": "Unordinary",
+    "cardGroup": "WayV",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980660/uwvyy_unordinary_wayv_yangyang.png"
+  },
+  {
+    "id": "rwvhd",
+    "cardRarity": "Rare",
+    "cardGroup": "WayV",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Darkness"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980641/rwvhd_rare_wayv_hendery.png"
+  },
+  {
+    "id": "rwvkn",
+    "cardRarity": "Rare",
+    "cardGroup": "WayV",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Darkness"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980641/rwvkn_rare_wayv_kun.png"
+  },
+  {
+    "id": "rwvtn",
+    "cardRarity": "Rare",
+    "cardGroup": "WayV",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Darkness"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980644/rwvtn_rare_wayv_ten.png"
+  },
+  {
+    "id": "rwvww",
+    "cardRarity": "Rare",
+    "cardGroup": "WayV",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Darkness"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980650/rwvww_rare_wayv_winwin.png"
+  },
+  {
+    "id": "rwvxj",
+    "cardRarity": "Rare",
+    "cardGroup": "WayV",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Darkness"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980641/rwvxj_rare_wayv_xiaojun.png"
+  },
+  {
+    "id": "rwvyy",
+    "cardRarity": "Rare",
+    "cardGroup": "WayV",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Darkness"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980647/rwvyy_rare_wayv_yangyang.png"
+  },
+  {
+    "id": "swvhd",
+    "cardRarity": "Special",
+    "cardGroup": "WayV",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980666/swvhd_special_wayv_hendery.png"
+  },
+  {
+    "id": "swvkn",
+    "cardRarity": "Special",
+    "cardGroup": "WayV",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980674/swvkn_special_wayv_kun.png"
+  },
+  {
+    "id": "swvtn",
+    "cardRarity": "Special",
+    "cardGroup": "WayV",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980666/swvtn_special_wayv_ten.png"
+  },
+  {
+    "id": "swvww",
+    "cardRarity": "Special",
+    "cardGroup": "WayV",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980653/swvww_special_wayv_winwin.png"
+  },
+  {
+    "id": "swvxj",
+    "cardRarity": "Special",
+    "cardGroup": "WayV",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980654/swvxj_special_wayv_xiaojun.png"
+  },
+  {
+    "id": "swvyy",
+    "cardRarity": "Special",
+    "cardGroup": "WayV",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980654/swvyy_special_wayv_yangyang.png"
+  },
+  {
+    "id": "ewvhd",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "WayV",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980656/ewvhd_extraordinary_wayv_hendery.png"
+  },
+  {
+    "id": "ewvkn",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "WayV",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980645/ewvkn_extraordinary_wayv_kun.png"
+  },
+  {
+    "id": "ewvtn",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "WayV",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980661/ewvtn_extraordinary_wayv_ten.png"
+  },
+  {
+    "id": "ewvww",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "WayV",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980646/ewvww_extraordinary_wayv_winwin.png"
+  },
+  {
+    "id": "ewvxj",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "WayV",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980666/ewvxj_extraordinary_wayv_xiaojun.png"
+  },
+  {
+    "id": "ewvyy",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "WayV",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728980660/ewvyy_extraordinary_wayv_yangyang.png"
+  },
+  {
+    "id": "ukxkn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "KUN&XIAOJUN",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Water"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728984903/ukxkn_ordinary_kun-xiaojun_kun.png"
+  },
+  {
+    "id": "okxkn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "KUN&XIAOJUN",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Grass"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728984892/okxkn_ordinary_kun-xiaojun_kun.png"
+  },
+  {
+    "id": "ukxxj",
+    "cardRarity": "Ordinary",
+    "cardGroup": "KUN&XIAOJUN",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Water"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728984909/ukxxj_ordinary_kun-xiaojun_xiaojun.png"
+  },
+  {
+    "id": "okxxj",
+    "cardRarity": "Ordinary",
+    "cardGroup": "KUN&XIAOJUN",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728984896/okxxj_ordinary_kun-xiaojun_xiaojun.png"
+  },
+  {
+    "id": "osljh",
+    "cardRarity": "Ordinary",
+    "cardGroup": "Soloist",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221939/osljh_ordinary_soloist_jaehyun.png"
+  },
+  {
+    "id": "oslmk",
+    "cardRarity": "Ordinary",
+    "cardGroup": "Soloist",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221955/oslmk_ordinary_soloist_mark.png"
+  },
+  {
+    "id": "oslty",
+    "cardRarity": "Ordinary",
+    "cardGroup": "Soloist",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221751/oslty_ordinary_soloist_taeyong.png"
+  },
+  {
+    "id": "osltn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "Soloist",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Dragon"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221968/osltn_ordinary_soloist_ten.png"
+  },
+  {
+    "id": "usljh",
+    "cardRarity": "Unordinary",
+    "cardGroup": "Soloist",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728222076/usljh_unordinary_soloist_jaehyun.png"
+  },
+  {
+    "id": "uslmk",
+    "cardRarity": "Unordinary",
+    "cardGroup": "Soloist",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728222098/uslmk_unordinary_soloist_mark.png"
+  },
+  {
+    "id": "uslty",
+    "cardRarity": "Unordinary",
+    "cardGroup": "Soloist",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221884/uslty_unordinary_soloist_taeyong.png"
+  },
+  {
+    "id": "usltn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "Soloist",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Grass"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221748/usltn_unordinary_soloist_ten.png"
+  },
+  {
+    "id": "rsljh",
+    "cardRarity": "Rare",
+    "cardGroup": "Soloist",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221981/rsljh_rare_soloist_jaehyun.png"
+  },
+  {
+    "id": "rslmk",
+    "cardRarity": "Rare",
+    "cardGroup": "Soloist",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Water"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221999/rslmk_rare_soloist_mark.png"
+  },
+  {
+    "id": "rslty",
+    "cardRarity": "Rare",
+    "cardGroup": "Soloist",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221867/rslty_rare_soloist_taeyong.png"
+  },
+  {
+    "id": "rsltn",
+    "cardRarity": "Rare",
+    "cardGroup": "Soloist",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728222016/rsltn_rare_soloist_ten.png"
+  },
+  {
+    "id": "ssljh",
+    "cardRarity": "Special",
+    "cardGroup": "Soloist",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728222034/ssljh_special_soloist_jaehyun.png"
+  },
+  {
+    "id": "sslmk",
+    "cardRarity": "Special",
+    "cardGroup": "Soloist",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728222048/sslmk_special_soloist_mark.png"
+  },
+  {
+    "id": "sslty",
+    "cardRarity": "Special",
+    "cardGroup": "Soloist",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221877/sslty_special_soloist_taeyong.png"
+  },
+  {
+    "id": "ssltn",
+    "cardRarity": "Special",
+    "cardGroup": "Soloist",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728222062/ssltn_special_soloist_ten.png"
+  },
+  {
+    "id": "esljh",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "Soloist",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221893/esljh_extraordinary_soloist_jaehyun.png"
+  },
+  {
+    "id": "eslmk",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "Soloist",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221904/eslmk_extraordinary_soloist_mark.png"
+  },
+  {
+    "id": "eslty",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "Soloist",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221925/eslty_extraordinary_soloist_taeyong.png"
+  },
+  {
+    "id": "esltn",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "Soloist",
+    "name": "Ten WayV",
+    "group": "NCT",
+    "types": ["Metal"],
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728221915/esltn_extraordinary_soloist_ten.png"
+  },
+  {
+    "id": "sfmyve",
+    "cardRarity": "Priceless",
+    "cardGroup": "Staffmate Event",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990219/sfmyve_priceless_staffmate_yuta.png"
+  },
+  {
+    "id": "scoyut",
+    "cardRarity": "Priceless",
+    "cardGroup": "Scorpio",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990219/scoyut_priceless_scorpio_yuta.png"
+  },
+  {
+    "id": "amejae",
+    "cardRarity": "Priceless",
+    "cardGroup": "Amethyst",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990219/amejae_priceless_amethyst_jaehyun.png"
+  },
+  {
+    "id": "ubyong",
+    "cardRarity": "Priceless",
+    "cardGroup": "Ruby",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990219/ubyong_priceless_ruby_taeyong.png"
+  },
+  {
+    "id": "sarryo",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sardonyx",
+    "name": "Ryo",
+    "group": "NCT WISH",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990218/sarryo_priceless_sardonyx_ryo.png"
+  },
+  {
+    "id": "emesio",
+    "cardRarity": "Priceless",
+    "cardGroup": "Emerald",
+    "name": "Sion",
+    "group": "NCT WISH",
+    "types": ["Grass"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990213/emesio_priceless_emerald_sion.png"
+  },
+  {
+    "id": "slmjae",
+    "cardRarity": "Priceless",
+    "cardGroup": "Soulmate Event",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990212/slmjae_priceless_soulmate_jaehyun.png"
+  },
+  {
+    "id": "libion",
+    "cardRarity": "Priceless",
+    "cardGroup": "Libra",
+    "name": "Sion",
+    "group": "NCT WISH",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990210/libion_priceless_libra_sion.png"
+  },
+  {
+    "id": "cantae",
+    "cardRarity": "Priceless",
+    "cardGroup": "Cancer",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990210/cantae_priceless_cancer_taeyong.png"
+  },
+  {
+    "id": "btaiku",
+    "cardRarity": "Priceless",
+    "cardGroup": "BTA",
+    "name": "Riku",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990209/btaiku_priceless_bta_riku.png"
+  },
+  {
+    "id": "apodoy",
+    "cardRarity": "Priceless",
+    "cardGroup": "Apocalypse Event",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990209/apodoy_priceless_apocalypse_doyoung.png"
+  },
+  {
+    "id": "apfjoh",
+    "cardRarity": "Priceless",
+    "cardGroup": "April Fools Event Apf",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990202/apfjoh_priceless_apf_johnny.png"
+  },
+  {
+    "id": "amedoy",
+    "cardRarity": "Priceless",
+    "cardGroup": "Amethyst",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990202/amedoy_priceless_amethyst_doyoung.png"
+  },
+  {
+    "id": "apfdoy",
+    "cardRarity": "Priceless",
+    "cardGroup": "April Fools Event Bapf",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990201/apfdoy_priceless_apd_doyoung.png"
+  },
+  {
+    "id": "amejoh",
+    "cardRarity": "Priceless",
+    "cardGroup": "Amethyst",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990201/amejoh_priceless_amethyst_johnny.png"
+  },
+  {
+    "id": "amewoo",
+    "cardRarity": "Priceless",
+    "cardGroup": "Amethyst",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990200/amewoo_priceless_amethyst_jungwoo.png"
+  },
+  {
+    "id": "alejae",
+    "cardRarity": "Priceless",
+    "cardGroup": "Alexandrite",
+    "name": "Jaehee",
+    "group": "NCT WISH",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990196/alejae_priceless_alexandrite_jaehee.png"
+  },
+  {
+    "id": "sumren",
+    "cardRarity": "Priceless",
+    "cardGroup": "Summer Event",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990196/sumren_priceless_summer_renjun.png"
+  },
+  {
+    "id": "xm127",
+    "cardRarity": "Priceless",
+    "cardGroup": "Xmas Xmas23",
+    "name": "NCT127 127 group",
+    "group": "NCT NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990191/xm127_priceless_xmas23_nct_127.png"
+  },
+  {
+    "id": "sroark",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sanrio",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990191/sroark_priceless_sanrio_mark.png"
+  },
+  {
+    "id": "roykun",
+    "cardRarity": "Priceless",
+    "cardGroup": "Royal Event",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990190/roykun_priceless_royal%20event_kun.png"
+  },
+  {
+    "id": "sfmwni",
+    "cardRarity": "Priceless",
+    "cardGroup": "Staffmate Event",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990190/sfmwni_priceless_staffmate_renjun.png"
+  },
+  {
+    "id": "sarark",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sardonyx",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990187/sarark_priceless_sardonyx_mark.png"
+  },
+  {
+    "id": "leomar",
+    "cardRarity": "Priceless",
+    "cardGroup": "Leo",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990185/leomar_priceless_leo_mark.png"
+  },
+  {
+    "id": "sarjae",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sardonyx",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990185/sarjae_priceless_sardonyx_jaemin.png"
+  },
+  {
+    "id": "leomin",
+    "cardRarity": "Priceless",
+    "cardGroup": "Leo",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Dragon"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990182/leomin_priceless_leo_jaemin.png"
+  },
+  {
+    "id": "zuhjno",
+    "cardRarity": "Priceless",
+    "cardGroup": "Cardcaptor",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990181/zuhjno_priceless_cardcaptor_jeno.png"
+  },
+  {
+    "id": "sagche",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sagittarius",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990178/sagche_priceless_sagittarius_chenle.png"
+  },
+  {
+    "id": "pseyt",
+    "cardRarity": "Priceless",
+    "cardGroup": "Stardust Event",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990177/pseyt_priceless_stardust_event_yuta.png"
+  },
+  {
+    "id": "hbdrhi",
+    "cardRarity": "Priceless",
+    "cardGroup": "Staff Birthday",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Darkness"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990176/hbdrhi_priceless_staff%20birthday_jisung.png"
+  },
+  {
+    "id": "fmxmcl",
+    "cardRarity": "Priceless",
+    "cardGroup": "Fanmade Xmas",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Lightning"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990172/fmxmcl_priceless_fanmade%20xmas_chenle.png"
+  },
+  {
+    "id": "evhaec",
+    "cardRarity": "Priceless",
+    "cardGroup": "Evil Event",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990169/evhaec_priceless_evil_haechan.gif"
+  },
+  {
+    "id": "faejsg",
+    "cardRarity": "Priceless",
+    "cardGroup": "Fairy Fairies Event",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990170/faejsg_priceless_fairies_jisung.png"
+  },
+  {
+    "id": "diajen",
+    "cardRarity": "Priceless",
+    "cardGroup": "Diamond",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990169/diajen_priceless_diamond_jeno.png"
+  },
+  {
+    "id": "btahae",
+    "cardRarity": "Priceless",
+    "cardGroup": "BTA",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990168/btahae_priceless_bta_haechan.png"
+  },
+  {
+    "id": "cdycnl",
+    "cardRarity": "Priceless",
+    "cardGroup": "Candy Event",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990166/cdycnl_priceless_candy_chenle.png"
+  },
+  {
+    "id": "amejis",
+    "cardRarity": "Priceless",
+    "cardGroup": "Amethyst",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990163/amejis_priceless_amethyst_jisung.png"
+  },
+  {
+    "id": "alehae",
+    "cardRarity": "Priceless",
+    "cardGroup": "Alexandrite",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990162/alehae_priceless_alexandrite_haechan.png"
+  },
+  {
+    "id": "apfjmn",
+    "cardRarity": "Priceless",
+    "cardGroup": "April Fools Event Papf",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Water"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990160/apfjmn_priceless_apf_jaemin.png"
+  },
+  {
+    "id": "xowin",
+    "cardRarity": "Priceless",
+    "cardGroup": "XOXO Event",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990160/xowin_priceless_xoxo_winwin.png"
+  },
+  {
+    "id": "tyuten",
+    "cardRarity": "Priceless",
+    "cardGroup": "Thanku",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990158/tyuten_priceless_thanku_ten.png"
+  },
+  {
+    "id": "sumwin",
+    "cardRarity": "Priceless",
+    "cardGroup": "Summer",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Water"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990153/sumwin_priceless_summer_winwin.png"
+  },
+  {
+    "id": "sarjun",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sardonyx",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Fighting"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990152/sarjun_priceless_sardonyx_xiaojun.png"
+  },
+  {
+    "id": "sapder",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sapphire",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990152/sapder_priceless_sapphire_hendery.png"
+  },
+  {
+    "id": "sroery",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sanrio",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990151/sroery_priceless_sanrio_hendery.png"
+  },
+  {
+    "id": "scowin",
+    "cardRarity": "Priceless",
+    "cardGroup": "Scorpio",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990149/scowin_priceless_scorpio_winwin.png"
+  },
+  {
+    "id": "pserj",
+    "cardRarity": "Priceless",
+    "cardGroup": "Stardust Event",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990147/pserj_priceless_stardust%20event_renjun.png"
+  },
+  {
+    "id": "paqxj",
+    "cardRarity": "Priceless",
+    "cardGroup": "Aphrodite",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990143/paqxj_priceless_aphrodite_xiaojun.png"
+  },
+  {
+    "id": "leojun",
+    "cardRarity": "Priceless",
+    "cardGroup": "Leo",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Dragon"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990141/leojun_priceless_leo_xiaojun.png"
+  },
+  {
+    "id": "evtenn",
+    "cardRarity": "Priceless",
+    "cardGroup": "Evil Event",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Grass"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990140/evtenn_priceless_evil_ten.png"
+  },
+  {
+    "id": "libhen",
+    "cardRarity": "Priceless",
+    "cardGroup": "Libra",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990140/libhen_priceless_libra_hendery.png"
+  },
+  {
+    "id": "apokun",
+    "cardRarity": "Priceless",
+    "cardGroup": "Apocalypse Event",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990137/apokun_priceless_apocalypse_kun.png"
+  },
+  {
+    "id": "faexia",
+    "cardRarity": "Priceless",
+    "cardGroup": "Fairy Fairies Event",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990133/faexia_priceless_fairies_xiaojun.png"
+  },
+  {
+    "id": "apften",
+    "cardRarity": "Priceless",
+    "cardGroup": "April Fools Event Papf",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": "",
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990131/apften_priceless_apf_ten.png"
+  },
+  {
+    "id": "ameten",
+    "cardRarity": "Priceless",
+    "cardGroup": "Amethyst",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990131/ameten_priceless_amethyst_ten.png"
+  },
+  {
+    "id": "roydoy",
+    "cardRarity": "Priceless",
+    "cardGroup": "Royal Event",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Dragon"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990127/roydoy_priceless_royal%20event_doyoung.png"
+  },
+  {
+    "id": "hbdwonnie",
+    "cardRarity": "Priceless",
+    "cardGroup": "Staff Birthday",
+    "name": "NCT Dream group",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990126/hbdwonnie_priceless_staff%20birthday_nct%20dream.png"
+  },
+  {
+    "id": "xmyyg",
+    "cardRarity": "Priceless",
+    "cardGroup": "Xmas Xmas23",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990126/xmyyg_priceless_xmas23_yangyang.png"
+  },
+  {
+    "id": "libyyg",
+    "cardRarity": "Priceless",
+    "cardGroup": "Libra",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990124/libyyg_priceless_libra_yangyang.png"
+  },
+  {
+    "id": "aquren",
+    "cardRarity": "Priceless",
+    "cardGroup": "Aquamarine",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Grass"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990122/aquren_priceless_aquamarine_renjun.png"
+  },
+  {
+    "id": "scosak",
+    "cardRarity": "Priceless",
+    "cardGroup": "Scorpio",
+    "name": "Sakuya",
+    "group": "NCT WISH",
+    "types": ["Fire"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990117/scosak_priceless_scorpio_sakuya.png"
+  },
+  {
+    "id": "anwvww",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Metal"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728985121/anwvww_altair_anniversary_winwin.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "anwvtn",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728985107/anwvtn_altair_anniversary_ten.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "anwvkn",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728985093/anwvkn_altair_anniversary_kun.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "anwvhd",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Hendery",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728985079/anwvhd_altair_anniversary_hendery.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "anwvxj",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Xiaojun",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728985068/anwvxj_altair_anniversary_xiaojun.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "anwvyy",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Yangyang",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728985058/anwvyy_altair_anniversary_yangyang.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "anndrj",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Renjun",
+    "group": "NCT Dream",
+    "types": ["Psychic"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729260295/anndrj_altair_anniversary_renjun.png"
+  },
+  {
+    "id": "anndmk",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Water"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729260296/anndmk_altair_anniversary_mark.png"
+  },
+  {
+    "id": "anndjn",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Jeno",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729260299/anndjn_altair_anniversary_jeno.png"
+  },
+  {
+    "id": "anndhc",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Haechan",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729260296/anndhc_altair_anniversary_haechan.png"
+  },
+  {
+    "id": "anndjm",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Jaemin",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728903140/anndjm_altair_anniversary_jaemin.png"
+  },
+  {
+    "id": "anndcl",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728903140/anndcl_altair_anniversary_chenle.png"
+  },
+  {
+    "id": "anndjs",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Jisung",
+    "group": "NCT Dream",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728903137/anndjs_altair_anniversary_jisung.png"
+  },
+  {
+    "id": "dwjnmk",
+    "cardRarity": "Altair",
+    "cardGroup": "Duoween",
+    "name": "Johnny & Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Fire"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728902100/dwjnmk_altair_duoween_johnny%20mark.png"
+  },
+  {
+    "id": "nwyrkn",
+    "cardRarity": "Altair",
+    "cardGroup": "New Year",
+    "name": "Kun",
+    "group": "NCT WayV",
+    "types": ["Lightning"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728901655/nwyrkn_altair_new%20year_kun.png"
+  },
+  {
+    "id": "lnywin",
+    "cardRarity": "Altair",
+    "cardGroup": "Lunar Year",
+    "name": "Winwin",
+    "group": "NCT WayV NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728901454/lnywin_altair_lunar%20year_winwin.png"
+  },
+  {
+    "id": "ftrsmmark",
+    "cardRarity": "Altair",
+    "cardGroup": "Futurism",
+    "name": "Mark",
+    "group": "NCT Dream NCT127 127",
+    "types": ["Darkness"],
+    "rarity": "Amazing Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728901210/ftrsmmark_altair_futurism_mark.png",
+    "mask": "",
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+  },
+  {
+    "id": "gmlchenle",
+    "cardRarity": "Altair",
+    "cardGroup": "Lucky",
+    "name": "Chenle",
+    "group": "NCT Dream",
+    "types": ["Grass"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728901047/gmlchenle_altair_lucky_chenle.png"
+  },
+  {
+    "id": "foolten",
+    "cardRarity": "Altair",
+    "cardGroup": "Fools",
+    "name": "Ten",
+    "group": "NCT WayV",
+    "types": ["Metal"],
+    "rarity": "Trainer Gallery Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900795/foolten_altair_fools_ten_in_wonderland.png"
+  },
+  {
+    "id": "anncjn",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Johnny",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900496/anncjn_altair_anniversary_johnny.png"
+  },
+  {
+    "id": "anncty",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Taeyong",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900492/anncty_altair_anniversary_taeyong.png"
+  },
+  {
+    "id": "anncyt",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900490/anncyt_altair_anniversary_yuta.png"
+  },
+  {
+    "id": "anncdy",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Doyoung",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900490/anncdy_altair_anniversary_doyoung.png"
+  },
+  {
+    "id": "anncjw",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Jungwoo",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900489/anncjw_altair_anniversary_jungwoo.png"
+  },
+  {
+    "id": "anncjh",
+    "cardRarity": "Altair",
+    "cardGroup": "Anniversary",
+    "name": "Jaehyun",
+    "group": "NCT NCT127 127",
+    "types": ["Fairy"],
+    "rarity": "Rare Holo VMAX",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728900487/anncjh_altair_anniversary_jaehyun.png"
+  },
+  {
+    "id": "hbdyve",
+    "cardRarity": "Priceless",
+    "cardGroup": "Staff Birthday",
+    "name": "Yuta",
+    "group": "NCT NCT127 127",
+    "types": ["Grass"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728725102/hbdyve_priceless_staff%20birthday_yuta.png"
+  }
+]

@@ -16,7 +16,7 @@
 
   // image props
   export let img = "";
-  export let back = "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725179006/card_back_feivelyn.png";
+  export let back = "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729316272/card_back_feivelyn_m2xzjs.png";
   export let foil = "";
   export let mask = "";
 

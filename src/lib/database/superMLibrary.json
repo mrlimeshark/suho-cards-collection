@@ -1,0 +1,302 @@
+[
+  {
+    "id": "osmbh",
+    "cardRarity": "Ordinary",
+    "cardGroup": "SuperM",
+    "name": "Baekhyun",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160135/osmbh_ordinary_superm_baekhyun_ajmxbe.png"
+  },
+  {
+    "id": "osmka",
+    "cardRarity": "Ordinary",
+    "cardGroup": "SuperM",
+    "name": "Kai",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160138/osmka_ordinary_superm_kai_df3fw4.png"
+  },
+  {
+    "id": "osmmk",
+    "cardRarity": "Ordinary",
+    "cardGroup": "SuperM",
+    "name": "Mark",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001535/osmmk_ordinary_superm_mark.png"
+  },
+  {
+    "id": "osmtm",
+    "cardRarity": "Ordinary",
+    "cardGroup": "SuperM",
+    "name": "Taemin",
+    "group": "Shinee",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001550/osmtm_ordinary_superm_taemin.png"
+  },
+  {
+    "id": "osmtn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "SuperM",
+    "name": "Ten",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001564/osmtn_ordinary_superm_ten.png"
+  },
+  {
+    "id": "osmty",
+    "cardRarity": "Ordinary",
+    "cardGroup": "SuperM",
+    "name": "Taeyong",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001579/osmty_ordinary_superm_taeyong.png"
+  },
+  {
+    "id": "usmbh",
+    "cardRarity": "Unordinary",
+    "cardGroup": "SuperM",
+    "name": "Baekhyun",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160143/usmbh_unordinary_superm_baekhyun_v1n2aq.png"
+  },
+  {
+    "id": "usmka",
+    "cardRarity": "Unordinary",
+    "cardGroup": "SuperM",
+    "name": "Kai",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160147/usmka_unordinary_superm_kai_gbpmfl.png"
+  },
+  {
+    "id": "usmmk",
+    "cardRarity": "Unordinary",
+    "cardGroup": "SuperM",
+    "name": "Mark",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001698/usmmk_unordinary_superm_mark.png"
+  },
+  {
+    "id": "usmtm",
+    "cardRarity": "Unordinary",
+    "cardGroup": "SuperM",
+    "name": "Taemin",
+    "group": "Shinee",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001714/usmtm_unordinary_superm_taemin.png"
+  },
+  {
+    "id": "usmtn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "SuperM",
+    "name": "Ten",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001729/usmtn_unordinary_superm_ten.png"
+  },
+  {
+    "id": "usmty",
+    "cardRarity": "Unordinary",
+    "cardGroup": "SuperM",
+    "name": "Taeyong",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001746/usmty_unordinary_superm_taeyong.png"
+  },
+  {
+    "id": "rsmbh",
+    "cardRarity": "Rare",
+    "cardGroup": "SuperM",
+    "name": "Baekhyun",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160227/rsmbh_rare_superm_baekhyun_s70oyp.png"
+  },
+  {
+    "id": "rsmka",
+    "cardRarity": "Rare",
+    "cardGroup": "SuperM",
+    "name": "Kai",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160231/rsmka_rare_superm_kai_fhkz0x.png"
+  },
+  {
+    "id": "rsmmk",
+    "cardRarity": "Rare",
+    "cardGroup": "SuperM",
+    "name": "Mark",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001594/rsmmk_rare_superm_mark.png"
+  },
+  {
+    "id": "rsmtm",
+    "cardRarity": "Rare",
+    "cardGroup": "SuperM",
+    "name": "Taemin",
+    "group": "Shinee",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001608/rsmtm_rare_superm_taemin.png"
+  },
+  {
+    "id": "rsmtn",
+    "cardRarity": "Rare",
+    "cardGroup": "SuperM",
+    "name": "Ten",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001623/rsmtn_rare_superm_ten.png"
+  },
+  {
+    "id": "rsmty",
+    "cardRarity": "Rare",
+    "cardGroup": "SuperM",
+    "name": "Taeyong",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729003097/rsmty_rare_superm_taeyong_1_vg1hkx.png"
+  },
+  {
+    "id": "ssmbh",
+    "cardRarity": "Special",
+    "cardGroup": "SuperM",
+    "name": "Baekhyun",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160236/ssmbh_special_superm_baekhyun_k08vak.png"
+  },
+  {
+    "id": "ssmka",
+    "cardRarity": "Special",
+    "cardGroup": "SuperM",
+    "name": "Kai",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160239/ssmka_special_superm_kai_yg3ctm.png"
+  },
+  {
+    "id": "ssmmk",
+    "cardRarity": "Special",
+    "cardGroup": "SuperM",
+    "name": "Mark",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001638/ssmmk_special_superm_mark.png"
+  },
+  {
+    "id": "ssmtm",
+    "cardRarity": "Special",
+    "cardGroup": "SuperM",
+    "name": "Taemin",
+    "group": "Shinee",
+    "types": "",
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001652/ssmtm_special_superm_taemin.png"
+  },
+  {
+    "id": "ssmtn",
+    "cardRarity": "Special",
+    "cardGroup": "SuperM",
+    "name": "Ten",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001668/ssmtn_special_superm_ten.png"
+  },
+  {
+    "id": "ssmty",
+    "cardRarity": "Special",
+    "cardGroup": "SuperM",
+    "name": "Taeyong",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo Cosmos",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001684/ssmty_special_superm_taeyong.png"
+  },
+  {
+    "id": "esmbh",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "SuperM",
+    "name": "Baekhyun",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160244/esmbh_extraordinary_superm_baekhyun_fusbmj.png"
+  },
+  {
+    "id": "esmka",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "SuperM",
+    "name": "Kai",
+    "group": "EXO",
+    "types": "",
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160247/esmka_extraordinary_superm_kai_esgs4w.png"
+  },
+  {
+    "id": "esmmk",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "SuperM",
+    "name": "Mark",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001469/esmmk_extraordinary_superm_mark.png"
+  },
+  {
+    "id": "esmtm",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "SuperM",
+    "name": "Taemin",
+    "group": "Shinee",
+    "types": "",
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001481/esmtm_extraordinary_superm_taemin.png"
+  },
+  {
+    "id": "esmtn",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "SuperM",
+    "name": "Ten",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001496/esmtn_extraordinary_superm_ten.png"
+  },
+  {
+    "id": "esmty",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "SuperM",
+    "name": "Taeyong",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Radiant Rare",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001509/esmty_extraordinary_superm_taeyong.png"
+  }
+]

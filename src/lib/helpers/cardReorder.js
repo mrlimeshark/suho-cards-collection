@@ -1,16 +1,19 @@
 import { writeFileSync } from 'fs';
 
-const cards = []
-  ;
+//const cards = require('src/lib/database/nctLibrary.json');
+const cards = require('./card_data.json');
   
   // Define the order for each property
-  const groupOrder = ["EXO", "EXO-CBX", "EXO-SC", "SuperM", "Soloist"];
+  //const groupOrder = ["EXO", "EXO-CBX", "EXO-SC", "SuperM", "Soloist"];
+  const groupOrder = ["NCT127", "NCT Dream", "WayV", "KUN&XIAOJUN", "Soloist"];
   const rarityOrder = ["Ordinary", "Unordinary", "Rare", "Special", "Extraordinary", "Priceless", "Altair"];
-  const nameOrder = ["Baekhyun", "Chen", "Chanyeol", "D.O.", "Kai", "Lay", "Luhan", "Sehun", "Suho", "Tao", "Xiumin"];
-  
+  //const nameOrder = ["Baekhyun", "Chen", "Chanyeol", "D.O.", "Kai", "Lay", "Luhan", "Sehun", "Suho", "Tao", "Xiumin"];
+  const nameOrder = ["Chenle", "Doyoung", "Haechan", "Hendery", "Jaehyun", "Jaemin", "Jeno", "Jisung", "Johnny", "Jungwoo",
+  "Kun", "Mark", "Renjun", "Riku", "Ryo", "Sakuya", "Sion", "Taeyong", "Ten", "Winwin", "Xiaojun", "Yangyang", "Yuta"];
+
   // Sorting
   cards.sort((a, b) => {
-    const groupDiff = groupOrder.indexOf(a.group) - groupOrder.indexOf(b.group);
+    const groupDiff = groupOrder.indexOf(a.cardGroup) - groupOrder.indexOf(b.cardGroup);
     if (groupDiff !== 0) return groupDiff;
     
     const rarityDiff = rarityOrder.indexOf(a.cardRarity) - rarityOrder.indexOf(b.cardRarity);

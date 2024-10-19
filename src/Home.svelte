@@ -97,7 +97,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card library update: <strong>06/10/2024</strong>  <br />
+				Latest card library update: <strong>19/10/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -119,11 +119,11 @@
 			<p>
 				
 				 <br/>
-				 EVENT DROP: <strong>Priceless</strong> sapchn (no longer droppable)<br />
-				 REGULAR RELEASE: <strong>Ordinary</strong> o2slsu, <strong>Unordinary</strong> u2slsu, <strong>Rare</strong> r2slsu,
-				 <strong>Special</strong> s2slsu, <strong>Extraordinary</strong> e2slsu
+				 <strong>NCT joins our interactive collection!</strong><br />
+				 NCT127, NCT Dream, WayV, KUN&XIAOJUN, NCT WISH, Soloist, and all event cards are now searchable. <br />
+				 Typing <strong>only</strong> the 'NCT' keyword will fetch every aforementioned card, so specific keywords are preferred for your convenience.
 			</p>
-			<h3>Good luck dropping!</h3>
+			<h3></h3>
 
 			<CardList>
 				{#if isLoading}
