@@ -1602,7 +1602,7 @@
     {
       "id": "sumdin",
       "cardRarity": "Priceless",
-      "cardGroup": "Bsummer",
+      "cardGroup": "Summer Event Bsummer",
       "name": "Dino",
       "group": "Seventeen",
       "types": ["Metal"],
@@ -1612,7 +1612,7 @@
     {
       "id": "xodin",
       "cardRarity": "Priceless",
-      "cardGroup": "XOXO",
+      "cardGroup": "XOXO Event",
       "name": "Dino",
       "group": "Seventeen",
       "types": ["Fairy"],
@@ -1632,7 +1632,7 @@
     {
       "id": "apfshi",
       "cardRarity": "Priceless",
-      "cardGroup": "Apf",
+      "cardGroup": "April Fools Event Apf",
       "name": "Hoshi",
       "group": "Seventeen",
       "types": ["Fairy"],
@@ -1642,7 +1642,7 @@
     {
       "id": "xmhsi",
       "cardRarity": "Priceless",
-      "cardGroup": "Xmas23",
+      "cardGroup": "Xmas Xmas23",
       "name": "Hoshi",
       "group": "Seventeen",
       "types": ["Fire"],
@@ -1652,7 +1652,7 @@
     {
       "id": "evghan",
       "cardRarity": "Priceless",
-      "cardGroup": "Evil",
+      "cardGroup": "Evil Event",
       "name": "Jeonghan",
       "group": "Seventeen",
       "types": ["Darkness"],
@@ -1662,7 +1662,7 @@
     {
       "id": "faejhn",
       "cardRarity": "Priceless",
-      "cardGroup": "Bfairies",
+      "cardGroup": "Fairy Fairies Event Bfairies",
       "name": "Jeonghan",
       "group": "Seventeen",
       "types": ["Fairy"],
@@ -1742,7 +1742,7 @@
     {
       "id": "sfmami",
       "cardRarity": "Priceless",
-      "cardGroup": "Staffmate",
+      "cardGroup": "Staffmate Event",
       "name": "Joshua",
       "group": "Seventeen",
       "types": ["Fire"],
@@ -1812,7 +1812,7 @@
     {
       "id": "cdythe",
       "cardRarity": "Priceless",
-      "cardGroup": "Bcandy",
+      "cardGroup": "Candy Event Bcandy",
       "name": "The8",
       "group": "Seventeen",
       "types": ["Psychic"],
@@ -1862,7 +1862,7 @@
     {
       "id": "apover",
       "cardRarity": "Priceless",
-      "cardGroup": "Papocalypse",
+      "cardGroup": "Apocalypse Event Papocalypse",
       "name": "Vernon",
       "group": "Seventeen",
       "types": ["Metal"],
@@ -1872,7 +1872,7 @@
     {
       "id": "sfmshy",
       "cardRarity": "Priceless",
-      "cardGroup": "Staffmate",
+      "cardGroup": "Staffmate Event",
       "name": "Vernon",
       "group": "Seventeen",
       "types": ["Fairy"],
@@ -1902,7 +1902,7 @@
     {
       "id": "slmwwo",
       "cardRarity": "Priceless",
-      "cardGroup": "Soulmate",
+      "cardGroup": "Soulmate Event",
       "name": "Wonwoo",
       "group": "Seventeen",
       "types": ["Fairy"],
@@ -1932,7 +1932,7 @@
     {
       "id": "sfmnco",
       "cardRarity": "Priceless",
-      "cardGroup": "Staffmate",
+      "cardGroup": "Staffmate Event",
       "name": "Woozi",
       "group": "Seventeen",
       "types": ["Fairy"],

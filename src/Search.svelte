@@ -7,6 +7,8 @@
 
   import EXOLib from "./lib/database/exoLibrary.json";
   import SVTLib from "./lib/database/svtLibrary.json";
+  import NCTLib from "./lib/database/nctLibrary.json";
+  import SupMLib from "./lib/database/superMLibrary.json";
 
 	export let query = "";
   let placeholderText = "";
@@ -27,7 +29,10 @@
   //Don't do 'let something = getCards()'
 
   // Combine the multiple libraries
-  const fullLibrary = [...EXOLib, ...SVTLib];
+  const fullLibrary = [...EXOLib, ...SupMLib, ...SVTLib, ...NCTLib];
+
+  // For testing
+  //const testLibrary = [...EXOLib, ...NCTLib];
 
 
   const generateRandomPlaceholder = () => {
@@ -76,7 +81,7 @@
 
 
           try {
-
+            // CHANGE LIBRARY HERE *********************************
             const filteredCards = search(fullLibrary, query);
             isError = false;
 
