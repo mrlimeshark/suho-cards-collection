@@ -42,7 +42,7 @@
 
 			<h2>Latest major update: <strong>19/10/2024</strong></h2> <br/>
 			<p>
-				<mark>NCT is now proud citizens of our card database!</mark> 🎉 <br/>
+				<mark>NCT is now a proud citizen of our card database!</mark> 🎉 <br/>
 				NCT has multiple subgroups, and some members of NCT are part of more than one subgroup.
 				For instance, both NCT127 and NCT Dream have Mark cards, and obviously, the search system of the SUHO bot
 				is not quite flexible for looking up every Mark card at once. <br/>
@@ -79,7 +79,7 @@
 		</h2>
 		<p>
 			<br/>
-			<mark>NCT is now proud citizens of our card database!</mark> 🎉 <br/>
+			<mark>NCT is now a proud citizen of our card database!</mark> 🎉 <br/>
 			<strong>Available cards: NCT127, NCT Dream, WayV, KUN&XIAOJUN, NCT WISH, Soloist, and event cards.</strong><br/>
 			
 			<br/><strong>Usable keywords: nct, nct127, 127, nct dream, dream, wayv, nct wish, wish, group(for group photos), soloist, card codes, event names, etc.</strong><br/>
