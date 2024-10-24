@@ -97,7 +97,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card database update: <strong>19/10/2024</strong>  <br />
+				Latest card database update: <strong>25/10/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -120,7 +120,7 @@
 				
 				 <br/>
 				 <strong><mark>NCT joins our interactive card collection!</mark></strong><br />
-				 NCT127, NCT Dream, WayV, KUN&XIAOJUN, NCT WISH(if any), Soloist, and all event cards are now searchable. <br />
+				 NCT127, NCT Dream, WayV, KUN&XIAOJUN, NCT WISH, Soloist, and all event cards are now searchable. <br />
 				 Typing <strong>only</strong> the 'NCT' keyword will fetch every aforementioned card, so specific keywords are preferred for your convenience. <br/>
 				 <br/>PS, all SuperM cards are also available.
 			</p>
