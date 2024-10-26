@@ -5,11 +5,13 @@
   export let id = undefined;
   export let cardRarity = undefined;
   export let cardGroup = undefined;
-  export let name = undefined; //Artist name
+  export let name = undefined; // Artist name
   export let group = undefined; // The "root" group of an artist
-  export let types = undefined; //Card outline colour (Pokemon types)
-  export let rarity = undefined; //Foil effect based on the rarities of Pokemon cards.
-  export let isReverse = false;
+  export let types = undefined; // Card outline colour (Pokemon types)
+  export let rarity = undefined; // Foil effect based on the rarities of Pokemon cards.
+  export let category = undefined; // Regular or Event or Gemstones?
+  export let keyword = undefined; // Search tokens
+  //export let isReverse = false;
 
   // image props
   export let img = undefined;
@@ -44,6 +46,8 @@
     group,
     types,
     rarity,
+    category,
+    keyword,
     showcase
 
   }

@@ -5,9 +5,11 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160135/osmbh_ordinary_superm_baekhyun_ajmxbe.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160135/osmbh_ordinary_superm_baekhyun_ajmxbe.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "osmka",
@@ -15,9 +17,11 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160138/osmka_ordinary_superm_kai_df3fw4.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160138/osmka_ordinary_superm_kai_df3fw4.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "osmmk",
@@ -25,19 +29,23 @@
     "cardGroup": "SuperM",
     "name": "Mark",
     "group": "NCT",
-    "types": "",
+    "types": ["Fairy"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001535/osmmk_ordinary_superm_mark.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001535/osmmk_ordinary_superm_mark.png",
+    "category": "Regular",
+    "keyword": "Dream NCT127 127"
   },
   {
     "id": "osmtm",
     "cardRarity": "Ordinary",
     "cardGroup": "SuperM",
     "name": "Taemin",
-    "group": "Shinee",
-    "types": "",
+    "group": "SHINee",
+    "types": ["Water"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001550/osmtm_ordinary_superm_taemin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001550/osmtm_ordinary_superm_taemin.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "osmtn",
@@ -45,9 +53,11 @@
     "cardGroup": "SuperM",
     "name": "Ten",
     "group": "NCT",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001564/osmtn_ordinary_superm_ten.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001564/osmtn_ordinary_superm_ten.png",
+    "category": "Regular",
+    "keyword": "WayV"
   },
   {
     "id": "osmty",
@@ -55,9 +65,11 @@
     "cardGroup": "SuperM",
     "name": "Taeyong",
     "group": "NCT",
-    "types": "",
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001579/osmty_ordinary_superm_taeyong.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001579/osmty_ordinary_superm_taeyong.png",
+    "category": "Regular",
+    "keyword": "NCT127 127"
   },
   {
     "id": "usmbh",
@@ -65,9 +77,11 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": "",
+    "types": ["Water"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160143/usmbh_unordinary_superm_baekhyun_v1n2aq.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160143/usmbh_unordinary_superm_baekhyun_v1n2aq.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "usmka",
@@ -75,9 +89,11 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": "",
+    "types": ["Darkness"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160147/usmka_unordinary_superm_kai_gbpmfl.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160147/usmka_unordinary_superm_kai_gbpmfl.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "usmmk",
@@ -85,19 +101,23 @@
     "cardGroup": "SuperM",
     "name": "Mark",
     "group": "NCT",
-    "types": "",
+    "types": ["Darkness"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001698/usmmk_unordinary_superm_mark.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001698/usmmk_unordinary_superm_mark.png",
+    "category": "Regular",
+    "keyword": "Dream NCT127 127"
   },
   {
     "id": "usmtm",
     "cardRarity": "Unordinary",
     "cardGroup": "SuperM",
     "name": "Taemin",
-    "group": "Shinee",
-    "types": "",
+    "group": "SHINee",
+    "types": ["Darkness"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001714/usmtm_unordinary_superm_taemin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001714/usmtm_unordinary_superm_taemin.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "usmtn",
@@ -105,9 +125,11 @@
     "cardGroup": "SuperM",
     "name": "Ten",
     "group": "NCT",
-    "types": "",
+    "types": ["Darkness"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001729/usmtn_unordinary_superm_ten.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001729/usmtn_unordinary_superm_ten.png",
+    "category": "Regular",
+    "keyword": "WayV"
   },
   {
     "id": "usmty",
@@ -115,9 +137,11 @@
     "cardGroup": "SuperM",
     "name": "Taeyong",
     "group": "NCT",
-    "types": "",
+    "types": ["Darkness"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001746/usmty_unordinary_superm_taeyong.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001746/usmty_unordinary_superm_taeyong.png",
+    "category": "Regular",
+    "keyword": "NCT127 127"
   },
   {
     "id": "rsmbh",
@@ -125,9 +149,11 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": "",
+    "types": ["Water"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160227/rsmbh_rare_superm_baekhyun_s70oyp.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160227/rsmbh_rare_superm_baekhyun_s70oyp.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rsmka",
@@ -135,9 +161,11 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160231/rsmka_rare_superm_kai_fhkz0x.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160231/rsmka_rare_superm_kai_fhkz0x.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rsmmk",
@@ -145,19 +173,23 @@
     "cardGroup": "SuperM",
     "name": "Mark",
     "group": "NCT",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001594/rsmmk_rare_superm_mark.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001594/rsmmk_rare_superm_mark.png",
+    "category": "Regular",
+    "keyword": "Dream NCT127 127"
   },
   {
     "id": "rsmtm",
     "cardRarity": "Rare",
     "cardGroup": "SuperM",
     "name": "Taemin",
-    "group": "Shinee",
-    "types": "",
+    "group": "SHINee",
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001608/rsmtm_rare_superm_taemin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001608/rsmtm_rare_superm_taemin.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rsmtn",
@@ -165,9 +197,11 @@
     "cardGroup": "SuperM",
     "name": "Ten",
     "group": "NCT",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001623/rsmtn_rare_superm_ten.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001623/rsmtn_rare_superm_ten.png",
+    "category": "Regular",
+    "keyword": "WayV"
   },
   {
     "id": "rsmty",
@@ -175,9 +209,11 @@
     "cardGroup": "SuperM",
     "name": "Taeyong",
     "group": "NCT",
-    "types": "",
+    "types": ["Water"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729003097/rsmty_rare_superm_taeyong_1_vg1hkx.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729003097/rsmty_rare_superm_taeyong_1_vg1hkx.png",
+    "category": "Regular",
+    "keyword": "NCT127 127"
   },
   {
     "id": "ssmbh",
@@ -185,9 +221,11 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": "",
+    "types": ["Dragon"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160236/ssmbh_special_superm_baekhyun_k08vak.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160236/ssmbh_special_superm_baekhyun_k08vak.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "ssmka",
@@ -195,9 +233,11 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": "",
+    "types": ["Dragon"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160239/ssmka_special_superm_kai_yg3ctm.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160239/ssmka_special_superm_kai_yg3ctm.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "ssmmk",
@@ -205,19 +245,23 @@
     "cardGroup": "SuperM",
     "name": "Mark",
     "group": "NCT",
-    "types": "",
+    "types": ["Dragon"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001638/ssmmk_special_superm_mark.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001638/ssmmk_special_superm_mark.png",
+    "category": "Regular",
+    "keyword": "Dream NCT127 127"
   },
   {
     "id": "ssmtm",
     "cardRarity": "Special",
     "cardGroup": "SuperM",
     "name": "Taemin",
-    "group": "Shinee",
-    "types": "",
+    "group": "SHINee",
+    "types": ["Dragon"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001652/ssmtm_special_superm_taemin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001652/ssmtm_special_superm_taemin.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "ssmtn",
@@ -225,9 +269,11 @@
     "cardGroup": "SuperM",
     "name": "Ten",
     "group": "NCT",
-    "types": "",
+    "types": ["Dragon"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001668/ssmtn_special_superm_ten.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001668/ssmtn_special_superm_ten.png",
+    "category": "Regular",
+    "keyword": "WayV"
   },
   {
     "id": "ssmty",
@@ -235,9 +281,11 @@
     "cardGroup": "SuperM",
     "name": "Taeyong",
     "group": "NCT",
-    "types": "",
+    "types": ["Dragon"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001684/ssmty_special_superm_taeyong.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001684/ssmty_special_superm_taeyong.png",
+    "category": "Regular",
+    "keyword": "NCT127 127"
   },
   {
     "id": "esmbh",
@@ -245,9 +293,11 @@
     "cardGroup": "SuperM",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160244/esmbh_extraordinary_superm_baekhyun_fusbmj.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160244/esmbh_extraordinary_superm_baekhyun_fusbmj.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "esmka",
@@ -255,9 +305,11 @@
     "cardGroup": "SuperM",
     "name": "Kai",
     "group": "EXO",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160247/esmka_extraordinary_superm_kai_esgs4w.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728160247/esmka_extraordinary_superm_kai_esgs4w.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "esmmk",
@@ -265,19 +317,23 @@
     "cardGroup": "SuperM",
     "name": "Mark",
     "group": "NCT",
-    "types": "",
+    "types": ["Fire"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001469/esmmk_extraordinary_superm_mark.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001469/esmmk_extraordinary_superm_mark.png",
+    "category": "Regular",
+    "keyword": "Dream NCT127 127"
   },
   {
     "id": "esmtm",
     "cardRarity": "Extraordinary",
     "cardGroup": "SuperM",
     "name": "Taemin",
-    "group": "Shinee",
+    "group": "SHINee",
     "types": "",
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001481/esmtm_extraordinary_superm_taemin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001481/esmtm_extraordinary_superm_taemin.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "esmtn",
@@ -285,9 +341,11 @@
     "cardGroup": "SuperM",
     "name": "Ten",
     "group": "NCT",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001496/esmtn_extraordinary_superm_ten.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001496/esmtn_extraordinary_superm_ten.png",
+    "category": "Regular",
+    "keyword": "WayV"
   },
   {
     "id": "esmty",
@@ -295,8 +353,10 @@
     "cardGroup": "SuperM",
     "name": "Taeyong",
     "group": "NCT",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001509/esmty_extraordinary_superm_taeyong.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001509/esmty_extraordinary_superm_taeyong.png",
+    "category": "Regular",
+    "keyword": "NCT127 127"
   }
 ]

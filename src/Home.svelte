@@ -67,7 +67,9 @@
 			<p>
 				An <mark>unofficial card collection</mark>
 				for the Discord bot <a href="https://top.gg/bot/1120361339253162004">SUHO</a>.
-				The cards use <mark>3D transforms</mark>, <mark>filters</mark>, <mark>blend modes</mark>, <mark>css gradients</mark> and interactions to provide a unique experience when taking a closer look! <br/> <br/>
+				The cards use <strong>3D transforms</strong>, <strong>filters</strong>, <strong>blend modes</strong>, <strong>css gradients</strong> and interactions to provide a unique experience when taking a closer look. <br/> <br/>
+				
+				<mark>EXO</mark>, <mark>SuperM</mark>, <mark>NCT</mark>, and <mark>Seventeen</mark> cards are supported. <br/>
 				<mark>Firefox on PC</mark> is recommended for the best experience.<br/><br/>
 				Shoutout to <a href="https://github.com/simeydotme/pokemon-cards-css"> simeydotme</a> for the amazing repository :3
 			</p>
@@ -90,7 +92,7 @@
 		</div>
 
 		<section class="info">
-			<h2>Click on a Card to take a Closer Look!</h2>
+			<h2>Click on a Card to Take a Closer Look!</h2>
 
 			<hr />
 
@@ -119,8 +121,8 @@
 			<p>
 				
 				 <br/>
-				 <strong><mark>NCT joins our interactive card collection!</mark></strong><br />
-				 NCT127, NCT Dream, WayV, KUN&XIAOJUN, NCT WISH, Soloist, and all event cards are now searchable. <br />
+				 <mark>NCT joins our interactive card collection!</mark><br />
+				 <strong>NCT127</strong>, <strong>NCT Dream</strong>, <strong>WayV</strong>, <strong>KUN&XIAOJUN</strong>, <strong>NCT WISH</strong>, soloist, and all event cards are now searchable. <br />
 				 Typing <strong>only</strong> the 'NCT' keyword will fetch every aforementioned card, so specific keywords are preferred for your convenience. <br/>
 				 <br/>PS, all SuperM cards are also available.
 			</p>
