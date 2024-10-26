@@ -51,7 +51,8 @@
 
           const matches = card => {
             const cardFullName = card.id.concat(' ', card.cardRarity,
-             ' ', card.cardGroup, ' ', card.group, ' ', card.name)
+             ' ', card.cardGroup, ' ', card.group, ' ', card.name, ' ', 
+             card.category, ' ', card.keyword)
             
             //Normalise the card name
             const cardTokens = cardFullName.toLowerCase().split(/\s+/);
@@ -128,7 +129,7 @@
 </section>
 
 {#if !query}
-  <h3>Browse cards below, Or search for your favourite! <br/>
+  <h3>Browse cards below, or search for your favourite! <br/>
       <strong>Note: the search term has to be an exact match.</strong> 
   </h3>
 {/if}

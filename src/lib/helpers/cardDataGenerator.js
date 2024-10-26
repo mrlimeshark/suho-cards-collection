@@ -2,6 +2,24 @@ import { writeFileSync } from 'fs';
 
 // 1. Declare a list of several img URLs.
 const imageUrls = [
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700951/unwrk_unordinary_nct%20wish_riku.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700951/unwys_unordinary_nct%20wish_yushi.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700948/rnwsk_rare_nct%20wish_sakuya.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/onwrk_ordinary_nct%20wish_riku.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/unwjh_unordinary_nct%20wish_jaehee.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/onwys_ordinary_nct%20wish_yushi.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/unwsn_unordinary_nct%20wish_sion.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700943/onwsn_ordinary_nct%20wish_sion.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700942/rnwry_rare_nct%20wish_ryo.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700935/unwry_unordinary_nct%20wish_ryo.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700934/rnwrk_rare_nct%20wish_riku.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700930/rnwys_rare_nct%20wish_yushi.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700930/onwjh_ordinary_nct%20wish_jaehee.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700928/onwry_ordinary_nct%20wish_ryo.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700926/rnwjh_rare_nct%20wish_jaehee.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700926/onwsk_ordinary_nct%20wish_sakuya.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700923/unwsk_unordinary_nct%20wish_sakuya.png",
+  "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700919/rnwsn_rare_nct%20wish_sion.png"
 ];
 
 // Helper function to map the card rarity to display names
@@ -28,10 +46,10 @@ function generateCards(imageUrls) {
     const card = {
       id: id,
       cardRarity: rarityMap[cardRarityKey.toLowerCase()],
-      //cardGroup: "placeholder",
-      cardGroup: cardGroupRaw.toLowerCase() === 'nct dream' ? 'NCT Dream' : cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1),
+      cardGroup: "NCT WISH",
+      //cardGroup: cardGroupRaw.toLowerCase() === 'nct dream' ? 'NCT Dream' : cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1),
       name: name === 'do' ? 'D.O.' : name.charAt(0).toUpperCase() + name.slice(1), // Capitalize name
-      group: "NCT placeholder", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      group: "NCT", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
       types: "", 
       rarity: "", 
       card_img: url
@@ -64,6 +82,7 @@ function generateCards(imageUrls) {
 
     
     // Why does this NCT lot have so many freakin members bloody hell
+    /*
     switch (name.toLowerCase()) {
       case "chenle":
         card.group = "NCT Dream";
@@ -108,7 +127,7 @@ function generateCards(imageUrls) {
         card.group = "NCT Dream";
         break;
       case "riku":
-        card.group = "NCT Dream";
+        card.group = "NCT WISH";
         break;
       case "ryo":
         card.group = "NCT WISH";
@@ -136,9 +155,11 @@ function generateCards(imageUrls) {
         break;
       case "yuta":
         card.group = "NCT NCT127";
-        break;               
+        break;
+      case "yushi":
+        card.group = "NCT WISH"               
       }
-      
+      */
 
     return card;
   });

@@ -5,11 +5,11 @@
     "cardGroup": "EXO",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651509/o2exbh_ordinary_exo_baekhyun_nroqxs.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651509/o2exbh_ordinary_exo_baekhyun_nroqxs.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexbh",
@@ -17,11 +17,11 @@
     "cardGroup": "EXO",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649926/oexbh_ordinary_exo_baekhyun_w6mgeo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649926/oexbh_ordinary_exo_baekhyun_w6mgeo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oslbk",
@@ -29,11 +29,11 @@
     "cardGroup": "Soloist",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153041/oslbk_ordinary_soloist_baekhyun_qxpdia.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153041/oslbk_ordinary_soloist_baekhyun_qxpdia.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2excn",
@@ -41,11 +41,11 @@
     "cardGroup": "EXO",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651523/o2excn_ordinary_exo_chen_kutulo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651523/o2excn_ordinary_exo_chen_kutulo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexcn",
@@ -53,11 +53,11 @@
     "cardGroup": "EXO",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649946/oexcn_ordinary_exo_chen_y0qkys.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649946/oexcn_ordinary_exo_chen_y0qkys.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oslcn",
@@ -65,11 +65,11 @@
     "cardGroup": "Soloist",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153723/oslcn_ordinary_soloist_chen_nhivog.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153723/oslcn_ordinary_soloist_chen_nhivog.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2excy",
@@ -77,11 +77,11 @@
     "cardGroup": "EXO",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651673/o2excy_ordinary_exo_chanyeol_ptgqmj.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651673/o2excy_ordinary_exo_chanyeol_ptgqmj.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexcy",
@@ -89,11 +89,11 @@
     "cardGroup": "EXO",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649963/oexcy_ordinary_exo_chanyeol_augfpi.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649963/oexcy_ordinary_exo_chanyeol_augfpi.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oslyl",
@@ -101,11 +101,11 @@
     "cardGroup": "Soloist",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153762/oslyl_ordinary_soloist_chanyeol_vwhdcd.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153762/oslyl_ordinary_soloist_chanyeol_vwhdcd.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exdo",
@@ -113,11 +113,11 @@
     "cardGroup": "EXO",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651687/o2exdo_ordinary_exo_do_iplwlk.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651687/o2exdo_ordinary_exo_do_iplwlk.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexdo",
@@ -125,11 +125,11 @@
     "cardGroup": "EXO",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649977/oexdo_ordinary_exo_do_vpiyli.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649977/oexdo_ordinary_exo_do_vpiyli.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "osldo",
@@ -137,11 +137,11 @@
     "cardGroup": "Soloist",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153825/osldo_ordinary_soloist_do_lfv6oc.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153825/osldo_ordinary_soloist_do_lfv6oc.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exka",
@@ -153,7 +153,9 @@
       "Darkness"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651704/o2exka_ordinary_exo_kai_rutwjf.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651704/o2exka_ordinary_exo_kai_rutwjf.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexka",
@@ -165,7 +167,9 @@
       "Fire"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649993/oexka_ordinary_exo_kai_kucdzd.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649993/oexka_ordinary_exo_kai_kucdzd.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oslki",
@@ -177,7 +181,9 @@
       "Water"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153849/oslki_ordinary_soloist_kai_nfveqr.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153849/oslki_ordinary_soloist_kai_nfveqr.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exla",
@@ -189,7 +195,9 @@
       "Darkness"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651723/o2exla_ordinary_exo_lay_ahwadf.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651723/o2exla_ordinary_exo_lay_ahwadf.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexla",
@@ -201,7 +209,9 @@
       "Fire"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650008/oexla_ordinary_exo_lay_d2u3fo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650008/oexla_ordinary_exo_lay_d2u3fo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oslla",
@@ -213,7 +223,9 @@
       "Metal"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153862/oslla_ordinary_soloist_lay_ncs8fk.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153862/oslla_ordinary_soloist_lay_ncs8fk.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exlh",
@@ -225,7 +237,9 @@
       "Water"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651749/o2exlh_ordinary_exo_luhan_uxvbmj.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651749/o2exlh_ordinary_exo_luhan_uxvbmj.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exsh",
@@ -237,7 +251,9 @@
       "Fire"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651765/o2exsh_ordinary_exo_sehun_dqhsld.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651765/o2exsh_ordinary_exo_sehun_dqhsld.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexsh",
@@ -249,7 +265,9 @@
       "Fire"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650029/oexsh_ordinary_exo_sehun_qjzqpk.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650029/oexsh_ordinary_exo_sehun_qjzqpk.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exsu",
@@ -258,10 +276,11 @@
     "name": "Suho",
     "group": "EXO",
     "types": [
-      "Metal"
-    ],
+      "Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651814/o2exsu_ordinary_exo_suho_amln5j.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651814/o2exsu_ordinary_exo_suho_amln5j.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexsu",
@@ -273,7 +292,9 @@
       "Fire"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650070/oexsu_ordinary_exo_suho_dbwwbm.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650070/oexsu_ordinary_exo_suho_dbwwbm.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2slsu",
@@ -281,9 +302,13 @@
     "cardGroup": "Soloist",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Metal"],
+    "types": [
+      "Metal"
+    ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154769/o2slsu_ordinary_soloist_suho_hmzswz.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154769/o2slsu_ordinary_soloist_suho_hmzswz.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oslsu",
@@ -295,7 +320,9 @@
       "Lightning"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154073/oslsu_ordinary_soloist_suho_woqhcm.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154073/oslsu_ordinary_soloist_suho_woqhcm.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exto",
@@ -307,7 +334,9 @@
       "Darkness"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651827/o2exto_ordinary_exo_tao_zt97yy.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651827/o2exto_ordinary_exo_tao_zt97yy.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "o2exxm",
@@ -319,7 +348,9 @@
       "Water"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651842/o2exxm_ordinary_exo_xiumin_biexzy.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651842/o2exxm_ordinary_exo_xiumin_biexzy.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "oexxm",
@@ -331,7 +362,9 @@
       "Fire"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650086/oexxm_ordinary_exo_xiumin_ei63yo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650086/oexxm_ordinary_exo_xiumin_ei63yo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exbh",
@@ -343,7 +376,9 @@
       "Water"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652186/u2exbh_unordinary_exo_baekhyun_hrlkjz.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652186/u2exbh_unordinary_exo_baekhyun_hrlkjz.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexbh",
@@ -355,7 +390,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650212/uexbh_unordinary_exo_baekhyun_kviurk.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650212/uexbh_unordinary_exo_baekhyun_kviurk.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uslbk",
@@ -367,7 +404,9 @@
       "Fairy"
     ],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154122/uslbk_unordinary_soloist_baekhyun_qswhpv.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154122/uslbk_unordinary_soloist_baekhyun_qswhpv.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2excn",
@@ -379,7 +418,9 @@
       "Water"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652275/u2excn_unordinary_exo_chen_xvf8to.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652275/u2excn_unordinary_exo_chen_xvf8to.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexcn",
@@ -391,7 +432,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650257/uexcn_unordinary_exo_chen_tu3zuq.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650257/uexcn_unordinary_exo_chen_tu3zuq.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uslcn",
@@ -403,7 +446,9 @@
       "Metal"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154148/uslcn_unordinary_soloist_chen_rtexcl.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154148/uslcn_unordinary_soloist_chen_rtexcl.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2excy",
@@ -415,7 +460,9 @@
       "Water"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652293/u2excy_unordinary_exo_chanyeol_rdocos.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652293/u2excy_unordinary_exo_chanyeol_rdocos.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexcy",
@@ -427,7 +474,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650293/uexcy_unordinary_exo_chanyeol_uh9n3l.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650293/uexcy_unordinary_exo_chanyeol_uh9n3l.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uslyl",
@@ -439,7 +488,9 @@
       "Fire"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154167/uslyl_unordinary_soloist_chanyeol_o2grce.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154167/uslyl_unordinary_soloist_chanyeol_o2grce.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exdo",
@@ -451,7 +502,9 @@
       "Fairy"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652457/u2exdo_unordinary_exo_do_k6mcdb.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652457/u2exdo_unordinary_exo_do_k6mcdb.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexdo",
@@ -463,7 +516,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650316/uexdo_unordinary_exo_do_voe0pr.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650316/uexdo_unordinary_exo_do_voe0pr.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "usldo",
@@ -475,7 +530,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154196/usldo_unordinary_soloist_do_mmvdk4.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154196/usldo_unordinary_soloist_do_mmvdk4.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exka",
@@ -487,7 +544,9 @@
       "Water"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652463/u2exka_unordinary_exo_kai_kk5obl.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652463/u2exka_unordinary_exo_kai_kk5obl.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexka",
@@ -499,7 +558,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650342/uexka_unordinary_exo_kai_pd7eq4.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650342/uexka_unordinary_exo_kai_pd7eq4.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uslki",
@@ -511,7 +572,9 @@
       "Fairy"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154214/uslki_unordinary_soloist_kai_jjag5l.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154214/uslki_unordinary_soloist_kai_jjag5l.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exla",
@@ -523,7 +586,9 @@
       "Fairy"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652473/u2exla_unordinary_exo_lay_nt5y9r.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652473/u2exla_unordinary_exo_lay_nt5y9r.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexla",
@@ -535,7 +600,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650361/uexla_unordinary_exo_lay_obdv15.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650361/uexla_unordinary_exo_lay_obdv15.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uslla",
@@ -547,7 +614,9 @@
       "Lightning"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154220/uslla_unordinary_soloist_lay_mk7tml.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154220/uslla_unordinary_soloist_lay_mk7tml.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exlh",
@@ -559,7 +628,9 @@
       "Fairy"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652490/u2exlh_unordinary_exo_luhan_vapyce.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652490/u2exlh_unordinary_exo_luhan_vapyce.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exsh",
@@ -571,7 +642,9 @@
       "Fairy"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652501/u2exsh_unordinary_exo_sehun_tnd2j8.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652501/u2exsh_unordinary_exo_sehun_tnd2j8.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexsh",
@@ -583,7 +656,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650380/uexsh_unordinary_exo_sehun_sunnks.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650380/uexsh_unordinary_exo_sehun_sunnks.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exsu",
@@ -595,7 +670,9 @@
       "Psychic"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652806/u2exsu_unordinary_exo_suho_g4zf8h.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652806/u2exsu_unordinary_exo_suho_g4zf8h.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexsu",
@@ -607,7 +684,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650404/uexsu_unordinary_exo_suho_jp7mhi.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650404/uexsu_unordinary_exo_suho_jp7mhi.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2slsu",
@@ -615,9 +694,13 @@
     "cardGroup": "Soloist",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Fighting"],
+    "types": [
+      "Fighting"
+    ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154778/u2slsu_unordinary_soloist_suho_ndhiun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154778/u2slsu_unordinary_soloist_suho_ndhiun.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uslsu",
@@ -629,7 +712,9 @@
       "Psychic"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154228/uslsu_unordinary_soloist_suho_ofl8zb.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154228/uslsu_unordinary_soloist_suho_ofl8zb.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exto",
@@ -641,7 +726,9 @@
       "Water"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652821/u2exto_unordinary_exo_tao_x7wgub.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652821/u2exto_unordinary_exo_tao_x7wgub.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "u2exxm",
@@ -653,7 +740,9 @@
       "Psychic"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652838/u2exxm_unordinary_exo_xiumin_ekvaar.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652838/u2exxm_unordinary_exo_xiumin_ekvaar.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "uexxm",
@@ -665,7 +754,9 @@
       "Dragon"
     ],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650418/uexxm_unordinary_exo_xiumin_ubtzwi.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650418/uexxm_unordinary_exo_xiumin_ubtzwi.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exbh",
@@ -677,7 +768,9 @@
       "Fighting"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653087/r2exbh_rare_exo_baekhyun_g7ig06.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653087/r2exbh_rare_exo_baekhyun_g7ig06.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexbh",
@@ -689,7 +782,9 @@
       "Dragon"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650455/rexbh_rare_exo_baekhyun_mfxilg.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650455/rexbh_rare_exo_baekhyun_mfxilg.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rslbk",
@@ -701,7 +796,9 @@
       "Metal"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154259/rslbk_rare_soloist_baekhyun_hjnuzs.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154259/rslbk_rare_soloist_baekhyun_hjnuzs.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2excn",
@@ -713,7 +810,9 @@
       "Fire"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653095/r2excn_rare_exo_chen_ewwak9.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653095/r2excn_rare_exo_chen_ewwak9.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexcn",
@@ -725,7 +824,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650543/rexcn_rare_exo_chen_nahwnf.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650543/rexcn_rare_exo_chen_nahwnf.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rslcn",
@@ -737,7 +838,9 @@
       "Metal"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154265/rslcn_rare_soloist_chen_rxvw1w.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154265/rslcn_rare_soloist_chen_rxvw1w.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2excy",
@@ -749,7 +852,9 @@
       "Darkness"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653105/r2excy_rare_exo_chanyeol_t6cvh4.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653105/r2excy_rare_exo_chanyeol_t6cvh4.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexcy",
@@ -761,7 +866,9 @@
       "Dragon"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650567/rexcy_rare_exo_chanyeol_hd2q1a.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650567/rexcy_rare_exo_chanyeol_hd2q1a.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rslyl",
@@ -773,7 +880,9 @@
       "Fighting"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154271/rslyl_rare_soloist_chanyeol_us8o7v.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154271/rslyl_rare_soloist_chanyeol_us8o7v.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exdo",
@@ -785,7 +894,9 @@
       "Fighting"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653115/r2exdo_rare_exo_do_sg6cgp.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653115/r2exdo_rare_exo_do_sg6cgp.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexdo",
@@ -797,7 +908,9 @@
       "Dragon"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650591/rexdo_rare_exo_do_b6txzw.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650591/rexdo_rare_exo_do_b6txzw.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rsldo",
@@ -809,7 +922,9 @@
       "Grass"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154277/rsldo_rare_soloist_do_vwqgtn.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154277/rsldo_rare_soloist_do_vwqgtn.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exka",
@@ -819,7 +934,9 @@
     "group": "EXO",
     "types": [],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653124/r2exka_rare_exo_kai_skjkmw.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653124/r2exka_rare_exo_kai_skjkmw.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexka",
@@ -831,7 +948,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650612/rexka_rare_exo_kai_xc3h2q.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650612/rexka_rare_exo_kai_xc3h2q.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rslki",
@@ -843,7 +962,9 @@
       "Metal"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154283/rslki_rare_soloist_kai_zwug2v.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154283/rslki_rare_soloist_kai_zwug2v.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exla",
@@ -855,7 +976,9 @@
       "Fire"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653137/r2exla_rare_exo_lay_iienvd.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653137/r2exla_rare_exo_lay_iienvd.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rslla",
@@ -867,7 +990,9 @@
       "Grass"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154290/rslla_rare_soloist_lay_j6zwiv.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154290/rslla_rare_soloist_lay_j6zwiv.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exsh",
@@ -879,7 +1004,9 @@
       "Metal"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653194/r2exsh_rare_exo_sehun_nicnyo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653194/r2exsh_rare_exo_sehun_nicnyo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexsh",
@@ -891,7 +1018,9 @@
       "Water"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650637/rexsh_rare_exo_sehun_nfpakz.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650637/rexsh_rare_exo_sehun_nfpakz.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exsu",
@@ -903,7 +1032,9 @@
       "Metal"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653204/r2exsu_rare_exo_suho_p1oqck.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653204/r2exsu_rare_exo_suho_p1oqck.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexsu",
@@ -911,19 +1042,27 @@
     "cardGroup": "EXO",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Fairy"],
+    "types": [
+      "Fairy"
+    ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650659/rexsu_rare_exo_suho_pkzoih.png"
-  },  
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650659/rexsu_rare_exo_suho_pkzoih.png",
+    "category": "Regular",
+    "keyword": ""
+  },
   {
     "id": "r2slsu",
     "cardRarity": "Rare",
     "cardGroup": "Soloist",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Water"],
+    "types": [
+      "Water"
+    ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154786/r2slsu_rare_soloist_suho_lducu9.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154786/r2slsu_rare_soloist_suho_lducu9.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rslsu",
@@ -935,7 +1074,9 @@
       "Psychic"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154297/rslsu_rare_soloist_suho_lvux18.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154297/rslsu_rare_soloist_suho_lvux18.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "r2exxm",
@@ -947,7 +1088,9 @@
       "Fire"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653212/r2exxm_rare_exo_xiumin_jbjogi.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653212/r2exxm_rare_exo_xiumin_jbjogi.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "rexxm",
@@ -959,7 +1102,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650687/rexxm_rare_exo_xiumin_uoda2o.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650687/rexxm_rare_exo_xiumin_uoda2o.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eobh",
@@ -971,7 +1116,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653357/s2eobh_special_exo_baekhyun_wcur00.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653357/s2eobh_special_exo_baekhyun_wcur00.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seobh",
@@ -983,7 +1130,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650767/seobh_special_exo_baekhyun_qmvoca.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650767/seobh_special_exo_baekhyun_qmvoca.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "sslbk",
@@ -995,7 +1144,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154480/sslbk_special_soloist_baekhyun_u4dtlp.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154480/sslbk_special_soloist_baekhyun_u4dtlp.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eocn",
@@ -1007,7 +1158,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653402/s2eocn_special_exo_chen_rjlg1d.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653402/s2eocn_special_exo_chen_rjlg1d.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seocn",
@@ -1019,7 +1172,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650790/seocn_special_exo_chen_q1rmux.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650790/seocn_special_exo_chen_q1rmux.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "sslcn",
@@ -1031,7 +1186,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154486/sslcn_special_soloist_chen_kreeg1.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154486/sslcn_special_soloist_chen_kreeg1.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eocy",
@@ -1043,7 +1200,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653409/s2eocy_special_exo_chanyeol_taagvg.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653409/s2eocy_special_exo_chanyeol_taagvg.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seocy",
@@ -1055,7 +1214,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650827/seocy_special_exo_chanyeol_u4nhjm.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650827/seocy_special_exo_chanyeol_u4nhjm.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "sslyl",
@@ -1067,7 +1228,9 @@
       "Metal"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154492/sslyl_special_soloist_chanyeol_ycknpo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154492/sslyl_special_soloist_chanyeol_ycknpo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eodo",
@@ -1079,7 +1242,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653475/s2eodo_special_exo_do_tmae4t.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653475/s2eodo_special_exo_do_tmae4t.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seodo",
@@ -1091,7 +1256,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650886/seodo_special_exo_do_rqzovu.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650886/seodo_special_exo_do_rqzovu.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "ssldo",
@@ -1103,7 +1270,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154498/ssldo_special_soloist_do_igugru.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154498/ssldo_special_soloist_do_igugru.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eoka",
@@ -1115,7 +1284,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653505/s2eoka_special_exo_kai_woyl6r.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653505/s2eoka_special_exo_kai_woyl6r.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seoka",
@@ -1127,7 +1298,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650902/seoka_special_exo_kai_hugsor.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650902/seoka_special_exo_kai_hugsor.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "sslki",
@@ -1139,7 +1312,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154505/sslki_special_soloist_kai_yowwkt.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154505/sslki_special_soloist_kai_yowwkt.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eola",
@@ -1151,7 +1326,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653539/s2eola_special_exo_lay_kbvm60.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653539/s2eola_special_exo_lay_kbvm60.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seola",
@@ -1163,7 +1340,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650928/seola_special_exo_lay_sgnmoz.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650928/seola_special_exo_lay_sgnmoz.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "sslla",
@@ -1175,7 +1354,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154512/sslla_special_soloist_lay_osa60u.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154512/sslla_special_soloist_lay_osa60u.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eolh",
@@ -1187,7 +1368,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653561/s2eolh_special_exo_luhan_ncgojr.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653561/s2eolh_special_exo_luhan_ncgojr.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seolh",
@@ -1199,7 +1382,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650955/seolh_special_exo_luhan_noet8v.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650955/seolh_special_exo_luhan_noet8v.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eosh",
@@ -1211,7 +1396,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653580/s2eosh_special_exo_sehun_qjsmdc.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653580/s2eosh_special_exo_sehun_qjsmdc.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seosh",
@@ -1223,7 +1410,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650986/seosh_special_exo_sehun_cnwa55.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650986/seosh_special_exo_sehun_cnwa55.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eosu",
@@ -1235,7 +1424,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653610/s2eosu_special_exo_suho_gaaloe.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653610/s2eosu_special_exo_suho_gaaloe.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seosu",
@@ -1247,17 +1438,23 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651013/seosu_special_exo_suho_qzqbk4.png"
-  },  
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651013/seosu_special_exo_suho_qzqbk4.png",
+    "category": "Regular",
+    "keyword": ""
+  },
   {
     "id": "s2slsu",
     "cardRarity": "Special",
     "cardGroup": "Soloist",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Water"],
+    "types": [
+      "Water"
+    ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154794/s2slsu_special_soloist_suho_jhg435.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154794/s2slsu_special_soloist_suho_jhg435.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "sslsu",
@@ -1269,7 +1466,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154519/sslsu_special_soloist_suho_fmduoc.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154519/sslsu_special_soloist_suho_fmduoc.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eoto",
@@ -1281,7 +1480,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653653/s2eoto_special_exo_tao_wgxs2a.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653653/s2eoto_special_exo_tao_wgxs2a.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seoto",
@@ -1293,7 +1494,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652967/seoto_special_exo_tao_cdnwpe.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652967/seoto_special_exo_tao_cdnwpe.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "s2eoxm",
@@ -1305,7 +1508,9 @@
       "Fairy"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653661/s2eoxm_special_exo_xiumin_ud81am.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653661/s2eoxm_special_exo_xiumin_ud81am.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "seoxm",
@@ -1317,7 +1522,9 @@
       "Lightning"
     ],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652973/seoxm_special_exo_xiumin_amylma.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652973/seoxm_special_exo_xiumin_amylma.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exbh",
@@ -1329,7 +1536,9 @@
       "Psychic"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653734/e2exbh_extraordinary_exo_baekhyun_g3p1vo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653734/e2exbh_extraordinary_exo_baekhyun_g3p1vo.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexbh",
@@ -1341,7 +1550,9 @@
       "Dragon"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651078/eexbh_extraordinary_exo_baekhyun_gxy2hp.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651078/eexbh_extraordinary_exo_baekhyun_gxy2hp.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eslbk",
@@ -1353,7 +1564,9 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154619/eslbk_extraordinary_soloist_baekhyun_tc6onx.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154619/eslbk_extraordinary_soloist_baekhyun_tc6onx.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2excn",
@@ -1365,7 +1578,9 @@
       "Darkness"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653788/e2excn_extraordinary_exo_chen_m4r7l3.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653788/e2excn_extraordinary_exo_chen_m4r7l3.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexcn",
@@ -1377,7 +1592,9 @@
       "Fighting"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651115/eexcn_extraordinary_exo_chen_hwbgza.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651115/eexcn_extraordinary_exo_chen_hwbgza.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eslcn",
@@ -1389,7 +1606,9 @@
       "Lightning"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154625/eslcn_extraordinary_soloist_chen_v17tre.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154625/eslcn_extraordinary_soloist_chen_v17tre.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2excy",
@@ -1401,7 +1620,9 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653818/e2excy_extraordinary_exo_chanyeol_i59uax.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653818/e2excy_extraordinary_exo_chanyeol_i59uax.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexcy",
@@ -1413,7 +1634,9 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651149/eexcy_extraordinary_exo_chanyeol_qlcue9.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651149/eexcy_extraordinary_exo_chanyeol_qlcue9.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eslyl",
@@ -1425,7 +1648,9 @@
       "Fighting"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154632/eslyl_extraordinary_soloist_chanyeol_jitkjf.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154632/eslyl_extraordinary_soloist_chanyeol_jitkjf.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exdo",
@@ -1437,7 +1662,9 @@
       "Psychic"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653826/e2exdo_extraordinary_exo_do_irgvxs.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653826/e2exdo_extraordinary_exo_do_irgvxs.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexdo",
@@ -1449,7 +1676,9 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651177/eexdo_extraordinary_exo_do_ypacjn.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651177/eexdo_extraordinary_exo_do_ypacjn.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "esldo",
@@ -1461,7 +1690,9 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154639/esldo_extraordinary_soloist_do_blxhb7.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154639/esldo_extraordinary_soloist_do_blxhb7.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exka",
@@ -1473,7 +1704,9 @@
       "Fairy"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653848/e2exka_extraordinary_exo_kai_ec95lt.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653848/e2exka_extraordinary_exo_kai_ec95lt.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexka",
@@ -1485,7 +1718,9 @@
       "Fighting"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651204/eexka_extraordinary_exo_kai_zo9dr8.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651204/eexka_extraordinary_exo_kai_zo9dr8.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eslki",
@@ -1497,7 +1732,9 @@
       "Fighting"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154646/eslki_extraordinary_soloist_kai_bfgt41.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154646/eslki_extraordinary_soloist_kai_bfgt41.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exla",
@@ -1509,7 +1746,9 @@
       "Psychic"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653870/e2exla_extraordinary_exo_lay_cdkaas.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653870/e2exla_extraordinary_exo_lay_cdkaas.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexla",
@@ -1521,7 +1760,9 @@
       "Fighting"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651280/eexla_extraordinary_exo_lay_lwj9mx.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651280/eexla_extraordinary_exo_lay_lwj9mx.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eslla",
@@ -1533,7 +1774,9 @@
       "Water"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154652/eslla_extraordinary_soloist_lay_trpeod.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154652/eslla_extraordinary_soloist_lay_trpeod.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exlh",
@@ -1545,7 +1788,9 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653870/e2exla_extraordinary_exo_lay_cdkaas.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653870/e2exla_extraordinary_exo_lay_cdkaas.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexlh",
@@ -1557,7 +1802,9 @@
       "Dragon"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651303/eexlh_extraordinary_exo_luhan_farn5x.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651303/eexlh_extraordinary_exo_luhan_farn5x.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exsh",
@@ -1569,7 +1816,9 @@
       "Water"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653945/e2exsh_extraordinary_exo_sehun_pr4c9o.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653945/e2exsh_extraordinary_exo_sehun_pr4c9o.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexsh",
@@ -1581,7 +1830,9 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651402/eexsh_extraordinary_exo_sehun_cd64bk.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651402/eexsh_extraordinary_exo_sehun_cd64bk.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exsu",
@@ -1593,7 +1844,9 @@
       "Fairy"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653962/e2exsu_extraordinary_exo_suho_vpjffr.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653962/e2exsu_extraordinary_exo_suho_vpjffr.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexsu",
@@ -1605,17 +1858,23 @@
       "Water"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651426/eexsu_extraordinary_exo_suho_kypxzt.png"
-  },  
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651426/eexsu_extraordinary_exo_suho_kypxzt.png",
+    "category": "Regular",
+    "keyword": ""
+  },
   {
     "id": "e2slsu",
     "cardRarity": "Extraordinary",
     "cardGroup": "Soloist",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Psychic"],
+    "types": [
+      "Psychic"
+    ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154803/e2slsu_extraordinary_soloist_suho_wvcz3x.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154803/e2slsu_extraordinary_soloist_suho_wvcz3x.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eslsu",
@@ -1627,7 +1886,9 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154662/eslsu_extraordinary_soloist_suho_v5i9vt.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154662/eslsu_extraordinary_soloist_suho_v5i9vt.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exto",
@@ -1639,7 +1900,9 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653974/e2exto_extraordinary_exo_tao_uems42.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653974/e2exto_extraordinary_exo_tao_uems42.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexto",
@@ -1651,7 +1914,9 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651436/eexto_extraordinary_exo_tao_sdkujm.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651436/eexto_extraordinary_exo_tao_sdkujm.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "e2exxm",
@@ -1663,7 +1928,9 @@
       "Metal"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653991/e2exxm_extraordinary_exo_xiumin_o2w32p.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653991/e2exxm_extraordinary_exo_xiumin_o2w32p.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "eexxm",
@@ -1675,7 +1942,9 @@
       "Fire"
     ],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651452/eexxm_extraordinary_exo_xiumin_zc0kxx.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651452/eexxm_extraordinary_exo_xiumin_zc0kxx.png",
+    "category": "Regular",
+    "keyword": ""
   },
   {
     "id": "feseho",
@@ -1687,7 +1956,9 @@
       "Darkness"
     ],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321877/feseho_priceless_sehun_suho_o8c7pe.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321877/feseho_priceless_sehun_suho_o8c7pe.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "roycdo",
@@ -1699,19 +1970,21 @@
       "Lightning"
     ],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321129/roycdo_priceless_royal%20event_chanyeol%20do.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321129/roycdo_priceless_royal%20event_chanyeol%20do.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "xmkyl",
     "cardRarity": "Priceless",
-    "cardGroup": "Xmas Xmas23 Bxmas23",
+    "cardGroup": "Bxmas23",
     "name": "Kai & Chanyeol",
     "group": "EXO",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320687/xmkyl_priceless_bxmas23_kai%20chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320687/xmkyl_priceless_bxmas23_kai%20chanyeol.png",
+    "category": "Event",
+    "keyword": "Xmas Xmas23 Christmas"
   },
   {
     "id": "psebh",
@@ -1719,23 +1992,23 @@
     "cardGroup": "Stardust Event",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319195/psebh_priceless_stardust_event_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319195/psebh_priceless_stardust_event_baekhyun.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evbaek",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event Pevil",
+    "cardGroup": "Pevil",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319863/evbaek_priceless_pevil_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319863/evbaek_priceless_pevil_baekhyun.png",
+    "category": "Event",
+    "keyword": "Evil"
   },
   {
     "id": "paqbh",
@@ -1743,11 +2016,11 @@
     "cardGroup": "Aphrodite",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728151463/paqbh_priceless_aphrodite_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728151463/paqbh_priceless_aphrodite_baekhyun.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "fmxmbh",
@@ -1755,11 +2028,11 @@
     "cardGroup": "Fanmade Xmas",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320605/fmxmbh_priceless_fanmade%20xmas_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320605/fmxmbh_priceless_fanmade%20xmas_baekhyun.png",
+    "category": "Event",
+    "keyword": "Christmas"
   },
   {
     "id": "emebae",
@@ -1767,11 +2040,11 @@
     "cardGroup": "Emerald",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319687/emebae_priceless_emerald_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319687/emebae_priceless_emerald_baekhyun.png",
+    "category": "Gemstone",
+    "keyword": "Event"
   },
   {
     "id": "tyubae",
@@ -1779,11 +2052,11 @@
     "cardGroup": "Thanku",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320445/tyubae_priceless_thanku_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320445/tyubae_priceless_thanku_baekhyun.png",
+    "category": "Event",
+    "keyword": "Thank You"
   },
   {
     "id": "sapchn",
@@ -1791,9 +2064,11 @@
     "cardGroup": "Sapphire",
     "name": "Chen",
     "group": "EXO",
-    "types": [""],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321069/sapchn_priceless_sapphire_chen_zqmsio.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321069/sapchn_priceless_sapphire_chen_zqmsio.png",
+    "category": "Gemstone",
+    "keyword": "Event"
   },
   {
     "id": "psecn",
@@ -1801,23 +2076,23 @@
     "cardGroup": "Stardust Event",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319218/psecn_priceless_stardust_event_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319218/psecn_priceless_stardust_event_chen.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evchen",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event Bevil",
+    "cardGroup": "Bevil",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319883/evchen_priceless_bevil_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319883/evchen_priceless_bevil_chen.png",
+    "category": "Event",
+    "keyword": "Evil"
   },
   {
     "id": "virche",
@@ -1825,23 +2100,23 @@
     "cardGroup": "Virgo",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320944/virche_priceless_virgo_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320944/virche_priceless_virgo_chen.png",
+    "category": "Event",
+    "keyword": "Zodiac"
   },
   {
     "id": "faeche",
     "cardRarity": "Priceless",
-    "cardGroup": "Fairy Fairies Event Pfairies",
+    "cardGroup": "Pfairies",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321005/faeche_priceless_pfairies_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321005/faeche_priceless_pfairies_chen.png",
+    "category": "Event",
+    "keyword": "Fairy Fairies"
   },
   {
     "id": "psecy",
@@ -1849,23 +2124,23 @@
     "cardGroup": "Stardust Event",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319242/psecy_priceless_stardust%20event_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319242/psecy_priceless_stardust%20event_chanyeol.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evyeol",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event",
+    "cardGroup": "Evil",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319902/evyeol_priceless_evil_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319902/evyeol_priceless_evil_chanyeol.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "sagcyl",
@@ -1873,11 +2148,11 @@
     "cardGroup": "Sagittarius",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321310/sagcyl_priceless_sagittarius_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321310/sagcyl_priceless_sagittarius_chanyeol.png",
+    "category": "Event",
+    "keyword": "Zodiac"
   },
   {
     "id": "srocyl",
@@ -1885,11 +2160,11 @@
     "cardGroup": "Sanrio",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321371/srocyl_priceless_sanrio_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321371/srocyl_priceless_sanrio_chanyeol.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "psedo",
@@ -1897,35 +2172,35 @@
     "cardGroup": "Stardust Event",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321371/srocyl_priceless_sanrio_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321371/srocyl_priceless_sanrio_chanyeol.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evdooo",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event",
+    "cardGroup": "Evil",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319918/evdooo_priceless_evil_do.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319918/evdooo_priceless_evil_do.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "apodoo",
     "cardRarity": "Priceless",
-    "cardGroup": "Apocalypse Event Bapocalypse",
+    "cardGroup": "Bapocalypse",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321437/apodoo_priceless_bapocalypse_do.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321437/apodoo_priceless_bapocalypse_do.png",
+    "category": "Event",
+    "keyword": "Apocalypse"
   },
   {
     "id": "pseka",
@@ -1933,35 +2208,35 @@
     "cardGroup": "Stardust Event",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319330/pseka_priceless_stardust%20event_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319330/pseka_priceless_stardust%20event_kai.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evkaii",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event Pevil",
+    "cardGroup": "Pevil",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725019578/evkaii_priceless_kai.gif"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725019578/evkaii_priceless_kai.gif",
+    "category": "Event",
+    "keyword": "Evil"
   },
   {
     "id": "xokai",
     "cardRarity": "Priceless",
-    "cardGroup": "XOXO Event PXOXO",
+    "cardGroup": "PXOXO",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321577/xokai_priceless_pxoxo_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321577/xokai_priceless_pxoxo_kai.png",
+    "category": "Event",
+    "keyword": "XOXO"
   },
   {
     "id": "fmxmka",
@@ -1969,11 +2244,11 @@
     "cardGroup": "Fanmade Xmas",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320792/fmxmka_priceless_fanmade%20xmas_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320792/fmxmka_priceless_fanmade%20xmas_kai.png",
+    "category": "Event",
+    "keyword": "Christmas"
   },
   {
     "id": "sfmatt",
@@ -1981,11 +2256,11 @@
     "cardGroup": "Staffmate Event",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321650/sfmatt_priceless_staffmate_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321650/sfmatt_priceless_staffmate_kai.png",
+    "category": "Event",
+    "keyword": "Staff Mate"
   },
   {
     "id": "psela",
@@ -1993,23 +2268,23 @@
     "cardGroup": "Stardust Event",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319384/psela_priceless_stardust%20event_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319384/psela_priceless_stardust%20event_lay.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evlayy",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event",
+    "cardGroup": "Evil",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320043/evlayy_priceless_evil_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320043/evlayy_priceless_evil_lay.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "roylay",
@@ -2019,7 +2294,9 @@
     "group": "EXO",
     "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729332347/roylay_priceless_royal%20event_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729332347/roylay_priceless_royal%20event_lay.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "liblay",
@@ -2027,47 +2304,47 @@
     "cardGroup": "Libra",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321774/liblay_priceless_libra_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321774/liblay_priceless_libra_lay.png",
+    "category": "Event",
+    "keyword": "Zodiac"
   },
   {
     "id": "xmlay",
     "cardRarity": "Priceless",
-    "cardGroup": "Xmas Xmas23",
+    "cardGroup": "Xmas23",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320813/xmlay_priceless_xmas23_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320813/xmlay_priceless_xmas23_lay.png",
+    "category": "Event",
+    "keyword": "Xmas Christmas"
   },
   {
     "id": "slmlay",
     "cardRarity": "Priceless",
-    "cardGroup": "Soulmate Event Psoulmate",
+    "cardGroup": "Psoulmate",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321821/slmlay_priceless_psoulmate_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321821/slmlay_priceless_psoulmate_lay.png",
+    "category": "Event",
+    "keyword": "Soulmate Soul Mate"
   },
   {
     "id": "sumlay",
     "cardRarity": "Priceless",
-    "cardGroup": "Summer Event Bsummer",
+    "cardGroup": "Bsummer",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321719/sumlay_priceless_bsummer_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321719/sumlay_priceless_bsummer_lay.png",
+    "category": "Event",
+    "keyword": "Summer"
   },
   {
     "id": "psesh",
@@ -2075,35 +2352,35 @@
     "cardGroup": "Stardust Event",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319399/psesh_priceless_stardust%20event_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319399/psesh_priceless_stardust%20event_sehun.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evehun",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event Bevil",
+    "cardGroup": "Bevil",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320068/evehun_priceless_bevil_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320068/evehun_priceless_bevil_sehun.png",
+    "category": "Event",
+    "keyword": "Evil"
   },
   {
     "id": "cdyshn",
     "cardRarity": "Priceless",
-    "cardGroup": "Candy Event",
+    "cardGroup": "Candy",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321982/cdyshn_priceless_candy_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321982/cdyshn_priceless_candy_sehun.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "diaseh",
@@ -2111,11 +2388,11 @@
     "cardGroup": "Diamond",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321927/diaseh_priceless_diamond_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321927/diaseh_priceless_diamond_sehun.png",
+    "category": "Gemstone",
+    "keyword": "Event"
   },
   {
     "id": "psesu",
@@ -2123,35 +2400,35 @@
     "cardGroup": "Stardust Event",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319419/psesu_priceless_stardust%20event_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319419/psesu_priceless_stardust%20event_suho.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "evsuho",
     "cardRarity": "Priceless",
-    "cardGroup": "Evil Event",
+    "cardGroup": "Evil",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320077/evsuho_priceless_evil_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320077/evsuho_priceless_evil_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "aposuh",
     "cardRarity": "Priceless",
-    "cardGroup": "Apocalypse Event",
+    "cardGroup": "Apocalypse",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321448/aposuh_priceless_apocalypse_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321448/aposuh_priceless_apocalypse_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "emesuh",
@@ -2159,23 +2436,23 @@
     "cardGroup": "Emerald",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Green"
-    ],
+    "types": ["Green"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319703/emesuh_priceless_emerald_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319703/emesuh_priceless_emerald_suho.png",
+    "category": "Gemstone",
+    "keyword": "Event"
   },
   {
     "id": "btasuh",
     "cardRarity": "Priceless",
-    "cardGroup": "BTA Event",
+    "cardGroup": "BTA",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322246/btasuh_priceless_bta_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322246/btasuh_priceless_bta_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "1KSUHO",
@@ -2183,11 +2460,11 @@
     "cardGroup": "1k Special",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322055/1KSUHO_priceless_1k%20special_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322055/1KSUHO_priceless_1k%20special_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "2KSUHO",
@@ -2195,11 +2472,11 @@
     "cardGroup": "2k Special",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322069/2KSUHO_priceless_2k%20special_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322069/2KSUHO_priceless_2k%20special_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "3KSUHO",
@@ -2207,23 +2484,23 @@
     "cardGroup": "3k Special",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322125/3KSUHO_priceless_3k%20special_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322125/3KSUHO_priceless_3k%20special_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "hbdasaki",
     "cardRarity": "Priceless",
-    "cardGroup": "Staff Birthday Event",
+    "cardGroup": "Staff Birthday",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322184/hbdasaki_priceless_staff%20birthday_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322184/hbdasaki_priceless_staff%20birthday_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "psexm",
@@ -2231,11 +2508,11 @@
     "cardGroup": "Stardust Event",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319427/psexm_priceless_stardust%20event_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319427/psexm_priceless_stardust%20event_xiumin.png",
+    "category": "Event",
+    "keyword": "Star Dust"
   },
   {
     "id": "zuhxmn",
@@ -2243,11 +2520,11 @@
     "cardGroup": "Cardcaptor",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322783/zuhxmn_priceless_cardcaptor_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322783/zuhxmn_priceless_cardcaptor_xiumin.png",
+    "category": "Event",
+    "keyword": "Card Captor"
   },
   {
     "id": "aquxiu",
@@ -2255,23 +2532,23 @@
     "cardGroup": "Aquamarine",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322669/aquxiu_priceless_aquamarine_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322669/aquxiu_priceless_aquamarine_xiumin.png",
+    "category": "Gemstone",
+    "keyword": "Event"
   },
   {
     "id": "apfxiu",
     "cardRarity": "Priceless",
-    "cardGroup": "April Fools Event Bapf",
+    "cardGroup": "Bapf",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322721/apfxiu_priceless_bapf_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322721/apfxiu_priceless_bapf_xiumin.png",
+    "category": "Event",
+    "keyword": "April Fools"
   },
   {
     "id": "anexbh",
@@ -2279,11 +2556,11 @@
     "cardGroup": "Anniversary",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318712/anexbh_altair_anniversary_baekhyun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318712/anexbh_altair_anniversary_baekhyun.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrsbh",
@@ -2291,11 +2568,11 @@
     "cardGroup": "EXO Day",
     "name": "Baekhyun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318265/12yrsbh_altair_anniversary_baekhyun_jgbzmo.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318265/12yrsbh_altair_anniversary_baekhyun_jgbzmo.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexch",
@@ -2303,11 +2580,11 @@
     "cardGroup": "Anniversary",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318750/anexch_altair_anniversary_chen.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318750/anexch_altair_anniversary_chen.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrsch",
@@ -2315,11 +2592,11 @@
     "cardGroup": "EXO Day",
     "name": "Chen",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318290/12yrsch_altair_anniversary_chen_qecx1x.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318290/12yrsch_altair_anniversary_chen_qecx1x.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexcy",
@@ -2327,11 +2604,11 @@
     "cardGroup": "Anniversary",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318796/anexcy_altair_anniversary_chanyeol.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318796/anexcy_altair_anniversary_chanyeol.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrscy",
@@ -2339,11 +2616,11 @@
     "cardGroup": "EXO Day",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318310/12yrscy_altair_anniversary_chanyeol_ybrrev.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318310/12yrscy_altair_anniversary_chanyeol_ybrrev.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexdo",
@@ -2351,11 +2628,11 @@
     "cardGroup": "Anniversary",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318838/anexdo_altair_anniversary_do.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318838/anexdo_altair_anniversary_do.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrsdo",
@@ -2363,11 +2640,11 @@
     "cardGroup": "EXO Day",
     "name": "D.O.",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318327/12yrsdo_altair_anniversary_do.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318327/12yrsdo_altair_anniversary_do.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexka",
@@ -2375,11 +2652,11 @@
     "cardGroup": "Anniversary",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318871/anexka_altair_anniversary_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318871/anexka_altair_anniversary_kai.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrska",
@@ -2387,11 +2664,11 @@
     "cardGroup": "EXO Day",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318342/12yrska_altair_anniversary_kai.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318342/12yrska_altair_anniversary_kai.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexla",
@@ -2399,11 +2676,11 @@
     "cardGroup": "Anniversary",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318905/anexla_altair_anniversary_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318905/anexla_altair_anniversary_lay.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrsla",
@@ -2411,11 +2688,11 @@
     "cardGroup": "EXO Day",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318364/12yrsla_altair_anniversary_lay.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318364/12yrsla_altair_anniversary_lay.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexsh",
@@ -2423,11 +2700,11 @@
     "cardGroup": "Anniversary",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318959/anexsh_altair_anniversary_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318959/anexsh_altair_anniversary_sehun.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrssh",
@@ -2435,11 +2712,11 @@
     "cardGroup": "EXO Day",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318380/12yrssh_altair_anniversary_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318380/12yrssh_altair_anniversary_sehun.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "anexsu",
@@ -2447,11 +2724,11 @@
     "cardGroup": "Anniversary",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318995/anexsu_altair_anniversary_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318995/anexsu_altair_anniversary_suho.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrssu",
@@ -2459,11 +2736,11 @@
     "cardGroup": "EXO Day",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318395/12yrssu_altair_anniversary_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318395/12yrssu_altair_anniversary_suho.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "bunsuho",
@@ -2471,13 +2748,13 @@
     "cardGroup": "Fanmade Special",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Amazing Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322333/bunsuho_altair_fanmade%20special_suho.png",
     "mask": "",
-    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "castlesuho",
@@ -2485,14 +2762,14 @@
     "cardGroup": "Fanmade Special",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Holo VMAX",
     "isTrainer": "true",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322358/castlesuho_altair_fanmade%20special_suho.png",
     "mask": "",
-    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png"
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "minisuho",
@@ -2500,25 +2777,25 @@
     "cardGroup": "Fanmade Special",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Amazing Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322374/minisuho_altair_fanmade%20special_suho.png",
     "mask": "",
-    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png"
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "p0rtr4it",
     "cardRarity": "Altair",
     "cardGroup": "Fanmade Special",
-    "name": "Suho portrait",
+    "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322571/p0rtr4it_altair_fanmade%20special_suho.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322571/p0rtr4it_altair_fanmade%20special_suho.png",
+    "category": "Event",
+    "keyword": "portrait"
   },
   {
     "id": "starsuho",
@@ -2526,13 +2803,13 @@
     "cardGroup": "Starry Night",
     "name": "Suho",
     "group": "EXO",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Amazing Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322390/starsuho_altair_starry%20night_suho.png",
     "mask": "",
-    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png"
+    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "anexxm",
@@ -2540,11 +2817,11 @@
     "cardGroup": "Anniversary",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319010/anexxm_altair_anniversary_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319010/anexxm_altair_anniversary_xiumin.png",
+    "category": "Event",
+    "keyword": ""
   },
   {
     "id": "12yrsxm",
@@ -2552,71 +2829,83 @@
     "cardGroup": "EXO Day",
     "name": "Xiumin",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318409/12yrsxm_altair_anniversary_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318409/12yrsxm_altair_anniversary_xiumin.png",
+    "category": "Event",
+    "keyword": "12 Years"
   },
   {
     "id": "ocbbh",
     "cardRarity": "Ordinary",
-    "cardGroup": "EXO-CBX CBX",
+    "cardGroup": "EXO-CBX",
     "name": "Baekhyun",
     "group": "EXO",
     "types": ["Fire"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159258/ocbbh_ordinary_cbx_baekhyun_kmm79b.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159258/ocbbh_ordinary_cbx_baekhyun_kmm79b.png",
+    "category": "Regular",
+    "keyword": "CBX"
   },
   {
     "id": "ocbcn",
     "cardRarity": "Ordinary",
-    "cardGroup": "EXO-CBX CBX",
+    "cardGroup": "EXO-CBX",
     "name": "Chen",
     "group": "EXO",
     "types": ["Grass"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159253/ocbcn_ordinary_cbx_chen_xliyna.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159253/ocbcn_ordinary_cbx_chen_xliyna.png",
+    "category": "Regular",
+    "keyword": "CBX"
   },
   {
     "id": "ocbxm",
     "cardRarity": "Ordinary",
-    "cardGroup": "EXO-CBX CBX",
+    "cardGroup": "EXO-CBX",
     "name": "Xiumin",
     "group": "EXO",
     "types": ["Fairy"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159264/ocbxm_ordinary_cbx_xiumin_kyhskk.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159264/ocbxm_ordinary_cbx_xiumin_kyhskk.png",
+    "category": "Regular",
+    "keyword": "CBX"
   },
   {
     "id": "ucbbh",
     "cardRarity": "Unordinary",
-    "cardGroup": "EXO-CBX CBX",
+    "cardGroup": "EXO-CBX",
     "name": "Baekhyun",
     "group": "EXO",
     "types": ["Fairy"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159274/ucbbh_unordinary_cbx_baekhyun_e2yf5x.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159274/ucbbh_unordinary_cbx_baekhyun_e2yf5x.png",
+    "category": "Regular",
+    "keyword": "CBX"
   },
   {
     "id": "ucbcn",
     "cardRarity": "Unordinary",
-    "cardGroup": "EXO-CBX CBX",
+    "cardGroup": "EXO-CBX",
     "name": "Chen",
     "group": "EXO",
     "types": ["Fairy"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159268/ucbcn_unordinary_cbx_chen_xhy9q5.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159268/ucbcn_unordinary_cbx_chen_xhy9q5.png",
+    "category": "Regular",
+    "keyword": "CBX"
   },
   {
     "id": "ucbxm",
     "cardRarity": "Unordinary",
-    "cardGroup": "EXO-CBX CBX",
+    "cardGroup": "EXO-CBX",
     "name": "Xiumin",
     "group": "EXO",
     "types": ["Water"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159278/ucbxm_unordinary_cbx_xiumin_bxwt5p.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728159278/ucbxm_unordinary_cbx_xiumin_bxwt5p.png",
+    "category": "Regular",
+    "keyword": "CBX"
   },
   {
     "id": "oescy",
@@ -2624,11 +2913,11 @@
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158519/oescy_ordinary_sc_chanyeol_spjas6.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158519/oescy_ordinary_sc_chanyeol_spjas6.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "oessh",
@@ -2636,11 +2925,11 @@
     "cardGroup": "EXO-SC",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158528/oessh_ordinary_sc_sehun_hy0uzc.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158528/oessh_ordinary_sc_sehun_hy0uzc.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "uescy",
@@ -2648,11 +2937,11 @@
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158575/uescy_unordinary_sc_chanyeol_vzv3re.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158575/uescy_unordinary_sc_chanyeol_vzv3re.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "uessh",
@@ -2660,11 +2949,11 @@
     "cardGroup": "EXO-SC",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Secret",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158580/uessh_unordinary_sc_sehun.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158580/uessh_unordinary_sc_sehun.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "rescy",
@@ -2672,11 +2961,11 @@
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158663/rescy_rare_sc_chanyeol_mebup7.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158663/rescy_rare_sc_chanyeol_mebup7.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "ressh",
@@ -2684,11 +2973,11 @@
     "cardGroup": "EXO-SC",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158667/ressh_rare_sc_sehun_j0bndh.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158667/ressh_rare_sc_sehun_j0bndh.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "sescy",
@@ -2696,11 +2985,11 @@
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158738/sescy_special_sc_chanyeol_ww1f5y.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158738/sescy_special_sc_chanyeol_ww1f5y.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "sessh",
@@ -2708,11 +2997,11 @@
     "cardGroup": "EXO-SC",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158743/sessh_special_sc_sehun_hnyb8z.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158743/sessh_special_sc_sehun_hnyb8z.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "eescy",
@@ -2720,11 +3009,11 @@
     "cardGroup": "EXO-SC",
     "name": "Chanyeol",
     "group": "EXO",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158785/eescy_extraordinary_sc_chanyeol_eje3y0.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158785/eescy_extraordinary_sc_chanyeol_eje3y0.png",
+    "category": "Regular",
+    "keyword": "SC"
   },
   {
     "id": "eessh",
@@ -2732,10 +3021,10 @@
     "cardGroup": "EXO-SC",
     "name": "Sehun",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158788/eessh_extraordinary_sc_sehun_tbdhjs.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158788/eessh_extraordinary_sc_sehun_tbdhjs.png",
+    "category": "Regular",
+    "keyword": "SC"
   }
 ]

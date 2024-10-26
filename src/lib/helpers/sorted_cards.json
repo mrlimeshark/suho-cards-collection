@@ -1,0 +1,182 @@
+[
+  {
+    "id": "onwjh",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Jaehee",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700930/onwjh_ordinary_nct%20wish_jaehee.png"
+  },
+  {
+    "id": "onwrk",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Riku",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/onwrk_ordinary_nct%20wish_riku.png"
+  },
+  {
+    "id": "onwry",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Ryo",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700928/onwry_ordinary_nct%20wish_ryo.png"
+  },
+  {
+    "id": "onwsk",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Sakuya",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700926/onwsk_ordinary_nct%20wish_sakuya.png"
+  },
+  {
+    "id": "onwsn",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Sion",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700943/onwsn_ordinary_nct%20wish_sion.png"
+  },
+  {
+    "id": "onwys",
+    "cardRarity": "Ordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Yushi",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/onwys_ordinary_nct%20wish_yushi.png"
+  },
+  {
+    "id": "unwjh",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Jaehee",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/unwjh_unordinary_nct%20wish_jaehee.png"
+  },
+  {
+    "id": "unwrk",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Riku",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700951/unwrk_unordinary_nct%20wish_riku.png"
+  },
+  {
+    "id": "unwry",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Ryo",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700935/unwry_unordinary_nct%20wish_ryo.png"
+  },
+  {
+    "id": "unwsk",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Sakuya",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700923/unwsk_unordinary_nct%20wish_sakuya.png"
+  },
+  {
+    "id": "unwsn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Sion",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700945/unwsn_unordinary_nct%20wish_sion.png"
+  },
+  {
+    "id": "unwys",
+    "cardRarity": "Unordinary",
+    "cardGroup": "NCT WISH",
+    "name": "Yushi",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700951/unwys_unordinary_nct%20wish_yushi.png"
+  },
+  {
+    "id": "rnwjh",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT WISH",
+    "name": "Jaehee",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700926/rnwjh_rare_nct%20wish_jaehee.png"
+  },
+  {
+    "id": "rnwrk",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT WISH",
+    "name": "Riku",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700934/rnwrk_rare_nct%20wish_riku.png"
+  },
+  {
+    "id": "rnwry",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT WISH",
+    "name": "Ryo",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700942/rnwry_rare_nct%20wish_ryo.png"
+  },
+  {
+    "id": "rnwsk",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT WISH",
+    "name": "Sakuya",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700948/rnwsk_rare_nct%20wish_sakuya.png"
+  },
+  {
+    "id": "rnwsn",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT WISH",
+    "name": "Sion",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700919/rnwsn_rare_nct%20wish_sion.png"
+  },
+  {
+    "id": "rnwys",
+    "cardRarity": "Rare",
+    "cardGroup": "NCT WISH",
+    "name": "Yushi",
+    "group": "NCT",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729700930/rnwys_rare_nct%20wish_yushi.png"
+  }
+]

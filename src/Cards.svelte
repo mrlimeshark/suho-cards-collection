@@ -98,8 +98,18 @@
 		:global( .card-grid > .card:nth-child(n+52):nth-child(-n+54) ) { grid-row: 18; }
 		:global( .card-grid > .card:nth-child(n+55):nth-child(-n+57) ) { grid-row: 19; }
 		:global( .card-grid > .card:nth-child(n+58):nth-child(-n+60) ) { grid-row: 20; }
+		:global( .card-grid > .card:nth-child(n+61):nth-child(-n+63) ) { grid-row: 21; }
+		:global( .card-grid > .card:nth-child(n+64):nth-child(-n+66) ) { grid-row: 22; }
+		:global( .card-grid > .card:nth-child(n+67):nth-child(-n+69) ) { grid-row: 23; }
+		:global( .card-grid > .card:nth-child(n+70):nth-child(-n+72) ) { grid-row: 24; }
+		:global( .card-grid > .card:nth-child(n+73):nth-child(-n+75) ) { grid-row: 25; }
+		:global( .card-grid > .card:nth-child(n+76):nth-child(-n+78) ) { grid-row: 26; }
+		:global( .card-grid > .card:nth-child(n+79):nth-child(-n+81) ) { grid-row: 27; }
+		:global( .card-grid > .card:nth-child(n+82):nth-child(-n+84) ) { grid-row: 28; }
+		:global( .card-grid > .card:nth-child(n+85):nth-child(-n+87) ) { grid-row: 29; }
+		:global( .card-grid > .card:nth-child(n+88):nth-child(-n+90) ) { grid-row: 30; }
 
-		:global( .card-grid > .card:nth-child(n+61) ) {
+		:global( .card-grid > .card:nth-child(n+91) ) {
 			grid-row: auto;
 			grid-column: auto;
 			transform: none!important;
