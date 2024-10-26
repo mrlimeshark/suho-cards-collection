@@ -2843,15 +2843,15 @@
     "id": "hbdwonnie",
     "cardRarity": "Priceless",
     "cardGroup": "Staff Birthday",
-    "name": "NCT Dream group",
-    "group": "NCT Dream",
+    "name": "NCT Dream",
+    "group": "NCT",
     "types": [
       "Fairy"
     ],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990126/hbdwonnie_priceless_staff%20birthday_nct%20dream.png",
     "category": "Event",
-    "keyword": ""
+    "keyword": "group"
   },
   {
     "id": "xmyyg",
