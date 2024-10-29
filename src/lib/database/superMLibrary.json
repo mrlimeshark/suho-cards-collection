@@ -33,7 +33,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001535/osmmk_ordinary_superm_mark.png",
     "category": "Regular",
-    "keyword": "Dream NCT127 127"
+    "keyword": ""
   },
   {
     "id": "osmtm",
@@ -57,7 +57,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001564/osmtn_ordinary_superm_ten.png",
     "category": "Regular",
-    "keyword": "WayV"
+    "keyword": ""
   },
   {
     "id": "osmty",
@@ -69,7 +69,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001579/osmty_ordinary_superm_taeyong.png",
     "category": "Regular",
-    "keyword": "NCT127 127"
+    "keyword": ""
   },
   {
     "id": "usmbh",
@@ -105,7 +105,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001698/usmmk_unordinary_superm_mark.png",
     "category": "Regular",
-    "keyword": "Dream NCT127 127"
+    "keyword": ""
   },
   {
     "id": "usmtm",
@@ -129,7 +129,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001729/usmtn_unordinary_superm_ten.png",
     "category": "Regular",
-    "keyword": "WayV"
+    "keyword": ""
   },
   {
     "id": "usmty",
@@ -141,7 +141,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001746/usmty_unordinary_superm_taeyong.png",
     "category": "Regular",
-    "keyword": "NCT127 127"
+    "keyword": ""
   },
   {
     "id": "rsmbh",
@@ -177,7 +177,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001594/rsmmk_rare_superm_mark.png",
     "category": "Regular",
-    "keyword": "Dream NCT127 127"
+    "keyword": ""
   },
   {
     "id": "rsmtm",
@@ -201,7 +201,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001623/rsmtn_rare_superm_ten.png",
     "category": "Regular",
-    "keyword": "WayV"
+    "keyword": ""
   },
   {
     "id": "rsmty",
@@ -213,7 +213,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729003097/rsmty_rare_superm_taeyong_1_vg1hkx.png",
     "category": "Regular",
-    "keyword": "NCT127 127"
+    "keyword": ""
   },
   {
     "id": "ssmbh",
@@ -249,7 +249,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001638/ssmmk_special_superm_mark.png",
     "category": "Regular",
-    "keyword": "Dream NCT127 127"
+    "keyword": ""
   },
   {
     "id": "ssmtm",
@@ -273,7 +273,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001668/ssmtn_special_superm_ten.png",
     "category": "Regular",
-    "keyword": "WayV"
+    "keyword": ""
   },
   {
     "id": "ssmty",
@@ -285,7 +285,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001684/ssmty_special_superm_taeyong.png",
     "category": "Regular",
-    "keyword": "NCT127 127"
+    "keyword": ""
   },
   {
     "id": "esmbh",
@@ -321,7 +321,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001469/esmmk_extraordinary_superm_mark.png",
     "category": "Regular",
-    "keyword": "Dream NCT127 127"
+    "keyword": ""
   },
   {
     "id": "esmtm",
@@ -345,7 +345,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001496/esmtn_extraordinary_superm_ten.png",
     "category": "Regular",
-    "keyword": "WayV"
+    "keyword": ""
   },
   {
     "id": "esmty",
@@ -357,6 +357,6 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729001509/esmty_extraordinary_superm_taeyong.png",
     "category": "Regular",
-    "keyword": "NCT127 127"
+    "keyword": ""
   }
 ]

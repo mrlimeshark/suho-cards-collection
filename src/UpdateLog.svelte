@@ -34,28 +34,20 @@
 	<header>
 
 
-		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>25/10/2024</sup>
+		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>XX/10/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">
 
 
-			<h2>Latest major update: <strong>19/10/2024</strong></h2> <br/>
+			<h2>Latest major update: <strong>XX/10/2024</strong></h2> <br/>
 			<p>
-				<mark>NCT is now a proud citizen of our card database!</mark> 🎉 <br/>
-				NCT has multiple subgroups, and some members of NCT are part of more than one subgroup.
-				For instance, both NCT127 and NCT Dream have Mark cards, and obviously, the search system of the SUHO bot
-				is not quite flexible for looking up every Mark card at once. <br/>
-				Fortunately, our database has QOL features to fix such a problem!<br/><br/>
-				
-				<mark>All NCT cards, NCT127, NCT Dream, WayV, KUN-XIAOJUN, NCT WISH, Soloist, and event cards, are available.</mark><br/>
-				NCT WISH group has not been officially added to the SUHO bot, but using the keyword <strong>"WISH"</strong> will still show up NCT WISH members.<br/>
+				<mark>Rise and shine, everyone. RIIZE and aespa are here!</mark> 🎉 <br/>
+				They have only a handful of cards compared to EXO and NCT,
+				so we have added two groups at once.
+				The usual QOL features are all included. <br/>
 
-				<br/><strong>Usable keywords: nct, nct127, 127, nct dream, dream, wayv, nct wish, wish, group(for group photos), soloist, card codes, event names, etc.</strong><br/>
-				Any keywords one considers reasonable should work.<br/>
-
-				<br/>The full update log is available below.
-				<br/> Have a great day, everyone.<br/>
+				<br/>  Happy dropping and trading.<br/>
 			</p>
 		</section>
 
@@ -74,6 +66,28 @@
 			</p>	
 		</section>
 	</header>
+
+
+
+		<h2 id="⚓-log2">
+				RIIZE & aespa update <sup>XX/10/2024</sup>
+		</h2>
+		<p>
+			<br/>
+			<mark>Rise and shine, everyone. RIIZE and aespa are here!</mark> 🎉 <br/>
+			Updating two groups at once with the usual QOL features.<br/>
+
+			<br/><mark>Other updates:</mark><br/>
+
+			- Updated the front page and showcase cards.<br/><br/>
+
+			- D.O. cards are now searchable using the keyword <strong>'do'</strong>.<br/><br/>
+
+			- Fixed <strong>psedo</strong> card displaying a wrong image.<br/><br/>
+		</p>
+
+
+
 		<h2 id="⚓-log3">
 				NCT & QOL update <sup>19/10/2024</sup>
 		</h2>
@@ -106,7 +120,7 @@
 
 			<br/> This is our biggest update yet! <br/>
 		</p>
-		<h3></h3>
+
 
 
 		<h2 id="⚓-log2">
@@ -122,6 +136,7 @@
 
 			<br/> We are certain that everyone will be delighted with this update. :) <br/>
 		</p>
+
 
 
 		<h2 id="⚓-log1">

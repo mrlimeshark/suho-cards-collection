@@ -6,8 +6,7 @@
 	import Card from "./lib/components/CardProxy.svelte";
 	import latestShowcase from "./latestCards.json";
 
-	let showcase, ordinary, unordinary, rare, special, 
-			extraordinary, priceless, altair, latest;
+	let showcase, showcaseEffect, available, latest;
 
 	let query = "";
 	let isLoading = true;
@@ -29,13 +28,8 @@
 			.then((cards) => {
 				window.cards = cards;
 				showcase = cards[0];
-				ordinary = cards.slice(1, 4);
-				unordinary = cards.slice(4, 7);
-				rare = cards.slice(7, 10);
-				special = cards.slice(10, 13);
-				extraordinary = cards.slice(13, 16);
-				priceless = cards.slice(16, 19);
-				altair = cards.slice(19,22);
+				showcaseEffect = cards.slice(1, 10);
+				available = cards.slice(10, 16);
 				isLoading = false;
 			});
 	};
@@ -69,8 +63,9 @@
 				for the Discord bot <a href="https://top.gg/bot/1120361339253162004">SUHO</a>.
 				The cards use <strong>3D transforms</strong>, <strong>filters</strong>, <strong>blend modes</strong>, <strong>css gradients</strong> and interactions to provide a unique experience when taking a closer look. <br/> <br/>
 				
-				<mark>EXO</mark>, <mark>SuperM</mark>, <mark>NCT</mark>, and <mark>Seventeen</mark> cards are supported. <br/>
-				<mark>Firefox on PC</mark> is recommended for the best experience.<br/><br/>
+				<mark>Firefox on PC</mark> is recommended for the best experience.<br/>
+				Some effects might not work well on Safari.<br/><br/>
+
 				Shoutout to <a href="https://github.com/simeydotme/pokemon-cards-css"> simeydotme</a> for the amazing repository :3
 			</p>
 		</section>
@@ -99,7 +94,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card database update: <strong>25/10/2024</strong>  <br />
+				Latest card database update: <strong>29/10/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -115,16 +110,15 @@
 		{#if isLatestShowcase}
 			<h2 id="⚓-latest">
 				<a href="⚓-latest">
-					~Latest Update~
+					~Latest Update~ 
 				</a>
 			</h2>
 			<p>
 				
 				 <br/>
-				 <mark>NCT joins our interactive card collection!</mark><br />
-				 <strong>NCT127</strong>, <strong>NCT Dream</strong>, <strong>WayV</strong>, <strong>KUN&XIAOJUN</strong>, <strong>NCT WISH</strong>, soloist, and all event cards are now searchable. <br />
-				 Typing <strong>only</strong> the 'NCT' keyword will fetch every aforementioned card, so specific keywords are preferred for your convenience. <br/>
-				 <br/>PS, all SuperM cards are also available.
+				 <strong>Rise and shine, everyone.</strong>	 <mark>RIIZE</mark> and <mark>aespa</mark> just joined our interactive card collection!<br />
+				 All regular cards and event cards are now searchable. Our database is slowly but surely growing.<br/>
+				 <br/>PS, RIIZE is 7.
 			</p>
 			<h3></h3>
 
@@ -148,164 +142,22 @@
 		{/if}
 
 
-		<h2 id="⚓-ordinary">
-			<a href="#⚓-ordinary">
-				Ordinary Cards
+		<h2 id="⚓-available_card">
+			<a href="#⚓-available_card">
+				Which cards are registered? <sup>(29/10/2024)</sup>
 			</a>
 		</h2>
 		<p>
-			All cards get a 3D rotation with CSS based on the cursor position.<br />
-			The default basic non-holo cards simply apply a <mark>flare/glare effect</mark> to the card which follows the mouse.
+			<mark>EXO</mark>, <mark>SuperM</mark>, <mark>NCT</mark>, <mark>RIIZE</mark>, <mark>aespa</mark>, and <mark>Seventeen</mark> cards are in our database. <br/>
+			Sub-group cards (<mark>EXO-CBX</mark>, <mark>WayV</mark>, <mark>NCT WISH</mark>, etc.) are all included as well.
 		</p>
+		<h3>Stay tuned for more updates!</h3>
 
 		<CardList>
 			{#if isLoading}
 				loading...
 			{:else}
-				{#each ordinary as card, index}
-					<Card
-						id={card.id}
-						name={card.name}
-						img={card.card_img}
-						types={card.types}
-						
-					/>
-				{/each}
-			{/if}
-		</CardList>
-
-
-		<h2 id="⚓-unordinary">
-			<a href="#⚓-unordinary">
-				Unordinary Cards
-			</a>
-		</h2>
-		<p>
-			A humble, but pretty effect for unordinary cards! Here we apply two glitter layers on top of each other with a overlay effect and
-		<mark>slide the two layers in opposite directions</mark>. We also <mark>mask the foil image</mark> with a gadient so
-		that foil and glitter layers are mutually exclusive. The resulting effect is a shimmering glitter layer!
-		</p>
-
-		<CardList>
-			{#if isLoading}
-				loading...
-			{:else}
-				{#each unordinary as card, index}
-					<Card
-						id={card.id}
-						img={card.card_img}
-						name={card.name}
-						types={card.types}
-						rarity={card.rarity}
-					/>
-				{/each}
-			{/if}
-		</CardList>
-
-		<h2 id="⚓-rare">
-			<a href="#⚓-rare">
-				Rare Cards
-			</a>
-		</h2>
-		<p>
-			Rare cards have an additional <mark>vertical beam holo effect</mark>. <br /> This uses a
-			combintation of <mark>repeating gradients and filters</mark>, with <mark>clip-path</mark> to mask
-			the holo areas for each stage. To get the holo effect to change while rotating the card I set the
-			background-position of each gradient layer based on cursor.
-		</p>
-
-		<CardList>
-			{#if isLoading}
-				loading...
-			{:else}
-				{#each rare as card, index}
-					<Card
-						id={card.id}
-						img={card.card_img}
-						name={card.name}
-						types={card.types}
-						rarity={card.rarity}
-					/>
-				{/each}
-			{/if}
-		</CardList>
-
-
-		<h2 id="⚓-special">
-			<a href="#⚓-special">
-				Special Cards
-			</a>
-		</h2>
-		<p>
-			Special cards have sparkling <mark>galaxy effect holofoil</mark>
-			with a <mark>gradient rainbow set to color-dodge & color-burn</mark> on top. Not too simple, yet not too flamboyant.
-			This holofoil complements card images just enough.  <br/>
-			
-		</p>
-
-		<CardList>
-			{#if isLoading}
-				loading...
-			{:else}
-				{#each special as card, index}
-					<Card
-						id={card.id}
-						img={card.card_img}
-						name={card.name}
-						types={card.types}
-						rarity={card.rarity}
-					/>
-				{/each}
-			{/if}
-		</CardList>
-
-
-
-		<h2 id="⚓-extraordinary">
-			<a href="#⚓-extraordinary">
-				Extraordinary Cards
-			</a>
-		</h2>
-		<p>
-			Extraordinary cards appear to have colourful and detailed backgrounds in general, therefore a gorgeous
-            effect was chosen: a <mark>criss-cross linear gradient pattern</mark> that moves
-			across the card! <mark>Note: This effect might not work well on mobile.</mark>
-		</p>
-
-		<CardList>
-			{#if isLoading}
-				loading...
-			{:else}
-				{#each extraordinary as card, index}
-					<Card
-						id={card.id}
-						img={card.card_img}
-						name={card.name}
-						types={card.types}
-						rarity={card.rarity}
-					/>
-				{/each}
-			{/if}
-		</CardList>
-
-
-		<h2 id="⚓-priceless">
-			<a href="#⚓-priceless">
-				Priceless Cards <sup>(Event Cards)</sup>
-			</a>
-		</h2>
-		<p>
-			Priceless cards are given quite a unique effect in whereby the foil background is a shiny silver
-			color. To achieve this, we apply the foil image with some radial gradients to darken the foil
-			over the background. This creates a slightly silver effect on top of the white card background.
-			<br/><mark>This effect works best on Firefox.</mark>
-		</p>
-
-		<CardList>
-			{#if isLoading}
-				loading...
-			{:else}
-				{#each priceless as card, index}
+				{#each available as card, index}
 					<Card
 						id={card.id}
 						img={card.card_img}
@@ -320,25 +172,25 @@
 		</CardList>
 
 
-		<h2 id="⚓-altair">
-			<a href="#⚓-altair">
-				Altair Cards <sup>(Event Cards)</sup>
+		<h2 id="⚓-showcase_effect">
+			<a href="#⚓-showcase_effect">
+				Card Effects
 			</a>
 		</h2>
 		<p>
-			Default Altair cards have <mark>diagonal gradients overlayed on them</mark>,
-            The cards are generally <mark>brighter with a pastel hue</mark>, though, which
-			makes the gradient and texture more subtle.
-			Since these are created for special occassions (anniversaries, etc.), you will see
-			a number of different effects and holofoils applied to them.
+			<mark>All cards receive outline colours and holofoil effects</mark> depending on their general colours and rarities respectively. <br/>
+			<mark>The outline colour</mark> for each card only <mark>appear when clicking</mark> a card, and <mark>holofoil effects differ</mark> depending on the <mark>rarities of cards</mark>.<br/>
+			Rarer cards tend to have fancier shines and holofoils. <strong>Altair cards have most diverse effects fitting to their aesthetics.</strong><br/>
+			Some effects, especially the one for Extraordinary cards, might look weird on certain web browsers.<br/>
+			
 		</p>
-		<h3>Altair cards have most diverse effects fitting to their aesthetics!</h3>
+
 
 		<CardList>
 			{#if isLoading}
 				loading...
 			{:else}
-				{#each altair as card, index}
+				{#each showcaseEffect as card, index}
 					<Card
 						id={card.id}
 						img={card.card_img}
