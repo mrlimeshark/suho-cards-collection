@@ -117,7 +117,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651687/o2exdo_ordinary_exo_do_iplwlk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "oexdo",
@@ -129,7 +129,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728649977/oexdo_ordinary_exo_do_vpiyli.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "osldo",
@@ -141,7 +141,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153825/osldo_ordinary_soloist_do_lfv6oc.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "o2exka",
@@ -504,7 +504,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728652457/u2exdo_unordinary_exo_do_k6mcdb.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "uexdo",
@@ -518,7 +518,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650316/uexdo_unordinary_exo_do_voe0pr.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "usldo",
@@ -532,7 +532,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154196/usldo_unordinary_soloist_do_mmvdk4.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "u2exka",
@@ -896,7 +896,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653115/r2exdo_rare_exo_do_sg6cgp.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "rexdo",
@@ -910,7 +910,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650591/rexdo_rare_exo_do_b6txzw.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "rsldo",
@@ -924,7 +924,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154277/rsldo_rare_soloist_do_vwqgtn.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "r2exka",
@@ -1244,7 +1244,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653475/s2eodo_special_exo_do_tmae4t.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "seodo",
@@ -1258,7 +1258,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728650886/seodo_special_exo_do_rqzovu.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "ssldo",
@@ -1272,7 +1272,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154498/ssldo_special_soloist_do_igugru.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "s2eoka",
@@ -1664,7 +1664,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653826/e2exdo_extraordinary_exo_do_irgvxs.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "eexdo",
@@ -1678,7 +1678,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651177/eexdo_extraordinary_exo_do_ypacjn.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "esldo",
@@ -1692,7 +1692,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154639/esldo_extraordinary_soloist_do_blxhb7.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "e2exka",
@@ -1972,7 +1972,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321129/roycdo_priceless_royal%20event_chanyeol%20do.png",
     "category": "Event",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "xmkyl",
@@ -2174,9 +2174,9 @@
     "group": "EXO",
     "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321371/srocyl_priceless_sanrio_chanyeol.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319304/psedo_priceless_stardust_event_do.png",
     "category": "Event",
-    "keyword": "Star Dust"
+    "keyword": "Star Dust do"
   },
   {
     "id": "evdooo",
@@ -2188,7 +2188,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319918/evdooo_priceless_evil_do.png",
     "category": "Event",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "apodoo",
@@ -2200,7 +2200,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321437/apodoo_priceless_bapocalypse_do.png",
     "category": "Event",
-    "keyword": "Apocalypse"
+    "keyword": "Apocalypse do"
   },
   {
     "id": "pseka",
@@ -2632,7 +2632,7 @@
     "rarity": "Trainer Gallery Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318838/anexdo_altair_anniversary_do.png",
     "category": "Event",
-    "keyword": ""
+    "keyword": "do"
   },
   {
     "id": "12yrsdo",
@@ -2644,7 +2644,7 @@
     "rarity": "Rare Holo VSTAR",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729318327/12yrsdo_altair_anniversary_do.png",
     "category": "Event",
-    "keyword": "12 Years"
+    "keyword": "12 Years do"
   },
   {
     "id": "anexka",
