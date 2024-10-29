@@ -94,7 +94,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card database update: <strong>29/10/2024</strong>  <br />
+				Latest card database update: <strong>30/10/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -144,7 +144,7 @@
 
 		<h2 id="⚓-available_card">
 			<a href="#⚓-available_card">
-				Which cards are registered? <sup>(29/10/2024)</sup>
+				Which cards are registered? <sup>(30/10/2024)</sup>
 			</a>
 		</h2>
 		<p>

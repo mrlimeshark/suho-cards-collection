@@ -34,13 +34,13 @@
 	<header>
 
 
-		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>XX/10/2024</sup>
+		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>30/10/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">
 
 
-			<h2>Latest major update: <strong>XX/10/2024</strong></h2> <br/>
+			<h2>Latest major update: <strong>30/10/2024</strong></h2> <br/>
 			<p>
 				<mark>Rise and shine, everyone. RIIZE and aespa are here!</mark> 🎉 <br/>
 				They have only a handful of cards compared to EXO and NCT,
@@ -70,7 +70,7 @@
 
 
 		<h2 id="⚓-log2">
-				RIIZE & aespa update <sup>XX/10/2024</sup>
+				RIIZE & aespa update <sup>30/10/2024</sup>
 		</h2>
 		<p>
 			<br/>
