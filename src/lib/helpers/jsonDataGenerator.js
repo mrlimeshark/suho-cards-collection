@@ -2,7 +2,6 @@ import { writeFileSync } from 'fs';
 
 // 1. Declare a list of several img URLs.
 const imageUrls = [
-
 ];
 
 
@@ -35,10 +34,10 @@ function generateCards(imageUrls) {
     const card = {
       id: id,
       cardRarity: cardRarityKey.charAt(0).toUpperCase() + cardRarityKey.slice(1),
-      cardGroup: cardRarityKey === "priceless" || cardRarityKey === "altair" ? cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1) : "RIIZE",
+      cardGroup: cardRarityKey === "priceless" || cardRarityKey === "altair" ? cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1) : "aespa",
       //cardGroup: cardGroupRaw.toLowerCase() === 'nct dream' ? 'NCT Dream' : cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1),
       name: name === 'do' ? 'D.O.' : name.charAt(0).toUpperCase() + name.slice(1), // Capitalize name
-      group: "RIIZE", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      group: "aespa", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
       types: "", 
       rarity: "", 
       card_img: url,
@@ -76,8 +75,8 @@ function generateCards(imageUrls) {
 
     const validGroup = ["alexandrite", "amethyst", "aquamarine", "diamond", "emerald", "ruby", "sapphire", "sardonyx",
 "cancer", "leo", "libra", "sagittarius", "scorpio", "virgo",
-"apocalypse", "bta", "candy", "evil", "fairies", "farewell", "friendship event", "summer", "xoxo", "anniversary",
-"riize"];
+"apocalypse", "candy", "evil", "fairies", "farewell", "sanrio", "summer", "xoxo", "anniversary",
+"riize", "aespa"];
 
     // Initial category & keyword pass
     if (card.cardGroup === "Alexandrite" || card.cardGroup === "Amethyst" || card.cardGroup === "Aquamarine" ||

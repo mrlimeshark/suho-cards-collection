@@ -1,34 +1,32 @@
 [    
   {
-    "id": "gmlchenle",
-    "cardRarity": "Altair",
-    "cardGroup": "Lucky",
-    "name": "Chenle",
-    "group": "NCT Dream",
-    "types": ["Grass"],
-    "rarity": "Rare Holo VMAX",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728901047/gmlchenle_altair_lucky_chenle.png"
+    "id": "sroseu",
+    "cardRarity": "Priceless",
+    "cardGroup": "Psanrio",
+    "name": "Seunghan",
+    "group": "RIIZE",
+    "types": ["Fairy"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729946365/sroseu_priceless_psanrio_seunghan_jm8krc.png"
   },
   {
-    "id": "ftrsmmark",
-    "cardRarity": "Altair",
-    "cardGroup": "Futurism",
-    "name": "Mark",
-    "group": "NCT Dream NCT127 127",
-    "types": ["Darkness"],
-    "rarity": "Amazing Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728901210/ftrsmmark_altair_futurism_mark.png",
-    "mask": "",
-    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213326/card_foil_v1.png"
+    "id": "raegs",
+    "cardRarity": "Rare",
+    "cardGroup": "aespa",
+    "name": "Giselle",
+    "group": "aespa",
+    "types": ["Metal"],
+    "rarity": "Rare Holo",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729941289/raegs_rare_aespa_giselle.png"
   },
   {
-    "id": "endjn",
-    "cardRarity": "Extraordinary",
-    "cardGroup": "NCT Dream",
-    "name": "Jeno",
-    "group": "NCT Dream",
-    "types": ["Darkness"],
-    "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728164391/endjn_extraordinary_nct%20dream_jeno.png"
+    "id": "sagsho",
+    "cardRarity": "Priceless",
+    "cardGroup": "Sagittarius",
+    "name": "Shotaro",
+    "group": "RIIZE",
+    "types": ["Lightning"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729945985/sagsho_priceless_sagittarius_shotaro_ktef8s.png"
   }
 ]

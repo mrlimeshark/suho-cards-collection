@@ -10,6 +10,7 @@
   import NCTLib from "./lib/database/nctLibrary.json";
   import SupMLib from "./lib/database/superMLibrary.json";
   import RIILib from "./lib/database/riizeLibrary.json";
+  import aeLib from "./lib/database/aespaLibrary.json";
 
 	export let query = "";
   let placeholderText = "";
@@ -30,7 +31,7 @@
   //Don't do 'let something = getCards()'
 
   // Combine the multiple libraries
-  const fullLibrary = [...EXOLib, ...SupMLib, ...SVTLib, ...NCTLib, ...RIILib];
+  const fullLibrary = [...EXOLib, ...SupMLib, ...SVTLib, ...NCTLib, ...RIILib, ...aeLib];
 
   // For testing
   //const testLibrary = [...EXOLib, ...NCTLib];

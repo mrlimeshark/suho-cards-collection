@@ -20,14 +20,14 @@
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154259/rslbk_rare_soloist_baekhyun_hjnuzs.png"
   },
   {
-    "id": "oslcn",
-    "cardRarity": "Ordinary",
-    "cardGroup": "Soloist",
+    "id": "virche",
+    "cardRarity": "Priceless",
+    "cardGroup": "Virgo",
     "name": "Chen",
     "group": "EXO",
-    "types": ["Dragon"],
-    "rarity": "Common",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728153723/oslcn_ordinary_soloist_chen_nhivog.png"
+    "types": ["Lightning"],
+    "rarity": "Rare Shiny",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320944/virche_priceless_virgo_chen.png"
   },
   {
     "id": "uexcy",
@@ -70,36 +70,34 @@
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154290/rslla_rare_soloist_lay_j6zwiv.png"
   },
   {
-    "id": "psesh",
-    "cardRarity": "Priceless",
-    "cardGroup": "Stardust Event",
+    "id": "oessh",
+    "cardRarity": "Ordinary",
+    "cardGroup": "EXO-SC",
     "name": "Sehun",
     "group": "EXO",
-    "types": ["Metal"],
-    "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319399/psesh_priceless_stardust%20event_sehun.png"
+    "types": ["Darkness"],
+    "rarity": "Common",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728158528/oessh_ordinary_sc_sehun_hy0uzc.png"
   },
   {
-    "id": "starsuho",
-    "cardRarity": "Altair",
-    "cardGroup": "Starry Night",
+    "id": "u2slsu",
+    "cardRarity": "Unordinary",
+    "cardGroup": "Soloist",
     "name": "Suho",
     "group": "EXO",
-    "types": ["Psychic"],
-    "rarity": "Amazing Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322390/starsuho_altair_starry%20night_suho.png",
-    "mask": "",
-    "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725518688/card_foil_mihi_hextile.png"
+    "types": ["Fighting"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154778/u2slsu_unordinary_soloist_suho_ndhiun.png"
   },
   {
-    "id": "apfxiu",
+    "id": "aquxiu",
     "cardRarity": "Priceless",
-    "cardGroup": "Bapf",
+    "cardGroup": "Aquamarine",
     "name": "Xiumin",
     "group": "EXO",
-    "types": ["Fairy"],
+    "types": ["Grass"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322721/apfxiu_priceless_bapf_xiumin.png"
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322669/aquxiu_priceless_aquamarine_xiumin.png"
   },
   {
     "id": "seosu",
@@ -140,6 +138,16 @@
     "types": ["Water"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729944822/rriek_rare_riize_eunseok_mul1hc.png"
+  },
+  {
+    "id": "uaekr",
+    "cardRarity": "Unordinary",
+    "cardGroup": "aespa",
+    "name": "Karina",
+    "group": "aespa",
+    "types": ["Fairy"],
+    "rarity": "Rare Secret",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729941348/uaekr_unordinary_aespa_karina.png"
   },
   {
     "id": "e2svsc",
