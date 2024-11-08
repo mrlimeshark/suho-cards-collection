@@ -27,9 +27,6 @@
 
 
 
-  //Directly using getCards() returns a Promise object.
-  //Don't do 'let something = getCards()'
-
   // Combine the multiple libraries
   const fullLibrary = [...EXOLib, ...SupMLib, ...SVTLib, ...NCTLib, ...RIILib, ...aeLib];
 
