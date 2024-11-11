@@ -2,7 +2,62 @@ import { writeFileSync } from 'fs';
 
 // 1. Declare a list of several img URLs.
 const imageUrls =
-[]
+[
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/btahsk_priceless_BTA_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtpn_extraordinary_BTOB_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtek_special_BTOB_Eunkwang.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/libilh_priceless_Libra_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtek_extraordinary_BTOB_Eunkwang.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtek_rare_BTOB_Eunkwang.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sagmin_priceless_Sagittarius_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/emesgj_priceless_Emerald_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtmh_extraordinary_BTOB_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/aqusik_priceless_Aquamarine_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/aqupen_priceless_Aquamarine_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtih_extraordinary_BTOB_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/xomin_priceless_BXOXO_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/cdyilo_priceless_Bcandy_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtmh_unordinary_BTOB_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtih_special_BTOB_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebths_extraordinary_BTOB_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtmh_special_BTOB_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/oslht_ordinary_Soloist_HUTA.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtsj_special_BTOB_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtcs_extraordinary_BTOB_Changsub.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sroung_priceless_Psanrio_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rslht_rare_Soloist_HUTA.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/apfmhk_priceless_Apf_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtcs_rare_BTOB_Changsub.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/xmpnl_priceless_Xmas23_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtsj_rare_BTOB_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubths_unordinary_BTOB_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtsj_unordinary_BTOB_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtcs_special_BTOB_Changsub.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtpn_unordinary_BTOB_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sageun_priceless_Sagittarius_Eunkwang.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtek_unordinary_BTOB_Eunkwang.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbths_special_BTOB_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtpn_rare_BTOB_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtcs_ordinary_BTOB_Changsub.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtmh_rare_BTOB_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/uslht_unordinary_Soloist_HUTA.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtmh_ordinary_BTOB_Minhyuk.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtsj_extraordinary_BTOB_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtcs_unordinary_BTOB_Changsub.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbths_rare_BTOB_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtek_ordinary_BTOB_Eunkwang.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sslht_special_Soloist_HUTA.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtpn_special_BTOB_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtpn_ordinary_BTOB_Peniel.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obths_ordinary_BTOB_Hyunsik.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtih_ordinary_BTOB_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtih_rare_BTOB_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/royjae_priceless_Royal_Event_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtih_unordinary_BTOB_Ilhoon.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtsj_ordinary_BTOB_Sungjae.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/eslht_extraordinary_Soloist_HUTA.png",
+  "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097110/amesub_priceless_amethyst_changsub.png"
+]
 ;
 
 
@@ -48,6 +103,13 @@ function generateCards(imageUrls) {
         break;
     }
     words[2] = words[2].replace("%20", " ");
+
+    switch (words[3].toLowerCase()) {
+      case "moon":
+        artist = "Moon Jongup"
+        break;
+    }
+
     artist = artist.replace("%20", " ");
 
     // Exceptions
@@ -69,7 +131,7 @@ function generateCards(imageUrls) {
       //cardGroup: words[1] === "priceless" || words[1] === "altair" ? words[2].charAt(0).toUpperCase() + words[2].slice(1).toUpperCase() : "Red Velvet",
       cardGroup: words[2].charAt(0).toUpperCase() + words[2].slice(1),
       name: artist === 'do' ? 'D.O.' : artist.charAt(0).toUpperCase() + artist.slice(1), // Capitalise name
-      group: "Red Velvet", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      group: "BTOB", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
       types: "", // Pokémon type
       rarity: "", // Pokémon TCG rarity
       card_img: url,
@@ -108,11 +170,11 @@ function generateCards(imageUrls) {
     const validGroup = ["alexandrite", "amethyst", "aquamarine", "diamond", "emerald", "ruby", "sapphire", "sardonyx",
 "cancer", "leo", "libra", "sagittarius", "scorpio", "virgo",
 "anniversary", "apocalypse", "bta", "candy", "evil", "fairies", "farewell", "halloween", "royal event", "sanrio", "summer", "xoxo",
- "aespa", "red velvet", "riize", "got the beat"];
+ "aespa", "btob", "red velvet", "riize", "got the beat", "soloist"];
 
     // Initial category & keyword pass
     if (card.cardGroup === "") {
-      card.cardGroup = "Red Velvet";
+      card.cardGroup = "BTOB"; // DON'T FORGET TO CHANGE THIS FOR DIFF GROUPS
     }
     else if (card.cardGroup === "Alexandrite" || card.cardGroup === "Amethyst" || card.cardGroup === "Aquamarine" ||
     card.cardGroup === "Diamond" || card.cardGroup === "Emerald" || card.cardGroup === "Ruby" || card.cardGroup === "Sapphire"
@@ -149,8 +211,20 @@ function generateCards(imageUrls) {
     }
 
     // Second pass
-    if (card.cardGroup.toLowerCase === "bta") {
-      card.cardGroup = "BTA";
+    switch (card.cardGroup.toLowerCase()) {
+      case "bta":
+        card.cardGroup = "BTA";
+        break;
+      case "xoxo":
+        card.cardGroup = "XOXO";
+        break;
+    }
+
+    switch (card.name.toLowerCase()) {
+      case "huta":
+        addWhiteSpace(card);
+        card.keyword += "Minhyuk";
+        break;
     }
 
 
@@ -235,7 +309,7 @@ function generateCards(imageUrls) {
         addWhiteSpace(card);
         card.keyword += "Christmas Xmas"; 
     }
-    else if (card.cardGroup.toLowerCase === "pxoxo" || card.cardGroup.toLowerCase === "bxoxo") {
+    else if (card.cardGroup.toLowerCase() === "pxoxo" || card.cardGroup.toLowerCase() === "bxoxo") {
         addWhiteSpace(card);
         card.keyword += "XOXO";
         checkPB(card);

@@ -932,7 +932,7 @@
     "cardGroup": "EXO",
     "name": "Kai",
     "group": "EXO",
-    "types": [],
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653124/r2exka_rare_exo_kai_skjkmw.png",
     "category": "Regular",
@@ -986,11 +986,9 @@
     "cardGroup": "Soloist",
     "name": "Lay",
     "group": "EXO",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728154290/rslla_rare_soloist_lay_j6zwiv.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730469571/rslla_rare_soloist_lay.png",
     "category": "Regular",
     "keyword": ""
   },
@@ -1714,11 +1712,9 @@
     "cardGroup": "EXO",
     "name": "Kai",
     "group": "EXO",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728651204/eexka_extraordinary_exo_kai_zo9dr8.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730469571/eexka_extraordinary_exo_kai.png",
     "category": "Regular",
     "keyword": ""
   },
@@ -1784,11 +1780,9 @@
     "cardGroup": "EXO",
     "name": "Luhan",
     "group": "EXO",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653870/e2exla_extraordinary_exo_lay_cdkaas.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728653935/e2exlh_extraordinary_exo_luhan_q9v2nv.png",
     "category": "Regular",
     "keyword": ""
   },
@@ -1984,7 +1978,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320687/xmkyl_priceless_bxmas23_kai%20chanyeol.png",
     "category": "Event",
-    "keyword": "Xmas Xmas23 Christmas"
+    "keyword": "Xmas Xmas23 Christmas Booster"
   },
   {
     "id": "psebh",
@@ -2008,7 +2002,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319863/evbaek_priceless_pevil_baekhyun.png",
     "category": "Event",
-    "keyword": "Evil"
+    "keyword": "Evil Patreon"
   },
   {
     "id": "paqbh",
@@ -2092,7 +2086,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729319883/evchen_priceless_bevil_chen.png",
     "category": "Event",
-    "keyword": "Evil"
+    "keyword": "Evil Booster"
   },
   {
     "id": "virche",
@@ -2116,7 +2110,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321005/faeche_priceless_pfairies_chen.png",
     "category": "Event",
-    "keyword": "Fairy Fairies"
+    "keyword": "Fairy Fairies Patreon"
   },
   {
     "id": "psecy",
@@ -2200,7 +2194,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321437/apodoo_priceless_bapocalypse_do.png",
     "category": "Event",
-    "keyword": "Apocalypse do"
+    "keyword": "Apocalypse do Booster"
   },
   {
     "id": "pseka",
@@ -2224,7 +2218,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725019578/evkaii_priceless_kai.gif",
     "category": "Event",
-    "keyword": "Evil"
+    "keyword": "Evil Patreon"
   },
   {
     "id": "xokai",
@@ -2236,7 +2230,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321577/xokai_priceless_pxoxo_kai.png",
     "category": "Event",
-    "keyword": "XOXO"
+    "keyword": "XOXO Patreon"
   },
   {
     "id": "fmxmka",
@@ -2332,7 +2326,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321821/slmlay_priceless_psoulmate_lay.png",
     "category": "Event",
-    "keyword": "Soulmate Soul Mate"
+    "keyword": "Soulmate Soul Mate Patreon"
   },
   {
     "id": "sumlay",
@@ -2344,7 +2338,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729321719/sumlay_priceless_bsummer_lay.png",
     "category": "Event",
-    "keyword": "Summer"
+    "keyword": "Summer Booster"
   },
   {
     "id": "psesh",
@@ -2368,7 +2362,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729320068/evehun_priceless_bevil_sehun.png",
     "category": "Event",
-    "keyword": "Evil"
+    "keyword": "Evil Booster"
   },
   {
     "id": "cdyshn",
@@ -2548,7 +2542,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729322721/apfxiu_priceless_bapf_xiumin.png",
     "category": "Event",
-    "keyword": "April Fools"
+    "keyword": "April Fools Booster"
   },
   {
     "id": "anexbh",

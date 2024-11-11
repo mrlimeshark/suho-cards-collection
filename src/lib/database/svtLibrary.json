@@ -1865,13 +1865,11 @@
     "cardGroup": "Pfriendship Event",
     "name": "The8 & Jun",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725886196/fethju_priceless_Pfriendship%20Event_the8_jun.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117994/fethju_priceless_Pfriendship_Event_the8_jun.png",
     "category": "Event",
-    "keyword": "SVT"
+    "keyword": "SVT Friendship Patreon"
   },
   {
     "id": "fesemo",
@@ -1879,11 +1877,9 @@
     "cardGroup": "Friendship Event",
     "name": "Moonbin & Seungkwan",
     "group": "Astro Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725886060/fesemo_priceless_Friendship%20Event_moonbin_seungkwan.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/fesemo_priceless_Friendship_Event_moonbin_seungkwan.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -1893,9 +1889,7 @@
     "cardGroup": "Amethyst",
     "name": "DK",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871725/amedkk_priceless_amethyst_dk.png",
     "category": "Gemstone",
@@ -1907,9 +1901,7 @@
     "cardGroup": "Aphrodite",
     "name": "DK",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871797/paqdk_priceless_aphrodite_dk.png",
     "category": "Event",
@@ -1921,9 +1913,7 @@
     "cardGroup": "Amethyst",
     "name": "Dino",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871882/amedin_priceless_amethyst_dino.png",
     "category": "Gemstone",
@@ -1935,13 +1925,11 @@
     "cardGroup": "Bsummer",
     "name": "Dino",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725871949/sumdin_priceless_bsummer_dino.png",
     "category": "Event",
-    "keyword": "SVT Summer"
+    "keyword": "SVT Summer Booster"
   },
   {
     "id": "xodin",
@@ -1949,9 +1937,7 @@
     "cardGroup": "XOXO",
     "name": "Dino",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725872528/xodin_priceless_XOXO_dino.png",
     "category": "Event",
@@ -1963,9 +1949,7 @@
     "cardGroup": "Alexandrite",
     "name": "Hoshi",
     "group": "Seventeen",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725872603/alehos_priceless_alexandrite_hoshi.png",
     "category": "Gemstone",
@@ -1977,9 +1961,7 @@
     "cardGroup": "Apf",
     "name": "Hoshi",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873104/apfshi_priceless_apf_hoshi.png",
     "category": "Event",
@@ -1991,9 +1973,7 @@
     "cardGroup": "Xmas23",
     "name": "Hoshi",
     "group": "Seventeen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873202/xmhsi_priceless_xmas23_hoshi.png",
     "category": "Event",
@@ -2005,9 +1985,7 @@
     "cardGroup": "Evil",
     "name": "Jeonghan",
     "group": "Seventeen",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873300/evghan_priceless_evil_jeonghan.png",
     "category": "Event",
@@ -2019,13 +1997,11 @@
     "cardGroup": "Bfairies",
     "name": "Jeonghan",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873347/faejhn_priceless_bfairies_jeonghan.png",
     "category": "Event",
-    "keyword": "SVT Fairy Fairies"
+    "keyword": "SVT Fairy Fairies Booster"
   },
   {
     "id": "libjeo",
@@ -2033,9 +2009,7 @@
     "cardGroup": "Libra",
     "name": "Jeonghan",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873457/libjeo_priceless_libra_jeonghan.png",
     "category": "Event",
@@ -2047,11 +2021,9 @@
     "cardGroup": "Royal Event",
     "name": "Jeonghan",
     "group": "Seventeen",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873512/royhan_priceless_Royal%20Event_jeonghan.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/royhan_priceless_Royal_Event_jeonghan.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2061,11 +2033,9 @@
     "cardGroup": "Staff Birthday",
     "name": "Jeonghan",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725873402/hbdpocket_priceless_Staff%20Birthday_jeonghan.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117994/hbdpocket_priceless_Staff_Birthday_jeonghan.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2075,9 +2045,7 @@
     "cardGroup": "Alexandrite",
     "name": "Jun",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725881927/alejun_priceless_alexandrite_jun.png",
     "category": "Gemstone",
@@ -2089,13 +2057,11 @@
     "cardGroup": "Psanrio",
     "name": "Jun",
     "group": "Seventeen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882042/srojun_priceless_psanrio_jun.png",
     "category": "Event",
-    "keyword": "SVT Sanrio"
+    "keyword": "SVT Sanrio Patreon"
   },
   {
     "id": "hbdsophiya",
@@ -2103,11 +2069,9 @@
     "cardGroup": "Staff Birthday",
     "name": "Joshua",
     "group": "Seventeen",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882710/hbdsophiya_priceless_Staff%20Birthday_joshua.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/hbdsophiya_priceless_Staff_Birthday_joshua.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2117,11 +2081,9 @@
     "cardGroup": "Staff Birthday",
     "name": "Joshua",
     "group": "Seventeen",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729778645/hbdsophiya2_priceless_staff%20birthday_joshua.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/hbdsophiya2_priceless_staff_birthday_joshua.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2131,11 +2093,9 @@
     "cardGroup": "Staff Birthday",
     "name": "Joshua",
     "group": "Seventeen",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882512/hbdcami_priceless_Staff%20Birthday_joshua.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117994/hbdcami_priceless_Staff_Birthday_joshua.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2145,9 +2105,7 @@
     "cardGroup": "Staffmate",
     "name": "Joshua",
     "group": "Seventeen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725882760/sfmami_priceless_staffmate_joshua.png",
     "category": "Event",
@@ -2159,13 +2117,11 @@
     "cardGroup": "Pcardcaptor",
     "name": "Mingyu",
     "group": "Seventeen",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883130/zuhmgy_priceless_pcardcaptor_mingyu.png",
     "category": "Event",
-    "keyword": "SVT Card Captor"
+    "keyword": "SVT Card Captor Patreon"
   },
   {
     "id": "diagyu",
@@ -2173,9 +2129,7 @@
     "cardGroup": "Diamond",
     "name": "Mingyu",
     "group": "Seventeen",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883074/diagyu_priceless_diamond_mingyu.png",
     "category": "Gemstone",
@@ -2187,9 +2141,7 @@
     "cardGroup": "BTA",
     "name": "S.Coups",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883258/btasco_priceless_BTA_s.coups.png",
     "category": "Event",
@@ -2201,9 +2153,7 @@
     "cardGroup": "Leo",
     "name": "S.Coups",
     "group": "Seventeen",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883364/leoups_priceless_leo_s.coups.png",
     "category": "Event",
@@ -2215,9 +2165,7 @@
     "cardGroup": "Sardonyx",
     "name": "S.Coups",
     "group": "Seventeen",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883470/sarsco_priceless_sardonyx_s.coups.png",
     "category": "Gemstone",
@@ -2229,11 +2177,9 @@
     "cardGroup": "Staff Birthday",
     "name": "Seungkwan",
     "group": "Seventeen",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883556/hbdtellie_priceless_Staff%20Birthday_seungkwan.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/hbdtellie_priceless_Staff_Birthday_seungkwan.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2243,13 +2189,11 @@
     "cardGroup": "Bcandy",
     "name": "The8",
     "group": "Seventeen",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883864/cdythe_priceless_bcandy_the8.png",
     "category": "Event",
-    "keyword": "SVT Candy"
+    "keyword": "SVT Candy Booster"
   },
   {
     "id": "scothe",
@@ -2257,9 +2201,7 @@
     "cardGroup": "Scorpio",
     "name": "The8",
     "group": "Seventeen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883960/scothe_priceless_scorpio_the8.png",
     "category": "Event",
@@ -2271,11 +2213,9 @@
     "cardGroup": "Stardust Event",
     "name": "The8",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883902/pset8_priceless_Stardust%20Event_the8.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/pset8_priceless_Stardust_Event_the8.png",
     "category": "Event",
     "keyword": "SVT Star Dust"
   },
@@ -2285,13 +2225,11 @@
     "cardGroup": "Pthanku",
     "name": "The8",
     "group": "Seventeen",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884091/tyuth8_priceless_pthanku_the8.png",
     "category": "Event",
-    "keyword": "SVT Thank You"
+    "keyword": "SVT Thank You Patreon"
   },
   {
     "id": "amever",
@@ -2299,9 +2237,7 @@
     "cardGroup": "Amethyst",
     "name": "Vernon",
     "group": "Seventeen",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884165/amever_priceless_amethyst_vernon.png",
     "category": "Gemstone",
@@ -2310,16 +2246,14 @@
   {
     "id": "apover",
     "cardRarity": "Priceless",
-    "cardGroup": "Apocalypse Event Papocalypse",
+    "cardGroup": "Papocalypse",
     "name": "Vernon",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884197/apover_priceless_papocalypse_vernon.png",
     "category": "Event",
-    "keyword": "SVT"
+    "keyword": "SVT Apocalypse Patreon"
   },
   {
     "id": "sfmshy",
@@ -2327,9 +2261,7 @@
     "cardGroup": "Staffmate",
     "name": "Vernon",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884239/sfmshy_priceless_staffmate_vernon.png",
     "category": "Event",
@@ -2341,9 +2273,7 @@
     "cardGroup": "Cancer",
     "name": "Wonwoo",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884302/canwon_priceless_cancer_wonwoo.png",
     "category": "Event",
@@ -2355,9 +2285,7 @@
     "cardGroup": "Ruby",
     "name": "Wonwoo",
     "group": "Seventeen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884378/ubywoo_priceless_ruby_wonwoo.png",
     "category": "Gemstone",
@@ -2369,9 +2297,7 @@
     "cardGroup": "Soulmate",
     "name": "Wonwoo",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884344/slmwwo_priceless_soulmate_wonwoo.png",
     "category": "Event",
@@ -2383,9 +2309,7 @@
     "cardGroup": "Sagittarius",
     "name": "Woozi",
     "group": "Seventeen",
-    "types": [
-      "Lightning"
-    ],
+    "types": ["Lightning"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884487/sagwoo_priceless_sagittarius_woozi.png",
     "category": "Event",
@@ -2397,11 +2321,9 @@
     "cardGroup": "Staff Birthday",
     "name": "Woozi",
     "group": "Seventeen",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884439/hbdlou_priceless_Staff%20Birthday_woozi.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/hbdlou_priceless_Staff_Birthday_woozi.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2411,9 +2333,7 @@
     "cardGroup": "Staffmate",
     "name": "Woozi",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884529/sfmnco_priceless_staffmate_woozi.png",
     "category": "Event",
@@ -2425,11 +2345,9 @@
     "cardGroup": "Anniversary",
     "name": "Vernon & Dino & Seungkwan & BooChanSol",
     "group": "Seventeen",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885647/ansvbcs_altair_anniversary_Vernon%20Dino%20Seungkwan.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/ansvbcs_altair_anniversary_Vernon_Dino_Seungkwan.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2439,11 +2357,9 @@
     "cardGroup": "Anniversary",
     "name": "S.Coups & Jeonghan & JeongCheol",
     "group": "Seventeen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rarity": "Amazing Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885527/ansvjc_altair_anniversary_S.Coups%20Jeonghan.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/ansvjc_altair_anniversary_S.Coups_Jeonghan.png",
     "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png",
     "category": "Event",
     "keyword": "SVT"
@@ -2454,11 +2370,9 @@
     "cardGroup": "Anniversary",
     "name": "Hoshi & Woozi & SoonHoon",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885425/ansvsh_altair_anniversary_Hoshi%20Woozi.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/ansvsh_altair_anniversary_Hoshi_Woozi.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2468,11 +2382,9 @@
     "cardGroup": "Anniversary",
     "name": "Seungkwan & DK & SeokSoo",
     "group": "Seventeen",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "rarity": "Amazing Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885187/ansvss_altair_anniversary_Seungkwan%20DK.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/ansvss_altair_anniversary_Seungkwan_DK.png",
     "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png",
     "category": "Event",
     "keyword": "SVT"
@@ -2483,11 +2395,9 @@
     "cardGroup": "Anniversary",
     "name": "Mingyu & Wonwoo & MinWon",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Amazing Rare",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725885017/ansvmw_altair_anniversary_Mingyu%20Wonwoo.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117994/ansvmw_altair_anniversary_Mingyu_Wonwoo.png",
     "foil": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725213270/card_foil_v3.png",
     "category": "Event",
     "keyword": "SVT"
@@ -2498,11 +2408,9 @@
     "cardGroup": "Anniversary",
     "name": "Jun & The8 & JunHao",
     "group": "Seventeen",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "rarity": "Rare Holo Cosmos",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725884947/ansvjh_altair_anniversary_Jun%20The8.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/ansvjh_altair_anniversary_Jun_The8.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2512,11 +2420,9 @@
     "cardGroup": "Fools",
     "name": "Pi Cheolin & Dino",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Trainer Gallery Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725887787/foolpic_altair_fools_Pi%20Cheolin_dino.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/foolpic_altair_fools_Pi_Cheolin_dino.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2526,11 +2432,9 @@
     "cardGroup": "Kitties",
     "name": "Jay & Jun",
     "group": "Seventeen",
-    "types": [
-      "Metal"
-    ],
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725887398/kittyjayjun_altair_kitties_Jay%20Jun.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/kittyjayjun_altair_kitties_Jay_Jun.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2540,11 +2444,9 @@
     "cardGroup": "Xmas",
     "name": "Joshua & DK & SeokSoo",
     "group": "Seventeen",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725887721/xmasseoksoo_altair_xmas_Joshua%20DK.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/xmasseoksoo_altair_xmas_Joshua_DK.png",
     "category": "Event",
     "keyword": "SVT"
   },
@@ -2554,11 +2456,9 @@
     "cardGroup": "Wild Animal",
     "name": "The8",
     "group": "Seventeen",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "rarity": "Rare Holo VSTAR",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883672/woofhao_altair_Wild%20Animal_the8.png",
+    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1731117993/woofhao_altair_Wild_Animal_the8.png",
     "category": "Event",
     "keyword": "SVT"
   },

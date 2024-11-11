@@ -5,15 +5,22 @@ const cards =
 ;
 
   // Define the order for each property
-  //const groupOrder = ["EXO", "EXO-CBX", "EXO-SC", "SuperM", "Soloist"];
-  //const groupOrder = ["NCT127", "NCT Dream", "WayV", "KUN&XIAOJUN", "NCT WISH", "Soloist"];
-  const groupOrder= ["Red Velvet", "Irene & Seulgi", "GOT the beat", "Soloist"];
+  const groupOrder = 
+  //["EXO", "EXO-CBX", "EXO-SC", "SuperM", "Soloist"];
+  //["NCT127", "NCT Dream", "WayV", "KUN&XIAOJUN", "NCT WISH", "Soloist"];
+  //["Red Velvet", "Irene & Seulgi", "GOT the beat", "Soloist"];
+  ["BTOB", "Soloist"];
+
   const rarityOrder = ["Ordinary", "Unordinary", "Rare", "Special", "Extraordinary", "Priceless", "Altair"];
-  //const nameOrder = ["Baekhyun", "Chen", "Chanyeol", "D.O.", "Kai", "Lay", "Luhan", "Sehun", "Suho", "Tao", "Xiumin"];
-  //const nameOrder = ["Chenle", "Doyoung", "Haechan", "Hendery", "Jaehee", "Jaehyun", "Jaemin", "Jeno", "Jisung", "Johnny", "Jungwoo", "Kun", "Mark", "Renjun", "Riku", "Ryo", "Sakuya", "Sion", "Taeyong", "Ten", "Winwin", "Xiaojun", "Yangyang", "Yushi", "Yuta"];
-  //const nameOrder = ["Anton", "Eunseok", "Sungchan", "Sohee", "Seunghan", "Shotaro", "Wonbin"];
-  //const nameOrder = ["Giselle", "Karina", "Ningning", "Winter"];
-  const nameOrder = ["Irene", "Joy", "Seulgi", "Wendy", "Yeri"];
+
+  const nameOrder = 
+  //["Baekhyun", "Chen", "Chanyeol", "D.O.", "Kai", "Lay", "Luhan", "Sehun", "Suho", "Tao", "Xiumin"];
+  //["Chenle", "Doyoung", "Haechan", "Hendery", "Jaehee", "Jaehyun", "Jaemin", "Jeno", "Jisung", "Johnny", "Jungwoo", "Kun", "Mark", "Renjun", "Riku", "Ryo", "Sakuya", "Sion", "Taeyong", "Ten", "Winwin", "Xiaojun", "Yangyang", "Yushi", "Yuta"];
+  //["Anton", "Eunseok", "Sungchan", "Sohee", "Seunghan", "Shotaro", "Wonbin"];
+  //["Giselle", "Karina", "Ningning", "Winter"];
+  //["Irene", "Joy", "Seulgi", "Wendy", "Yeri"];
+  //["Daehyun", "Jongup", "Yongguk", "Youngjae", "Zelo"]; //B.A.P
+  ["Changsub", "Eunkwang", "Hyunsik", "Ilhoon", "Minhyuk", "HUTA", "Peniel", "Sungjae"] //BTOB
 
   // Sorting
   cards.sort((a, b) => {
