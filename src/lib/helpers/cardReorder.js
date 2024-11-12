@@ -9,7 +9,7 @@ const cards =
   //["EXO", "EXO-CBX", "EXO-SC", "SuperM", "Soloist"];
   //["NCT127", "NCT Dream", "WayV", "KUN&XIAOJUN", "NCT WISH", "Soloist"];
   //["Red Velvet", "Irene & Seulgi", "GOT the beat", "Soloist"];
-  ["BTOB", "Soloist"];
+  ["VIXX", "Soloist"];
 
   const rarityOrder = ["Ordinary", "Unordinary", "Rare", "Special", "Extraordinary", "Priceless", "Altair"];
 
@@ -19,8 +19,10 @@ const cards =
   //["Anton", "Eunseok", "Sungchan", "Sohee", "Seunghan", "Shotaro", "Wonbin"];
   //["Giselle", "Karina", "Ningning", "Winter"];
   //["Irene", "Joy", "Seulgi", "Wendy", "Yeri"];
-  //["Daehyun", "Jongup", "Yongguk", "Youngjae", "Zelo"]; //B.A.P
-  ["Changsub", "Eunkwang", "Hyunsik", "Ilhoon", "Minhyuk", "HUTA", "Peniel", "Sungjae"] //BTOB
+  //["Daehyun", "Jongup", "Yongguk", "Youngjae", "Zelo"]; // B.A.P
+  //["Changsub", "Eunkwang", "Hyunsik", "Ilhoon", "Minhyuk", "HUTA", "Peniel", "Sungjae"]; // BTOB
+  //["Dongwoo", "Hoya", "L", "Sungjong", "Sungkyu", "Sungyeol", "Woohyun"]; // INFINITE
+  ["Hongbin", "Hyuk", "Ken", "Leo", "N", "Ravi"]; // VIXX
 
   // Sorting
   cards.sort((a, b) => {
