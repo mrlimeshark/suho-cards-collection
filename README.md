@@ -2,7 +2,7 @@
 
 This is a repository holder for the comprehensive SUHO card collection from the Discord bot SUHO.
 
-Latest update: 30/10/2024
+Latest update: 14/11/2024
 All EXO cards are up-to-date.
 
 <img src="public/suho-collection-demo.gif" />
