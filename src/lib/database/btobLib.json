@@ -57,7 +57,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/obtmh_ordinary_BTOB_Minhyuk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "HUTA"
   },
   {
     "id": "obtpn",
@@ -153,7 +153,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubtmh_unordinary_BTOB_Minhyuk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "HUTA"
   },
   {
     "id": "ubtpn",
@@ -249,7 +249,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtmh_rare_BTOB_Minhyuk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "HUTA"
   },
   {
     "id": "rbtpn",
@@ -345,7 +345,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sbtmh_special_BTOB_Minhyuk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "HUTA"
   },
   {
     "id": "sbtpn",
@@ -441,7 +441,7 @@
     "rarity": "Radiant Rare",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ebtmh_extraordinary_BTOB_Minhyuk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "HUTA"
   },
   {
     "id": "ebtpn",
@@ -561,7 +561,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/sagmin_priceless_Sagittarius_Minhyuk.png",
     "category": "Event",
-    "keyword": "Zodiac"
+    "keyword": "Zodiac HUTA"
   },
   {
     "id": "xomin",
@@ -573,7 +573,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/xomin_priceless_BXOXO_Minhyuk.png",
     "category": "Event",
-    "keyword": "XOXO Booster"
+    "keyword": "XOXO Booster HUTA"
   },
   {
     "id": "apfmhk",
@@ -585,7 +585,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/apfmhk_priceless_Apf_Minhyuk.png",
     "category": "Event",
-    "keyword": "April Fools "
+    "keyword": "April Fools HUTA"
   },
   {
     "id": "aqupen",

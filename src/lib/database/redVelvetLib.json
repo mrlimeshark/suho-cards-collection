@@ -845,7 +845,7 @@
     "cardGroup": "Phalloween",
     "name": "Seulgi",
     "group": "Red Velvet",
-    "types": "",
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731091777/hallgi_priceless_phalloween_seulgi.png",
     "category": "Event",

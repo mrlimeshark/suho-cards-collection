@@ -158,5 +158,56 @@
     "types": ["Fairy"],
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032201/e2svsc_extraordinary_seventeen_s.coups_yx69js.png"
+  },
+  {
+    "id": "orvir",
+    "cardRarity": "Ordinary",
+    "cardGroup": "Red Velvet",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "types": "",
+    "rarity": "Common",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1730683160/orvir_ordinary_red_velvet_irene.png"
+  },
+  {
+    "id": "ubayg",
+    "cardRarity": "Unordinary",
+    "cardGroup": "B.A.P",
+    "name": "Yongguk",
+    "group": "B.A.P",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubayg_unordinary_B.A.P_Yongguk.png"
+  },
+  {
+    "id": "rbtek",
+    "cardRarity": "Rare",
+    "cardGroup": "BTOB",
+    "name": "Eunkwang",
+    "group": "BTOB",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/rbtek_rare_BTOB_Eunkwang.png"
+  },
+  {
+    "id": "rifsk",
+    "cardRarity": "Rare",
+    "cardGroup": "INFINITE",
+    "name": "Sungkyu",
+    "group": "INFINITE",
+    "types": "",
+    "rarity": "Rare Holo",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731295585/rifsk_rare_INFINITE_Sungkyu.png"
+  },
+  {
+    "id": "uvxnn",
+    "cardRarity": "Unordinary",
+    "cardGroup": "VIXX",
+    "name": "N",
+    "group": "VIXX",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731387237/uvxnn_unordinary_VIXX_N.png"
   }
+  
 ]

@@ -11,6 +11,11 @@
   import SupMLib from "./lib/database/superMLibrary.json";
   import RIILib from "./lib/database/riizeLibrary.json";
   import aeLib from "./lib/database/aespaLibrary.json";
+  import RVLib from "./lib/database/redVelvetLib.json";
+  import BAPLib from "./lib/database/bapLib.json";
+  import BTOBLib from "./lib/database/btobLib.json";
+  import INFLib from "./lib/database/infLibrary.json";
+  import VIXXLib from "./lib/database/vixxLib.json";
 
 	export let query = "";
   let placeholderText = "";
@@ -28,7 +33,8 @@
 
 
   // Combine the multiple libraries
-  const fullLibrary = [...EXOLib, ...SupMLib, ...SVTLib, ...NCTLib, ...RIILib, ...aeLib];
+  const fullLibrary = [...EXOLib, ...SupMLib, ...SVTLib, ...NCTLib, ...RIILib, ...aeLib, 
+  ...RVLib, ...BAPLib, ...BTOBLib, ...INFLib, ...VIXXLib];
 
   // For testing
   //const testLibrary = [...EXOLib, ...NCTLib];
@@ -106,7 +112,7 @@
 		},666);
 	}
 
-  $: usableQuery = query.length > 1;
+  $: usableQuery = query.length > 0;
 	$: query && loadQuery();
 
 

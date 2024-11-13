@@ -2053,6 +2053,18 @@
     "keyword": "Thank You"
   },
   {
+    "id": "halaek",
+    "cardRarity": "Priceless",
+    "cardGroup": "Phalloween",
+    "name": "Baekhyun",
+    "group": "EXO",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731394866/halaek_priceless_phalloween_baekhyun.png",
+    "category": "Event",
+    "keyword": "Halloween Patreon"
+  },
+  {
     "id": "sapchn",
     "cardRarity": "Priceless",
     "cardGroup": "Sapphire",

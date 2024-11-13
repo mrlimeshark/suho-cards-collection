@@ -9,7 +9,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obadh_ordinary_B.A.P_Daehyun.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "obaju",
@@ -21,7 +21,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obaju_ordinary_B.A.P_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "obayg",
@@ -33,7 +33,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obayg_ordinary_B.A.P_Yongguk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "obayj",
@@ -45,7 +45,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obayj_ordinary_B.A.P_Youngjae.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "obazl",
@@ -57,7 +57,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095274/obazl_ordinary_B.A.P_Zelo.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "oslmj",
@@ -69,7 +69,7 @@
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/oslmj_ordinary_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "ubadh",
@@ -81,7 +81,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubadh_unordinary_B.A.P_Daehyun.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "ubaju",
@@ -93,7 +93,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubaju_unordinary_B.A.P_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "ubayg",
@@ -105,7 +105,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubayg_unordinary_B.A.P_Yongguk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "ubayj",
@@ -117,7 +117,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubayj_unordinary_B.A.P_Youngjae.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "ubazl",
@@ -129,7 +129,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubazl_unordinary_B.A.P_Zelo.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "uslmj",
@@ -141,7 +141,7 @@
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/uslmj_unordinary_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "rbadh",
@@ -153,7 +153,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbadh_rare_B.A.P_Daehyun.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "rbaju",
@@ -165,7 +165,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbaju_rare_B.A.P_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "rbayg",
@@ -177,7 +177,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbayg_rare_B.A.P_Yongguk.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "rbayj",
@@ -189,7 +189,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbayj_rare_B.A.P_Youngjae.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "rbazl",
@@ -201,7 +201,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbazl_rare_B.A.P_Zelo.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "rslmj",
@@ -213,7 +213,7 @@
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rslmj_rare_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "sslmj",
@@ -225,7 +225,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/sslmj_special_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "eslmj",
@@ -237,7 +237,7 @@
     "rarity": "Radiant Rare",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/eslmj_extraordinary_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": ""
+    "keyword": "bap"
   },
   {
     "id": "candae",
@@ -249,7 +249,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095274/candae_priceless_Cancer_Daehyun.png",
     "category": "Event",
-    "keyword": "Zodiac"
+    "keyword": "Zodiac bap"
   },
   {
     "id": "aledae",
@@ -261,7 +261,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095274/aledae_priceless_alexandrite_daehyun.png",
     "category": "Gemstone",
-    "keyword": "Event"
+    "keyword": "Event bap"
   },
   {
     "id": "amejon",
@@ -273,7 +273,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/amejon_priceless_amethyst_jongup.png",
     "category": "Gemstone",
-    "keyword": "Event"
+    "keyword": "Event bap"
   },
   {
     "id": "zuhygk",
@@ -285,7 +285,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/zuhygk_priceless_Cardcaptor_Yongguk.png",
     "category": "Event",
-    "keyword": "Card Captor "
+    "keyword": "Card Captor bap"
   },
   {
     "id": "aquyon",
@@ -297,7 +297,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/aquyon_priceless_Aquamarine_Yongguk.png",
     "category": "Gemstone",
-    "keyword": "Event"
+    "keyword": "Event bap"
   },
   {
     "id": "sapjae",
@@ -309,7 +309,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/sapjae_priceless_Sapphire_Youngjae.png",
     "category": "Gemstone",
-    "keyword": "Event"
+    "keyword": "Event bap"
   },
   {
     "id": "cdyyja",
@@ -321,7 +321,7 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/cdyyja_priceless_Pcandy_Youngjae.png",
     "category": "Event",
-    "keyword": "Candy Patreon"
+    "keyword": "Candy Patreon bap"
   },
   {
     "id": "libzel",
@@ -333,6 +333,6 @@
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/libzel_priceless_Libra_Zelo.png",
     "category": "Event",
-    "keyword": "Zodiac"
+    "keyword": "Zodiac bap"
   }
 ]

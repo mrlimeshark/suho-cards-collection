@@ -34,20 +34,20 @@
 	<header>
 
 
-		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>30/10/2024</sup>
+		<h1 id="⚓-top">SUHO Cards Collection UPDATE LOG <sup>14/11/2024</sup>
 		</h1>
 
 		<section class="intro" id="⚓-intro">
 
 
-			<h2>Latest major update: <strong>30/10/2024</strong></h2> <br/>
+			<h2>Latest major update: <strong>14/11/2024</strong></h2> <br/>
 			<p>
-				<mark>Rise and shine, everyone. RIIZE and aespa are here!</mark> 🎉 <br/>
-				They have only a handful of cards compared to EXO and NCT,
-				so we have added two groups at once.
-				The usual QOL features are all included. <br/>
+				<mark>Five groups at once!</mark> 🎉 <br/>
+				<strong>Red Velvet, B.A.P, BTOB, INFINITE, and VIXX</strong> cards have been added to the database.
+				All the Halloween cards for the groups in our database have been added as well.
+				Lastly, it is now possible to use '<strong>booster</strong>' and '<strong>patreon</strong>' keywords to search for such cards. <br/>
 
-				<br/>  Happy dropping and trading.<br/>
+				<br/> Happy belated Halloween.<br/>
 			</p>
 		</section>
 
@@ -68,8 +68,26 @@
 	</header>
 
 
+		<h2 id="⚓-log5">
+				Five-group update <sup>14/11/2024</sup>
+		</h2>
+		<p>
+			<br/>
+			<mark>Five groups at once!</mark> 🎉 <br/>
+			Updating five groups at once with the usual QOL features.<br/>
 
-		<h2 id="⚓-log2">
+			<br/><mark>QOL updates:</mark><br/>
+
+			- All Booster/Patreon cards are now searchable using the keywords <strong>'booster'</strong> and <strong>'patreon'</strong>.<br/><br/>
+
+			- Either <strong>'huta'</strong> or <strong>'minhyuk'</strong> is fine for searching for BTOB Minhyuk cards. They are the same person.<br/><br/>
+
+			- Fixed <strong>e2exlh</strong> card displaying a wrong image.<br/><br/>
+		</p>
+
+
+
+		<h2 id="⚓-log4">
 				RIIZE & aespa update <sup>30/10/2024</sup>
 		</h2>
 		<p>

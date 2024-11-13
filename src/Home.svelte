@@ -29,7 +29,7 @@
 				window.cards = cards;
 				showcase = cards[0];
 				showcaseEffect = cards.slice(1, 10);
-				available = cards.slice(10, 16);
+				available = cards.slice(10, 25);
 				isLoading = false;
 			});
 	};
@@ -94,7 +94,7 @@
 			<p><nav> <a href="/#/update" style="color: springgreen">Check the update log</a> </nav>
 
 			<p class="small">
-				Latest card database update: <strong>30/10/2024</strong>  <br />
+				Latest card database update: <strong>14/11/2024</strong>  <br />
 				All EXO cards are up-to-date.
 					<br>
 					<a href="https://github.com/mrlimeshark/suho-cards-collection">Source code is in the repository</a>.
@@ -105,7 +105,7 @@
 	<Search bind:query />
 
 
-	{#if query.length < 2}
+	{#if query.length < 1}
 
 		{#if isLatestShowcase}
 			<h2 id="⚓-latest">
@@ -116,11 +116,10 @@
 			<p>
 				
 				 <br/>
-				 <strong>Rise and shine, everyone.</strong>	 <mark>RIIZE</mark> and <mark>aespa</mark> just joined our interactive card collection!<br />
-				 All regular cards and event cards are now searchable. Our database is slowly but surely growing.<br/>
-				 <br/>PS, RIIZE is 7.
+				 <strong>Prepare for the grand entrance!</strong>	 <mark>Red Velvet</mark>, <mark>B.A.P</mark>, <mark>BTOB</mark>, <mark>INFINITE</mark>, and <mark>VIXX</mark> have joined our interactive card collection!<br />
+				 All regular cards and event cards are now searchable. Halloween cards included.<br/>
+				 <br/>Happy belated Halloween.
 			</p>
-			<h3></h3>
 
 			<CardList>
 				{#if isLoading}
@@ -144,11 +143,11 @@
 
 		<h2 id="⚓-available_card">
 			<a href="#⚓-available_card">
-				Which cards are registered? <sup>(30/10/2024)</sup>
+				Which cards are registered? <sup>(14/11/2024)</sup>
 			</a>
 		</h2>
 		<p>
-			<mark>EXO</mark>, <mark>SuperM</mark>, <mark>NCT</mark>, <mark>RIIZE</mark>, <mark>aespa</mark>, and <mark>Seventeen</mark> cards are in our database. <br/>
+			<mark>EXO</mark>, <mark>SuperM</mark>, <mark>NCT</mark>, <mark>RIIZE</mark>, <mark>aespa</mark>, <mark>Seventeen</mark>, <mark>Red Velvet</mark>, <mark>B.A.P</mark>, <mark>BTOB</mark>, <mark>INFINITE</mark>, and <mark>VIXX</mark> cards are in our database. <br/>
 			Sub-group cards (<mark>EXO-CBX</mark>, <mark>WayV</mark>, <mark>NCT WISH</mark>, etc.) are all included as well.
 		</p>
 		<h3>Stay tuned for more updates!</h3>

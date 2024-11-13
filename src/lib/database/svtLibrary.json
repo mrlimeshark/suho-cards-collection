@@ -2136,6 +2136,18 @@
     "keyword": "Event SVT"
   },
   {
+    "id": "halgyu",
+    "cardRarity": "Priceless",
+    "cardGroup": "Halloween",
+    "name": "Mingyu",
+    "group": "Seventeen",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731394838/halgyu_priceless_halloween_mingyu.png",
+    "category": "Event",
+    "keyword": "SVT"
+  },
+  {
     "id": "btasco",
     "cardRarity": "Priceless",
     "cardGroup": "BTA",
