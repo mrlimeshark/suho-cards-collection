@@ -1,8 +1,8 @@
 # SUHO Cards Collection by mrlimeshark
 
-This is a repository holder for the comprehensive EXO cards collection from the Discord bot SUHO.
+This is a repository holder for the comprehensive SUHO card collection from the Discord bot SUHO.
 
-Latest update: 19/10/2024
+Latest update: 30/10/2024
 All EXO cards are up-to-date.
 
 <img src="public/suho-collection-demo.gif" />
