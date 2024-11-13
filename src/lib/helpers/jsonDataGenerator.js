@@ -1,8 +1,10 @@
 import { writeFileSync } from 'fs';
 
 // 1. Declare a list of several img URLs.
-const imageUrls = [
-];
+const imageUrls =
+[
+]
+;
 
 
 // Function to generate JSON objects
@@ -14,39 +16,77 @@ function generateCards(imageUrls) {
     const fileName = url.split('/').pop().replace('.png', '');
 
     // 3. Split the extracted String into its components.
-    let [id, cardRarityKey, cardGroupRaw, name, extra] = fileName.split('_');
-    cardGroupRaw = cardGroupRaw.replace("%20", " ");
-    name = name.replace("%20", " ");
+    let words = fileName.split('_');
+    let artist = words[3];
+    // words = [aaaaa, priceless, red velvet, seulgi, etc.]
+
+    // Rectify group names.
+    // words[2] is cardGroup.
+    switch (words[2].toLowerCase()) {
+      case "got":
+        words[2] = "GOT the beat";
+        artist = words[5];
+        break;
+      case "red":
+        words[2] = "Red Velvet";
+        artist = words[4];
+        break;
+      case "irene":
+        words[2] = "Irene & Seulgi";
+        artist = words[4];
+        break;
+      case "friendship":
+        words[2] = "Friendship Event";
+        artist = "Irene & Seulgi";
+        break;
+      case "stardust":
+        words[2] = "Stardust Event";
+        artist = words[4];
+        break;
+      case "royal":
+        words[2] = "Royal Event";
+        artist = words[4];
+        break;
+    }
+    words[2] = words[2].replace("%20", " ");
+
+    switch (words[3].toLowerCase()) {
+      case "moon":
+        artist = "Moon Jongup"
+        break;
+    }
+
+    artist = artist.replace("%20", " ");
 
     // Exceptions
-    if (name === undefined || id == "" || cardRarityKey == "" || cardGroupRaw == "" || name == "") {
+    if (artist === undefined || words[0] == "" || words[1] == "" || words[2] == "") {
       console.log('[',count,'] ',url);
       throw new Error("INCORRECTLY FORMATTED URL");
     }
-    else if (extra != undefined) {
+    else if (words[4] != undefined) {
       console.log('[',count,'] ', 'POTENTIALLY INCORRECT DATA');
-      console.log(id, ' ', cardRarityKey, ' ', cardGroupRaw, ' ', name);
+      console.log(words[0], ' ', words[1], ' ', words[2], ' ', artist);
       console.log('');
     }
 
 
     // 4. Construct the JSON object.
     const card = {
-      id: id,
-      cardRarity: cardRarityKey.charAt(0).toUpperCase() + cardRarityKey.slice(1),
-      cardGroup: cardRarityKey === "priceless" || cardRarityKey === "altair" ? cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1) : "aespa",
-      //cardGroup: cardGroupRaw.toLowerCase() === 'nct dream' ? 'NCT Dream' : cardGroupRaw.charAt(0).toUpperCase() + cardGroupRaw.slice(1),
-      name: name === 'do' ? 'D.O.' : name.charAt(0).toUpperCase() + name.slice(1), // Capitalize name
-      group: "aespa", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
-      types: "", 
-      rarity: "", 
+      id: words[0],
+      cardRarity: words[1].charAt(0).toUpperCase() + words[1].slice(1), // Capitalise cardRarity
+      //cardGroup: words[1] === "priceless" || words[1] === "altair" ? words[2].charAt(0).toUpperCase() + words[2].slice(1).toUpperCase() : "Red Velvet",
+      cardGroup: words[2].charAt(0).toUpperCase() + words[2].slice(1),
+      name: artist === 'do' ? 'D.O.' : artist.charAt(0).toUpperCase() + artist.slice(1), // Capitalise name
+      group: "VIXX", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      types: "", // Pokémon type
+      rarity: "", // Pokémon TCG rarity
       card_img: url,
       category: "Regular",
       keyword: ""
     };
 
     // Determine type and rarity based on card rarity
-    switch (cardRarityKey.toLowerCase()) {
+    switch (words[1].toLowerCase()) {
       case "ordinary":
         card.rarity = "Common";
         break;
@@ -69,17 +109,20 @@ function generateCards(imageUrls) {
         card.rarity = "Trainer Gallery Rare Holo";
         break;
       default:
-        console.log('[',count,'] ', id, ' =>', cardRarityKey, '<=');
+        console.log('[',count,'] ', words[0], ' =>', words[1], '<=');
         throw new Error("INVALID RARITY VALUE");
     }
 
     const validGroup = ["alexandrite", "amethyst", "aquamarine", "diamond", "emerald", "ruby", "sapphire", "sardonyx",
 "cancer", "leo", "libra", "sagittarius", "scorpio", "virgo",
-"apocalypse", "candy", "evil", "fairies", "farewell", "sanrio", "summer", "xoxo", "anniversary",
-"riize", "aespa"];
+"anniversary", "apocalypse", "bta", "candy", "evil", "fairies", "farewell", "halloween", "royal event", "sanrio", "summer", "xoxo",
+ "aespa", "btob", "infinite", "red velvet", "riize", "got the beat", "soloist"];
 
     // Initial category & keyword pass
-    if (card.cardGroup === "Alexandrite" || card.cardGroup === "Amethyst" || card.cardGroup === "Aquamarine" ||
+    if (card.cardGroup === "") {
+      card.cardGroup = "VIXX"; // DON'T FORGET TO CHANGE THIS FOR DIFF GROUPS ===================================
+    }
+    else if (card.cardGroup === "Alexandrite" || card.cardGroup === "Amethyst" || card.cardGroup === "Aquamarine" ||
     card.cardGroup === "Diamond" || card.cardGroup === "Emerald" || card.cardGroup === "Ruby" || card.cardGroup === "Sapphire"
     || card.cardGroup === "Sardonyx") {
       card.category = "Gemstone";
@@ -95,53 +138,101 @@ function generateCards(imageUrls) {
       card.keyword = "";
     }
 
-    // Second pass
+
+
     function addWhiteSpace (card) {
         if (card.keyword != "") {
             card.keyword += " ";
         }
-
     }
+
+    function checkPB (card) {
+      const c = card.cardGroup.charAt(0).toLowerCase();
+      if ( c === "p") {
+        addWhiteSpace(card);
+        card.keyword += "Patreon";
+      } else if ( c === "b") {
+        addWhiteSpace(card);
+        card.keyword += "Booster";
+      }
+    }
+
+    // Second pass
+    switch (card.cardGroup.toLowerCase()) {
+      case "bta":
+        card.cardGroup = card.cardGroup.toUpperCase();
+        break;
+      case "xoxo":
+        card.cardGroup = card.cardGroup.toUpperCase();
+        break;
+      case "infinite":
+        card.cardGroup = card.cardGroup.toUpperCase();
+        break;
+    }
+
+    switch (card.name.toLowerCase()) {
+      case "huta":
+        addWhiteSpace(card);
+        card.keyword += "Minhyuk";
+        break;
+    }
+
 
     if (card.cardGroup === "Papocalypse" || card.cardGroup === "Bapocalypse") {
         addWhiteSpace(card);
         card.keyword += "Apocalypse";
+        checkPB(card);
     }
     else if (card.cardGroup === "Pcandy" || card.cardGroup === "Bcandy") {
         addWhiteSpace(card);
         card.keyword += "Candy";
+        checkPB(card);
     }
     else if (card.cardGroup === "Cardcaptor" || card.cardGroup === "Pcardcaptor" || card.cardGroup === "Bcardcaptor") {
         addWhiteSpace(card);
         card.keyword += "Card Captor";
+        checkPB(card);
     }
     else if (card.cardGroup === "Duoween") {
         addWhiteSpace(card);
         card.keyword += "Halloween";
+        checkPB(card);
+    }
+    else if (card.cardGroup === "Phalloween" || card.cardGroup === "Bhalloween") {
+      addWhiteSpace(card);
+      card.keyword += "Halloween";
+      checkPB(card);
     }
     else if (card.cardGroup === "Pevil" || card.cardGroup === "Bevil") {
         addWhiteSpace(card);
         card.keyword += "Evil";
+        checkPB(card);
     }
-    else if (card.cardGroup === "Pfairies" || card.cardGroup === "Bfairies") {
+    else if (card.cardGroup === "Fairies" || card.cardGroup === "Pfairies" || card.cardGroup === "Bfairies") {
         addWhiteSpace(card);
-        card.keyword += "Fairy Fairies";
+        card.keyword += "Fairy";
+        if (card.cardGroup != "Fairies") { card.keyword += " Fairies"}
+        checkPB(card);
     }
     else if (card.cardGroup === "Apf" || card.cardGroup === "Papf" || card.cardGroup === "Bapf") {
         addWhiteSpace(card);
         card.keyword += "April Fools";
+        checkPB(card);
     }
     else if (card.cardGroup === "Pfriendship Event" || card.cardGroup === "Bfriendship Event") {
         addWhiteSpace(card);
         card.keyword += "Friendship";    
+        checkPB(card);
     }
     else if (card.cardGroup === "Psanrio" || card.cardGroup === "Bsanrio") {
         addWhiteSpace(card);
         card.keyword += "Sanrio";
+        checkPB(card);
     }
     else if (card.cardGroup === "Soulmate" || card.cardGroup === "Psoulmate" || card.cardGroup === "Bsoulmate") {
         addWhiteSpace(card);
         card.keyword += "Soul Mate";
+        checkPB(card);
     }
     else if (card.cardGroup === "Staffmate") {
         addWhiteSpace(card);
@@ -153,11 +244,13 @@ function generateCards(imageUrls) {
     }
     else if (card.cardGroup === "Psummer" || card.cardGroup === "Bsummer") {
         addWhiteSpace(card);
-        card.keyword += "Summer";    
+        card.keyword += "Summer";
+        checkPB(card);
     }
     else if (card.cardGroup === "Thanku" || card.cardGroup === "Pthanku" || card.cardGroup === "Bthanku") {
         addWhiteSpace(card);
-        card.keyword += "Thank You";    
+        card.keyword += "Thank You";
+        checkPB(card);    
     }
     else if (card.cardGroup === "Fanmade Xmas") {
         addWhiteSpace(card);
@@ -167,18 +260,17 @@ function generateCards(imageUrls) {
         addWhiteSpace(card);
         card.keyword += "Christmas Xmas"; 
     }
-    else if (card.cardGroup.toLowerCase === "pxoxo" || card.cardGroup.toLowerCase === "bxoxo") {
+    else if (card.cardGroup.toLowerCase() === "pxoxo" || card.cardGroup.toLowerCase() === "bxoxo") {
         addWhiteSpace(card);
-        card.keyword += "XOXO";    
+        card.keyword += "XOXO";
+        checkPB(card);
     }
     else {
-
         if (!validGroup.includes(card.cardGroup.toLowerCase())) {
             console.log('[',count,'] ', 'POTENTIALLY INCORRECT CARDGROUP');
-            console.log(id, ' ', cardRarityKey, ' =>', cardGroupRaw, '<= ', name);
+            console.log(words[0], ' ', words[1], ' =>', words[2], '<= ', words[3]);
             console.log('');
         }
-
     }
     
     // Why does this NCT lot have so many freakin members bloody hell

@@ -2251,7 +2251,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990201/apfdoy_priceless_apd_doyoung.png",
     "category": "Event",
-    "keyword": "NCT127 127 April Fools"
+    "keyword": "NCT127 127 April Fools Booster"
   },
   {
     "id": "amejoh",
@@ -2282,6 +2282,18 @@
     "keyword": "Event NCT127 127"
   },
   {
+    "id": "haljty",
+    "cardRarity": "Priceless",
+    "cardGroup": "Halloween",
+    "name": "Jungwoo & Taeyong",
+    "group": "NCT",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731394839/haljty_priceless_halloween_jungwoo_taeyong.png",
+    "category": "Event",
+    "keyword": "NCT127 127"
+  },
+  {
     "id": "alejae",
     "cardRarity": "Priceless",
     "cardGroup": "Alexandrite",
@@ -2307,7 +2319,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990196/sumren_priceless_summer_renjun.png",
     "category": "Event",
-    "keyword": "Dream Summer"
+    "keyword": "Dream Summer Patreon"
   },
   {
     "id": "xm127",
@@ -2321,7 +2333,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990191/xm127_priceless_xmas23_nct_127.png",
     "category": "Event",
-    "keyword": "127 Group Xmas Christmas"
+    "keyword": "127 Group Xmas Christmas Patreon"
   },
   {
     "id": "sroark",
@@ -2433,7 +2445,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990181/zuhjno_priceless_cardcaptor_jeno.png",
     "category": "Event",
-    "keyword": "Dream Cardcaptor Card Captor"
+    "keyword": "Dream Cardcaptor Card Captor Booster"
   },
   {
     "id": "sagche",
@@ -2503,7 +2515,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990169/evhaec_priceless_evil_haechan.gif",
     "category": "Event",
-    "keyword": "Dream NCT127 127 Evil"
+    "keyword": "Dream NCT127 127 Evil Patreon"
   },
   {
     "id": "faejsg",
@@ -2517,7 +2529,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990170/faejsg_priceless_fairies_jisung.png",
     "category": "Event",
-    "keyword": "Dream Fairy Fairies"
+    "keyword": "Dream Fairy Fairies Booster"
   },
   {
     "id": "diajen",
@@ -2601,7 +2613,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990160/apfjmn_priceless_apf_jaemin.png",
     "category": "Event",
-    "keyword": "Dream April Fools"
+    "keyword": "Dream April Fools Patreon"
   },
   {
     "id": "xowin",
@@ -2629,7 +2641,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990158/tyuten_priceless_thanku_ten.png",
     "category": "Event",
-    "keyword": "WayV Thank You"
+    "keyword": "WayV Thank You Booster"
   },
   {
     "id": "sumwin",
@@ -2643,7 +2655,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990153/sumwin_priceless_summer_winwin.png",
     "category": "Event",
-    "keyword": "WayV Summer"
+    "keyword": "WayV Summer Booster"
   },
   {
     "id": "sarjun",
@@ -2685,7 +2697,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990151/sroery_priceless_sanrio_hendery.png",
     "category": "Event",
-    "keyword": "WayV Sanrio"
+    "keyword": "WayV Sanrio Booster"
   },
   {
     "id": "scowin",
@@ -2809,7 +2821,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1728990131/apften_priceless_apf_ten.png",
     "category": "Event",
-    "keyword": "WayV April Fools"
+    "keyword": "WayV April Fools Patreon"
   },
   {
     "id": "ameten",

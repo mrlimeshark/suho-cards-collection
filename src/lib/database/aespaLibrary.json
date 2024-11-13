@@ -309,7 +309,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729971076/tyugis_priceless_thanku_giselle.png",
     "category": "Event",
-    "keyword": "Thank You"
+    "keyword": "Thank You Patreon"
   },
   {
     "id": "fmxmgs",
@@ -345,7 +345,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729971035/cdyina_priceless_candy_karina.png",
     "category": "Event",
-    "keyword": "Candy"
+    "keyword": "Candy Booster"
   },
   {
     "id": "diakar",
@@ -441,7 +441,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729971726/sronin_priceless_sanrio_ningning.png",
     "category": "Event",
-    "keyword": "Sanrio"
+    "keyword": "Sanrio Booster"
   },
   {
     "id": "zuhnin",
@@ -453,7 +453,19 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729971746/zuhnin_priceless_cardcaptor_ningning.png",
     "category": "Event",
-    "keyword": "Card Captor"
+    "keyword": "Card Captor Booster"
+  },
+  {
+    "id": "haling",
+    "cardRarity": "Priceless",
+    "cardGroup": "Bhalloween",
+    "name": "Ningning",
+    "group": "aespa",
+    "types": ["Psychic"],
+    "rarity": "Rare Shiny",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731394858/haling_priceless_bhalloween_ningning.png",
+    "category": "Event",
+    "keyword": "Halloween Booster"
   },
   {
     "id": "faeter",
@@ -465,7 +477,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729971665/faeter_priceless_fairies_winter.png",
     "category": "Event",
-    "keyword": "Fairy Fairies"
+    "keyword": "Fairy Fairies Patreon"
   },
   {
     "id": "fmxmwt",
@@ -501,7 +513,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729971726/xoter_priceless_xoxo_winter.png",
     "category": "Event",
-    "keyword": "XOXO"
+    "keyword": "XOXO Patreon"
   },
   {
     "id": "sumter",

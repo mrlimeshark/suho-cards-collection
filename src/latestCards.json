@@ -1,32 +1,32 @@
 [    
   {
-    "id": "sroseu",
-    "cardRarity": "Priceless",
-    "cardGroup": "Psanrio",
-    "name": "Seunghan",
-    "group": "RIIZE",
-    "types": ["Fairy"],
-    "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729946365/sroseu_priceless_psanrio_seunghan_jm8krc.png"
+    "id": "eissg",
+    "cardRarity": "Extraordinary",
+    "cardGroup": "Irene & Seulgi",
+    "name": "Seulgi",
+    "group": "Red Velvet",
+    "types": ["Dragon"],
+    "rarity": "Radiant Rare",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1730683164/eissg_extraordinary_irene_seulgi_seulgi.png"
   },
   {
-    "id": "raegs",
+    "id": "ubths",
+    "cardRarity": "Unordinary",
+    "cardGroup": "BTOB",
+    "name": "Hyunsik",
+    "group": "BTOB",
+    "types": "",
+    "rarity": "Rare Secret",
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubths_unordinary_BTOB_Hyunsik.png"
+  },
+  {
+    "id": "rslll",
     "cardRarity": "Rare",
-    "cardGroup": "aespa",
-    "name": "Giselle",
-    "group": "aespa",
-    "types": ["Metal"],
+    "cardGroup": "Soloist",
+    "name": "L",
+    "group": "INFINITE",
+    "types": "",
     "rarity": "Rare Holo",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729941289/raegs_rare_aespa_giselle.png"
-  },
-  {
-    "id": "sagsho",
-    "cardRarity": "Priceless",
-    "cardGroup": "Sagittarius",
-    "name": "Shotaro",
-    "group": "RIIZE",
-    "types": ["Lightning"],
-    "rarity": "Rare Shiny",
-    "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1729945985/sagsho_priceless_sagittarius_shotaro_ktef8s.png"
+    "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731295585/rslll_rare_Soloist_L.png"
   }
 ]
