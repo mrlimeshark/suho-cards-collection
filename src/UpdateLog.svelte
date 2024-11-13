@@ -82,6 +82,8 @@
 
 			- Either <strong>'huta'</strong> or <strong>'minhyuk'</strong> is fine for searching for BTOB Minhyuk cards. They are the same person.<br/><br/>
 
+			- Either <strong>'b.a.p'</strong> or <strong>'bap'</strong> is fine for searching for B.A.P cards.
+
 			- Fixed <strong>e2exlh</strong> card displaying a wrong image.<br/><br/>
 		</p>
 
