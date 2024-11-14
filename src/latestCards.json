@@ -15,7 +15,7 @@
     "cardGroup": "BTOB",
     "name": "Hyunsik",
     "group": "BTOB",
-    "types": "",
+    "types": ["Grass"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731097109/ubths_unordinary_BTOB_Hyunsik.png"
   },
@@ -25,7 +25,7 @@
     "cardGroup": "Soloist",
     "name": "L",
     "group": "INFINITE",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731295585/rslll_rare_Soloist_L.png"
   }
