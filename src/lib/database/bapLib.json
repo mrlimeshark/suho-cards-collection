@@ -5,11 +5,11 @@
     "cardGroup": "B.A.P",
     "name": "Daehyun",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obadh_ordinary_B.A.P_Daehyun.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "obaju",
@@ -17,11 +17,11 @@
     "cardGroup": "B.A.P",
     "name": "Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fire"],
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obaju_ordinary_B.A.P_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "obayg",
@@ -29,11 +29,11 @@
     "cardGroup": "B.A.P",
     "name": "Yongguk",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obayg_ordinary_B.A.P_Yongguk.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "obayj",
@@ -41,11 +41,11 @@
     "cardGroup": "B.A.P",
     "name": "Youngjae",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/obayj_ordinary_B.A.P_Youngjae.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "obazl",
@@ -53,11 +53,11 @@
     "cardGroup": "B.A.P",
     "name": "Zelo",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095274/obazl_ordinary_B.A.P_Zelo.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "oslmj",
@@ -65,11 +65,11 @@
     "cardGroup": "Soloist",
     "name": "Moon Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Common",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/oslmj_ordinary_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "ubadh",
@@ -77,11 +77,11 @@
     "cardGroup": "B.A.P",
     "name": "Daehyun",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Psychic"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubadh_unordinary_B.A.P_Daehyun.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "ubaju",
@@ -89,11 +89,11 @@
     "cardGroup": "B.A.P",
     "name": "Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Water"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubaju_unordinary_B.A.P_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "ubayg",
@@ -101,11 +101,11 @@
     "cardGroup": "B.A.P",
     "name": "Yongguk",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fire"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubayg_unordinary_B.A.P_Yongguk.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "ubayj",
@@ -113,11 +113,11 @@
     "cardGroup": "B.A.P",
     "name": "Youngjae",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fire"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubayj_unordinary_B.A.P_Youngjae.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "ubazl",
@@ -125,11 +125,11 @@
     "cardGroup": "B.A.P",
     "name": "Zelo",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fire"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/ubazl_unordinary_B.A.P_Zelo.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "uslmj",
@@ -137,11 +137,11 @@
     "cardGroup": "Soloist",
     "name": "Moon Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Rare Secret",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/uslmj_unordinary_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "rbadh",
@@ -149,11 +149,11 @@
     "cardGroup": "B.A.P",
     "name": "Daehyun",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Grass"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbadh_rare_B.A.P_Daehyun.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "rbaju",
@@ -161,11 +161,11 @@
     "cardGroup": "B.A.P",
     "name": "Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Grass"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbaju_rare_B.A.P_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "rbayg",
@@ -173,11 +173,11 @@
     "cardGroup": "B.A.P",
     "name": "Yongguk",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Grass"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbayg_rare_B.A.P_Yongguk.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "rbayj",
@@ -185,11 +185,11 @@
     "cardGroup": "B.A.P",
     "name": "Youngjae",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Grass"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbayj_rare_B.A.P_Youngjae.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "rbazl",
@@ -197,11 +197,11 @@
     "cardGroup": "B.A.P",
     "name": "Zelo",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rbazl_rare_B.A.P_Zelo.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "rslmj",
@@ -209,11 +209,11 @@
     "cardGroup": "Soloist",
     "name": "Moon Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fighting"],
     "rarity": "Rare Holo",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/rslmj_rare_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "sslmj",
@@ -221,11 +221,11 @@
     "cardGroup": "Soloist",
     "name": "Moon Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Lightning"],
     "rarity": "Rare Holo Cosmos",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/sslmj_special_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "eslmj",
@@ -233,11 +233,11 @@
     "cardGroup": "Soloist",
     "name": "Moon Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Radiant Rare",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/eslmj_extraordinary_Soloist_Moon_Jongup.png",
     "category": "Regular",
-    "keyword": "bap"
+    "keyword": ""
   },
   {
     "id": "candae",
@@ -245,11 +245,11 @@
     "cardGroup": "Cancer",
     "name": "Daehyun",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Metal"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095274/candae_priceless_Cancer_Daehyun.png",
     "category": "Event",
-    "keyword": "Zodiac bap"
+    "keyword": "Zodiac "
   },
   {
     "id": "aledae",
@@ -257,11 +257,11 @@
     "cardGroup": "Alexandrite",
     "name": "Daehyun",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095274/aledae_priceless_alexandrite_daehyun.png",
     "category": "Gemstone",
-    "keyword": "Event bap"
+    "keyword": "Event "
   },
   {
     "id": "amejon",
@@ -269,11 +269,11 @@
     "cardGroup": "Amethyst",
     "name": "Jongup",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Psychic"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/amejon_priceless_amethyst_jongup.png",
     "category": "Gemstone",
-    "keyword": "Event bap"
+    "keyword": "Event "
   },
   {
     "id": "zuhygk",
@@ -281,11 +281,11 @@
     "cardGroup": "Cardcaptor",
     "name": "Yongguk",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/zuhygk_priceless_Cardcaptor_Yongguk.png",
     "category": "Event",
-    "keyword": "Card Captor bap"
+    "keyword": "Card Captor "
   },
   {
     "id": "aquyon",
@@ -293,11 +293,11 @@
     "cardGroup": "Aquamarine",
     "name": "Yongguk",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Grass"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/aquyon_priceless_Aquamarine_Yongguk.png",
     "category": "Gemstone",
-    "keyword": "Event bap"
+    "keyword": "Event "
   },
   {
     "id": "sapjae",
@@ -305,11 +305,11 @@
     "cardGroup": "Sapphire",
     "name": "Youngjae",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Water"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/sapjae_priceless_Sapphire_Youngjae.png",
     "category": "Gemstone",
-    "keyword": "Event bap"
+    "keyword": "Event "
   },
   {
     "id": "cdyyja",
@@ -317,11 +317,11 @@
     "cardGroup": "Pcandy",
     "name": "Youngjae",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/cdyyja_priceless_Pcandy_Youngjae.png",
     "category": "Event",
-    "keyword": "Candy Patreon bap"
+    "keyword": "Candy Patreon "
   },
   {
     "id": "libzel",
@@ -329,10 +329,10 @@
     "cardGroup": "Libra",
     "name": "Zelo",
     "group": "B.A.P",
-    "types": "",
+    "types": ["Fairy"],
     "rarity": "Rare Shiny",
     "card_img": "http://res.cloudinary.com/djg9bhuwi/image/upload/v1731095275/libzel_priceless_Libra_Zelo.png",
     "category": "Event",
-    "keyword": "Zodiac bap"
+    "keyword": "Zodiac "
   }
 ]

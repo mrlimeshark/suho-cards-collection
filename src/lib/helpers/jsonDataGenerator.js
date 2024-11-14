@@ -77,7 +77,7 @@ function generateCards(imageUrls) {
       //cardGroup: words[1] === "priceless" || words[1] === "altair" ? words[2].charAt(0).toUpperCase() + words[2].slice(1).toUpperCase() : "Red Velvet",
       cardGroup: words[2].charAt(0).toUpperCase() + words[2].slice(1),
       name: artist === 'do' ? 'D.O.' : artist.charAt(0).toUpperCase() + artist.slice(1), // Capitalise name
-      group: "VIXX", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
+      group: "EXO", // DON'T FORGET TO CHANGE THIS FOR DIFFERENT GROUPS
       types: "", // Pokémon type
       rarity: "", // Pokémon TCG rarity
       card_img: url,
@@ -273,6 +273,13 @@ function generateCards(imageUrls) {
         }
     }
     
+    switch (card.cardGroup.toLowerCase()) {
+      case "exo-cbx":
+        addWhiteSpace(card)
+        card.keyword += "CBX";
+        break;
+    }
+
     // Why does this NCT lot have so many freakin members bloody hell
     /*
     switch (name.toLowerCase()) {

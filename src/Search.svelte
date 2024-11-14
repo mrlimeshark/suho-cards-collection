@@ -52,11 +52,12 @@
 
   const search = (data, query) => {
           //Normalise the query by converting to lowercase and splitting into tokens
-          const queryTokens = query.toLowerCase().split(/\s+/);
+          const queryTokens = query.toLowerCase().replace(/\./g, '').split(/\s+/);
 
           const matches = card => {
+
             const cardFullName = card.id.concat(' ', card.cardRarity,
-             ' ', card.cardGroup, ' ', card.group, ' ', card.name, ' ', 
+             ' ', card.cardGroup, ' ', card.group.replace(/\./g, ''), ' ', card.name.replace(/\./g, ''), ' ', 
              card.category, ' ', card.keyword)
             
             //Normalise the card name
@@ -135,7 +136,7 @@
 
 {#if !query}
   <h3>Browse cards below, or search for your favourite! <br/>
-      <strong>Note: the search term has to be an exact match.</strong> 
+      <strong>Note: the search term has to be an exact match with some exceptions.</strong> 
   </h3>
 {/if}
 
