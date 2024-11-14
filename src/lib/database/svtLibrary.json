@@ -213,7 +213,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032242/osvsc_ordinary_seventeen_s.coups_xr5o9p.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "o2svsc",
@@ -225,7 +225,7 @@
     "rarity": "Common",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032226/o2svsc_ordinary_seventeen_s.coups_xlnxaj.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "osvsk",
@@ -585,7 +585,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032380/usvsc_unordinary_seventeen_s.coups_d4s0zc.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "u2svsc",
@@ -597,7 +597,7 @@
     "rarity": "Rare Secret",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032349/u2svsc_unordinary_seventeen_s.coups_zvmjte.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "usvsk",
@@ -957,7 +957,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032280/rsvsc_rare_seventeen_s.coups_spy7hi.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "r2svsc",
@@ -969,7 +969,7 @@
     "rarity": "Rare Holo",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032264/r2svsc_rare_seventeen_s.coups_p4cowy.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "rsvsk",
@@ -1329,7 +1329,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032328/ssvsc_special_seventeen_s.coups_dgktfl.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "s2svsc",
@@ -1341,7 +1341,7 @@
     "rarity": "Rare Holo Cosmos",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032304/s2svsc_special_seventeen_s.coups_oq5naj.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "ssvsk",
@@ -1701,7 +1701,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032213/esvsc_extraordinary_seventeen_s.coups_coxsto.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "e2svsc",
@@ -1713,7 +1713,7 @@
     "rarity": "Radiant Rare",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1730032201/e2svsc_extraordinary_seventeen_s.coups_yx69js.png",
     "category": "Regular",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "esvsk",
@@ -2157,7 +2157,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883258/btasco_priceless_BTA_s.coups.png",
     "category": "Event",
-    "keyword": "SVT scoups"
+    "keyword": "SVT "
   },
   {
     "id": "leoups",
@@ -2169,7 +2169,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883364/leoups_priceless_leo_s.coups.png",
     "category": "Event",
-    "keyword": "Zodiac SVT scoups"
+    "keyword": "Zodiac SVT "
   },
   {
     "id": "sarsco",
@@ -2181,7 +2181,7 @@
     "rarity": "Rare Shiny",
     "card_img": "https://res.cloudinary.com/djg9bhuwi/image/upload/v1725883470/sarsco_priceless_sardonyx_s.coups.png",
     "category": "Gemstone",
-    "keyword": "Event SVT scoups"
+    "keyword": "Event SVT "
   },
   {
     "id": "hbdtellie",
